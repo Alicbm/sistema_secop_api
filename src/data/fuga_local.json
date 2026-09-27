@@ -1,0 +1,244 @@
+{
+  "cobertura": {
+    "top_proveedores_analizados": 600,
+    "valor_top_proveedores_cop": 6732779327849,
+    "pct_top_proveedores_del_total_departamento": 75.3,
+    "proveedores_con_ubicacion_identificada": 279,
+    "valor_identificado_cop": 2813373970342,
+    "pct_identificado_del_top": 41.8,
+    "pct_identificado_del_total_departamento": 31.5,
+    "valor_no_identificable_cop": 3919405357507
+  },
+  "resumen": {
+    "valor_magdalena_cop": 1725365884119,
+    "pct_magdalena_de_identificado": 61.3,
+    "valor_fuera_cop": 1088008086223,
+    "pct_fuera_de_identificado": 38.7,
+    "n_proveedores_magdalena": 166,
+    "n_proveedores_fuera": 113
+  },
+  "destinos_fuera": [
+    {
+      "departamento": "Atlántico",
+      "valor_cop": 545009769119,
+      "pct_de_fuga": 50.1
+    },
+    {
+      "departamento": "Bogotá D.C.",
+      "valor_cop": 258963482623,
+      "pct_de_fuga": 23.8
+    },
+    {
+      "departamento": "Cesar",
+      "valor_cop": 65031864040,
+      "pct_de_fuga": 6.0
+    },
+    {
+      "departamento": "Antioquia",
+      "valor_cop": 45878714483,
+      "pct_de_fuga": 4.2
+    },
+    {
+      "departamento": "La Guajira",
+      "valor_cop": 27577096009,
+      "pct_de_fuga": 2.5
+    },
+    {
+      "departamento": "Santander",
+      "valor_cop": 27455064133,
+      "pct_de_fuga": 2.5
+    },
+    {
+      "departamento": "Sucre",
+      "valor_cop": 26196465227,
+      "pct_de_fuga": 2.4
+    },
+    {
+      "departamento": "Córdoba",
+      "valor_cop": 23898104265,
+      "pct_de_fuga": 2.2
+    },
+    {
+      "departamento": "Bolívar",
+      "valor_cop": 21181879078,
+      "pct_de_fuga": 1.9
+    },
+    {
+      "departamento": "Risaralda",
+      "valor_cop": 13887822280,
+      "pct_de_fuga": 1.3
+    },
+    {
+      "departamento": "Norte de Santander",
+      "valor_cop": 13403998495,
+      "pct_de_fuga": 1.2
+    },
+    {
+      "departamento": "Valle del Cauca",
+      "valor_cop": 11386789432,
+      "pct_de_fuga": 1.0
+    },
+    {
+      "departamento": "Vichada",
+      "valor_cop": 4144939840,
+      "pct_de_fuga": 0.4
+    },
+    {
+      "departamento": "Cauca",
+      "valor_cop": 3992097199,
+      "pct_de_fuga": 0.4
+    }
+  ],
+  "top_proveedores_fuera": [
+    {
+      "proveedor": "SERVICIOS INTEGRADOS NP SAS",
+      "departamento": "Atlántico",
+      "municipio": "Barranquilla",
+      "valor_cop": 120189847434
+    },
+    {
+      "proveedor": "TICOM S.A.",
+      "departamento": "Atlántico",
+      "municipio": "Barranquilla",
+      "valor_cop": 45590036306
+    },
+    {
+      "proveedor": "constructora fg s.a.s",
+      "departamento": "Atlántico",
+      "municipio": "Barranquilla",
+      "valor_cop": 42366175972
+    },
+    {
+      "proveedor": "Fundación CEDESOCIAL",
+      "departamento": "Atlántico",
+      "municipio": "Barranquilla",
+      "valor_cop": 39561086189
+    },
+    {
+      "proveedor": "Universidad Nacional Abierta y a Distancia+",
+      "departamento": "Bogotá D.C.",
+      "municipio": "Bogotá",
+      "valor_cop": 33125928614
+    },
+    {
+      "proveedor": "Fundación de Educación Superior San José",
+      "departamento": "Bogotá D.C.",
+      "municipio": "Bogotá",
+      "valor_cop": 26285942043
+    },
+    {
+      "proveedor": "No Definido",
+      "departamento": "Antioquia",
+      "municipio": "Itagui",
+      "valor_cop": 26217000397
+    },
+    {
+      "proveedor": "FUNDACION SOCIAL FORMACION AL FUTURO",
+      "departamento": "Atlántico",
+      "municipio": "—",
+      "valor_cop": 25190345563
+    },
+    {
+      "proveedor": "FUNDACION MULTIACTIVA AHINCO ONG",
+      "departamento": "Atlántico",
+      "municipio": "—",
+      "valor_cop": 20412532392
+    },
+    {
+      "proveedor": "Comprolab S.A.S",
+      "departamento": "Bogotá D.C.",
+      "municipio": "Bogotá",
+      "valor_cop": 19697370248
+    },
+    {
+      "proveedor": "ASOCIACION COMUNITARIA PROYECTAR DE LA COSTA SONRISA DE LOS NIÑOS",
+      "departamento": "Atlántico",
+      "municipio": "Barranquilla",
+      "valor_cop": 17963003482
+    },
+    {
+      "proveedor": "RENATA",
+      "departamento": "Bogotá D.C.",
+      "municipio": "—",
+      "valor_cop": 17600000000
+    },
+    {
+      "proveedor": "INTEGRAL DE ASEO DEL CARIBE S.A.S",
+      "departamento": "Atlántico",
+      "municipio": "Barranquilla",
+      "valor_cop": 17362976641
+    },
+    {
+      "proveedor": "SERVICONI LTDA",
+      "departamento": "Atlántico",
+      "municipio": "—",
+      "valor_cop": 16836636224
+    },
+    {
+      "proveedor": "UNIVERSIDAD DISTRITAL FRANCISCO JOSE DE CALDAS",
+      "departamento": "Bogotá D.C.",
+      "municipio": "—",
+      "valor_cop": 16631822776
+    },
+    {
+      "proveedor": "FUNDACION CARULLA AEIOTU",
+      "departamento": "Bogotá D.C.",
+      "municipio": "Bogotá",
+      "valor_cop": 15353376117
+    },
+    {
+      "proveedor": "MEDQUIRURGICOS",
+      "departamento": "Atlántico",
+      "municipio": "Barranquilla",
+      "valor_cop": 15055191844
+    },
+    {
+      "proveedor": "DETECCION SEGURIDAD PRIVADA LIMITADA",
+      "departamento": "Bogotá D.C.",
+      "municipio": "Bogotá",
+      "valor_cop": 13966326644
+    },
+    {
+      "proveedor": "FUNDESOLPAZ",
+      "departamento": "Atlántico",
+      "municipio": "Barranquilla",
+      "valor_cop": 13580897891
+    },
+    {
+      "proveedor": "NEOMUNDO",
+      "departamento": "Santander",
+      "municipio": "Bucaramanga",
+      "valor_cop": 13481002502
+    },
+    {
+      "proveedor": "FERVI",
+      "departamento": "Sucre",
+      "municipio": "San Marcos",
+      "valor_cop": 13261514554
+    },
+    {
+      "proveedor": "FUNDACION ASESORIA CONSULTORIA E INVESTIGACIONES PARA EL  DESARROLLO SOCIAL",
+      "departamento": "Atlántico",
+      "municipio": "Barranquilla",
+      "valor_cop": 12178381440
+    },
+    {
+      "proveedor": "GLOBALBUSINESS IMPORTACIONES Y SUMINISTROS S.A.S",
+      "departamento": "Cesar",
+      "municipio": "Valledupar",
+      "valor_cop": 12097872017
+    },
+    {
+      "proveedor": "7M GROUP SA",
+      "departamento": "Bogotá D.C.",
+      "municipio": "—",
+      "valor_cop": 11998671927
+    },
+    {
+      "proveedor": "Empresa de Recursos Tecnologicos del Valle",
+      "departamento": "Valle del Cauca",
+      "municipio": "Cali",
+      "valor_cop": 11386789432
+    }
+  ]
+}

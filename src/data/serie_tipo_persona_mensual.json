@@ -1,0 +1,650 @@
+[
+  {
+    "mes": "2020-01",
+    "n_natural": 185,
+    "valor_natural_cop": 6346822035,
+    "n_juridica": 5,
+    "valor_juridica_cop": 221825027,
+    "pct_valor_natural": 96.6
+  },
+  {
+    "mes": "2020-02",
+    "n_natural": 352,
+    "valor_natural_cop": 10311096064,
+    "n_juridica": 54,
+    "valor_juridica_cop": 112475520842,
+    "pct_valor_natural": 8.4
+  },
+  {
+    "mes": "2020-03",
+    "n_natural": 102,
+    "valor_natural_cop": 2186465524,
+    "n_juridica": 62,
+    "valor_juridica_cop": 75050071828,
+    "pct_valor_natural": 2.8
+  },
+  {
+    "mes": "2020-04",
+    "n_natural": 27,
+    "valor_natural_cop": 438281491,
+    "n_juridica": 50,
+    "valor_juridica_cop": 48847591279,
+    "pct_valor_natural": 0.9
+  },
+  {
+    "mes": "2020-05",
+    "n_natural": 53,
+    "valor_natural_cop": 751428231,
+    "n_juridica": 31,
+    "valor_juridica_cop": 18440056554,
+    "pct_valor_natural": 3.9
+  },
+  {
+    "mes": "2020-06",
+    "n_natural": 107,
+    "valor_natural_cop": 1540529078,
+    "n_juridica": 35,
+    "valor_juridica_cop": 4302565912,
+    "pct_valor_natural": 26.4
+  },
+  {
+    "mes": "2020-07",
+    "n_natural": 202,
+    "valor_natural_cop": 2905642255,
+    "n_juridica": 38,
+    "valor_juridica_cop": 7643081380,
+    "pct_valor_natural": 27.5
+  },
+  {
+    "mes": "2020-08",
+    "n_natural": 254,
+    "valor_natural_cop": 4220586929,
+    "n_juridica": 50,
+    "valor_juridica_cop": 16666699124,
+    "pct_valor_natural": 20.2
+  },
+  {
+    "mes": "2020-09",
+    "n_natural": 267,
+    "valor_natural_cop": 3362762926,
+    "n_juridica": 42,
+    "valor_juridica_cop": 24241518854,
+    "pct_valor_natural": 12.2
+  },
+  {
+    "mes": "2020-10",
+    "n_natural": 455,
+    "valor_natural_cop": 5005976210,
+    "n_juridica": 41,
+    "valor_juridica_cop": 16207869018,
+    "pct_valor_natural": 23.6
+  },
+  {
+    "mes": "2020-11",
+    "n_natural": 404,
+    "valor_natural_cop": 2922544523,
+    "n_juridica": 59,
+    "valor_juridica_cop": 18805314976,
+    "pct_valor_natural": 13.5
+  },
+  {
+    "mes": "2020-12",
+    "n_natural": 264,
+    "valor_natural_cop": 22781735498,
+    "n_juridica": 183,
+    "valor_juridica_cop": 210072557550,
+    "pct_valor_natural": 9.8
+  },
+  {
+    "mes": "2021-01",
+    "n_natural": 469,
+    "valor_natural_cop": 10299536618,
+    "n_juridica": 17,
+    "valor_juridica_cop": 1571927182,
+    "pct_valor_natural": 86.8
+  },
+  {
+    "mes": "2021-02",
+    "n_natural": 566,
+    "valor_natural_cop": 11425257131,
+    "n_juridica": 60,
+    "valor_juridica_cop": 119667255932,
+    "pct_valor_natural": 8.7
+  },
+  {
+    "mes": "2021-03",
+    "n_natural": 499,
+    "valor_natural_cop": 11391304252,
+    "n_juridica": 56,
+    "valor_juridica_cop": 78759247743,
+    "pct_valor_natural": 12.6
+  },
+  {
+    "mes": "2021-04",
+    "n_natural": 406,
+    "valor_natural_cop": 5535614051,
+    "n_juridica": 44,
+    "valor_juridica_cop": 9570906276,
+    "pct_valor_natural": 36.6
+  },
+  {
+    "mes": "2021-05",
+    "n_natural": 451,
+    "valor_natural_cop": 5902168306,
+    "n_juridica": 51,
+    "valor_juridica_cop": 26953453462,
+    "pct_valor_natural": 18.0
+  },
+  {
+    "mes": "2021-06",
+    "n_natural": 218,
+    "valor_natural_cop": 3297935204,
+    "n_juridica": 55,
+    "valor_juridica_cop": 40885327784,
+    "pct_valor_natural": 7.5
+  },
+  {
+    "mes": "2021-07",
+    "n_natural": 402,
+    "valor_natural_cop": 5009170631,
+    "n_juridica": 70,
+    "valor_juridica_cop": 45349273287,
+    "pct_valor_natural": 9.9
+  },
+  {
+    "mes": "2021-08",
+    "n_natural": 600,
+    "valor_natural_cop": 9147668755,
+    "n_juridica": 96,
+    "valor_juridica_cop": 36007044741,
+    "pct_valor_natural": 20.3
+  },
+  {
+    "mes": "2021-09",
+    "n_natural": 646,
+    "valor_natural_cop": 10619798320,
+    "n_juridica": 120,
+    "valor_juridica_cop": 34399207884,
+    "pct_valor_natural": 23.6
+  },
+  {
+    "mes": "2021-10",
+    "n_natural": 454,
+    "valor_natural_cop": 4793380608,
+    "n_juridica": 109,
+    "valor_juridica_cop": 31283878853,
+    "pct_valor_natural": 13.3
+  },
+  {
+    "mes": "2021-11",
+    "n_natural": 321,
+    "valor_natural_cop": 3549498615,
+    "n_juridica": 125,
+    "valor_juridica_cop": 86917106433,
+    "pct_valor_natural": 3.9
+  },
+  {
+    "mes": "2021-12",
+    "n_natural": 270,
+    "valor_natural_cop": 3134383736,
+    "n_juridica": 123,
+    "valor_juridica_cop": 22312313918,
+    "pct_valor_natural": 12.3
+  },
+  {
+    "mes": "2022-01",
+    "n_natural": 2281,
+    "valor_natural_cop": 55751910383,
+    "n_juridica": 141,
+    "valor_juridica_cop": 39715761690,
+    "pct_valor_natural": 58.4
+  },
+  {
+    "mes": "2022-02",
+    "n_natural": 722,
+    "valor_natural_cop": 15509069314,
+    "n_juridica": 50,
+    "valor_juridica_cop": 16277042375,
+    "pct_valor_natural": 48.8
+  },
+  {
+    "mes": "2022-03",
+    "n_natural": 5,
+    "valor_natural_cop": 171373500,
+    "n_juridica": 59,
+    "valor_juridica_cop": 79949836034,
+    "pct_valor_natural": 0.2
+  },
+  {
+    "mes": "2022-04",
+    "n_natural": 9,
+    "valor_natural_cop": 12583966122,
+    "n_juridica": 41,
+    "valor_juridica_cop": 22503720887,
+    "pct_valor_natural": 35.9
+  },
+  {
+    "mes": "2022-05",
+    "n_natural": 9,
+    "valor_natural_cop": 575677068,
+    "n_juridica": 55,
+    "valor_juridica_cop": 14243813621,
+    "pct_valor_natural": 3.9
+  },
+  {
+    "mes": "2022-06",
+    "n_natural": 11,
+    "valor_natural_cop": 328970049,
+    "n_juridica": 94,
+    "valor_juridica_cop": 94920695292,
+    "pct_valor_natural": 0.3
+  },
+  {
+    "mes": "2022-07",
+    "n_natural": 370,
+    "valor_natural_cop": 6219960229,
+    "n_juridica": 67,
+    "valor_juridica_cop": 41690795908,
+    "pct_valor_natural": 13.0
+  },
+  {
+    "mes": "2022-08",
+    "n_natural": 1985,
+    "valor_natural_cop": 29175380343,
+    "n_juridica": 116,
+    "valor_juridica_cop": 51704847404,
+    "pct_valor_natural": 36.1
+  },
+  {
+    "mes": "2022-09",
+    "n_natural": 888,
+    "valor_natural_cop": 10153102654,
+    "n_juridica": 120,
+    "valor_juridica_cop": 63115919381,
+    "pct_valor_natural": 13.9
+  },
+  {
+    "mes": "2022-10",
+    "n_natural": 805,
+    "valor_natural_cop": 7317977284,
+    "n_juridica": 116,
+    "valor_juridica_cop": 83078186970,
+    "pct_valor_natural": 8.1
+  },
+  {
+    "mes": "2022-11",
+    "n_natural": 696,
+    "valor_natural_cop": 4529491014,
+    "n_juridica": 142,
+    "valor_juridica_cop": 99373684509,
+    "pct_valor_natural": 4.4
+  },
+  {
+    "mes": "2022-12",
+    "n_natural": 370,
+    "valor_natural_cop": 5192248995,
+    "n_juridica": 269,
+    "valor_juridica_cop": 215558153874,
+    "pct_valor_natural": 2.4
+  },
+  {
+    "mes": "2023-01",
+    "n_natural": 1668,
+    "valor_natural_cop": 21361359736,
+    "n_juridica": 75,
+    "valor_juridica_cop": 27117458748,
+    "pct_valor_natural": 44.1
+  },
+  {
+    "mes": "2023-02",
+    "n_natural": 1445,
+    "valor_natural_cop": 33293295855,
+    "n_juridica": 127,
+    "valor_juridica_cop": 223446750204,
+    "pct_valor_natural": 13.0
+  },
+  {
+    "mes": "2023-03",
+    "n_natural": 1846,
+    "valor_natural_cop": 26325382499,
+    "n_juridica": 150,
+    "valor_juridica_cop": 147349903896,
+    "pct_valor_natural": 15.2
+  },
+  {
+    "mes": "2023-04",
+    "n_natural": 600,
+    "valor_natural_cop": 14182787866,
+    "n_juridica": 87,
+    "valor_juridica_cop": 61897182145,
+    "pct_valor_natural": 18.6
+  },
+  {
+    "mes": "2023-05",
+    "n_natural": 260,
+    "valor_natural_cop": 4317726118,
+    "n_juridica": 116,
+    "valor_juridica_cop": 152311380606,
+    "pct_valor_natural": 2.8
+  },
+  {
+    "mes": "2023-06",
+    "n_natural": 914,
+    "valor_natural_cop": 17141945616,
+    "n_juridica": 228,
+    "valor_juridica_cop": 152542485677,
+    "pct_valor_natural": 10.1
+  },
+  {
+    "mes": "2023-07",
+    "n_natural": 1727,
+    "valor_natural_cop": 16565658046,
+    "n_juridica": 119,
+    "valor_juridica_cop": 63677279184,
+    "pct_valor_natural": 20.6
+  },
+  {
+    "mes": "2023-08",
+    "n_natural": 735,
+    "valor_natural_cop": 10614688198,
+    "n_juridica": 116,
+    "valor_juridica_cop": 122358864526,
+    "pct_valor_natural": 8.0
+  },
+  {
+    "mes": "2023-09",
+    "n_natural": 535,
+    "valor_natural_cop": 5196314398,
+    "n_juridica": 111,
+    "valor_juridica_cop": 57827984977,
+    "pct_valor_natural": 8.2
+  },
+  {
+    "mes": "2023-10",
+    "n_natural": 1399,
+    "valor_natural_cop": 12016482108,
+    "n_juridica": 145,
+    "valor_juridica_cop": 92367542504,
+    "pct_valor_natural": 11.5
+  },
+  {
+    "mes": "2023-11",
+    "n_natural": 1891,
+    "valor_natural_cop": 14494131772,
+    "n_juridica": 158,
+    "valor_juridica_cop": 102495182010,
+    "pct_valor_natural": 12.4
+  },
+  {
+    "mes": "2023-12",
+    "n_natural": 743,
+    "valor_natural_cop": 4577543588,
+    "n_juridica": 241,
+    "valor_juridica_cop": 155386665363,
+    "pct_valor_natural": 2.9
+  },
+  {
+    "mes": "2024-01",
+    "n_natural": 1848,
+    "valor_natural_cop": 22036144263,
+    "n_juridica": 82,
+    "valor_juridica_cop": 54889597016,
+    "pct_valor_natural": 28.6
+  },
+  {
+    "mes": "2024-02",
+    "n_natural": 2294,
+    "valor_natural_cop": 30470900844,
+    "n_juridica": 148,
+    "valor_juridica_cop": 147135567182,
+    "pct_valor_natural": 17.2
+  },
+  {
+    "mes": "2024-03",
+    "n_natural": 2339,
+    "valor_natural_cop": 35564908813,
+    "n_juridica": 153,
+    "valor_juridica_cop": 94233525108,
+    "pct_valor_natural": 27.4
+  },
+  {
+    "mes": "2024-04",
+    "n_natural": 1231,
+    "valor_natural_cop": 17055053360,
+    "n_juridica": 127,
+    "valor_juridica_cop": 46914807751,
+    "pct_valor_natural": 26.7
+  },
+  {
+    "mes": "2024-05",
+    "n_natural": 852,
+    "valor_natural_cop": 8903197754,
+    "n_juridica": 202,
+    "valor_juridica_cop": 95469014307,
+    "pct_valor_natural": 8.5
+  },
+  {
+    "mes": "2024-06",
+    "n_natural": 790,
+    "valor_natural_cop": 9604856859,
+    "n_juridica": 146,
+    "valor_juridica_cop": 64300135267,
+    "pct_valor_natural": 13.0
+  },
+  {
+    "mes": "2024-07",
+    "n_natural": 1767,
+    "valor_natural_cop": 16976423864,
+    "n_juridica": 167,
+    "valor_juridica_cop": 86653035671,
+    "pct_valor_natural": 16.4
+  },
+  {
+    "mes": "2024-08",
+    "n_natural": 1656,
+    "valor_natural_cop": 18679557463,
+    "n_juridica": 198,
+    "valor_juridica_cop": 120244463042,
+    "pct_valor_natural": 13.4
+  },
+  {
+    "mes": "2024-09",
+    "n_natural": 1703,
+    "valor_natural_cop": 23851425988,
+    "n_juridica": 117,
+    "valor_juridica_cop": 33249950603,
+    "pct_valor_natural": 41.8
+  },
+  {
+    "mes": "2024-10",
+    "n_natural": 2236,
+    "valor_natural_cop": 23839147586,
+    "n_juridica": 187,
+    "valor_juridica_cop": 48937478885,
+    "pct_valor_natural": 32.8
+  },
+  {
+    "mes": "2024-11",
+    "n_natural": 1532,
+    "valor_natural_cop": 11825581555,
+    "n_juridica": 255,
+    "valor_juridica_cop": 55973993633,
+    "pct_valor_natural": 17.4
+  },
+  {
+    "mes": "2024-12",
+    "n_natural": 538,
+    "valor_natural_cop": 5150008535,
+    "n_juridica": 331,
+    "valor_juridica_cop": 329397738562,
+    "pct_valor_natural": 1.5
+  },
+  {
+    "mes": "2025-01",
+    "n_natural": 2739,
+    "valor_natural_cop": 44872583944,
+    "n_juridica": 130,
+    "valor_juridica_cop": 101445439708,
+    "pct_valor_natural": 30.7
+  },
+  {
+    "mes": "2025-02",
+    "n_natural": 1859,
+    "valor_natural_cop": 63554818988,
+    "n_juridica": 224,
+    "valor_juridica_cop": 242034756780,
+    "pct_valor_natural": 20.8
+  },
+  {
+    "mes": "2025-03",
+    "n_natural": 2353,
+    "valor_natural_cop": 26272040236,
+    "n_juridica": 148,
+    "valor_juridica_cop": 63635233643,
+    "pct_valor_natural": 29.2
+  },
+  {
+    "mes": "2025-04",
+    "n_natural": 3179,
+    "valor_natural_cop": 34405352747,
+    "n_juridica": 191,
+    "valor_juridica_cop": 243942604616,
+    "pct_valor_natural": 12.4
+  },
+  {
+    "mes": "2025-05",
+    "n_natural": 2262,
+    "valor_natural_cop": 32411835715,
+    "n_juridica": 225,
+    "valor_juridica_cop": 186383158991,
+    "pct_valor_natural": 14.8
+  },
+  {
+    "mes": "2025-06",
+    "n_natural": 1657,
+    "valor_natural_cop": 19696773297,
+    "n_juridica": 216,
+    "valor_juridica_cop": 58968915491,
+    "pct_valor_natural": 25.0
+  },
+  {
+    "mes": "2025-07",
+    "n_natural": 2259,
+    "valor_natural_cop": 23989075606,
+    "n_juridica": 238,
+    "valor_juridica_cop": 160476916026,
+    "pct_valor_natural": 13.0
+  },
+  {
+    "mes": "2025-08",
+    "n_natural": 2724,
+    "valor_natural_cop": 24808112170,
+    "n_juridica": 198,
+    "valor_juridica_cop": 66329664261,
+    "pct_valor_natural": 27.2
+  },
+  {
+    "mes": "2025-09",
+    "n_natural": 2479,
+    "valor_natural_cop": 27261602459,
+    "n_juridica": 232,
+    "valor_juridica_cop": 119744990568,
+    "pct_valor_natural": 18.5
+  },
+  {
+    "mes": "2025-10",
+    "n_natural": 3060,
+    "valor_natural_cop": 23256532038,
+    "n_juridica": 252,
+    "valor_juridica_cop": 65422867732,
+    "pct_valor_natural": 26.2
+  },
+  {
+    "mes": "2025-11",
+    "n_natural": 3277,
+    "valor_natural_cop": 19992750227,
+    "n_juridica": 202,
+    "valor_juridica_cop": 52635845681,
+    "pct_valor_natural": 27.5
+  },
+  {
+    "mes": "2025-12",
+    "n_natural": 2707,
+    "valor_natural_cop": 17764039668,
+    "n_juridica": 331,
+    "valor_juridica_cop": 273173363297,
+    "pct_valor_natural": 6.1
+  },
+  {
+    "mes": "2026-01",
+    "n_natural": 8150,
+    "valor_natural_cop": 174464189035,
+    "n_juridica": 464,
+    "valor_juridica_cop": 211175185398,
+    "pct_valor_natural": 45.2
+  },
+  {
+    "mes": "2026-02",
+    "n_natural": 2165,
+    "valor_natural_cop": 27545424977,
+    "n_juridica": 139,
+    "valor_juridica_cop": 65568207958,
+    "pct_valor_natural": 29.6
+  },
+  {
+    "mes": "2026-03",
+    "n_natural": 1474,
+    "valor_natural_cop": 15216015269,
+    "n_juridica": 171,
+    "valor_juridica_cop": 44701236986,
+    "pct_valor_natural": 25.4
+  },
+  {
+    "mes": "2026-04",
+    "n_natural": 845,
+    "valor_natural_cop": 5868105522,
+    "n_juridica": 177,
+    "valor_juridica_cop": 71819531766,
+    "pct_valor_natural": 7.6
+  },
+  {
+    "mes": "2026-05",
+    "n_natural": 1779,
+    "valor_natural_cop": 26927544008,
+    "n_juridica": 161,
+    "valor_juridica_cop": 86590379853,
+    "pct_valor_natural": 23.7
+  },
+  {
+    "mes": "2026-06",
+    "n_natural": 1964,
+    "valor_natural_cop": 15959570336,
+    "n_juridica": 185,
+    "valor_juridica_cop": 47534934852,
+    "pct_valor_natural": 25.1
+  },
+  {
+    "mes": "2026-07",
+    "n_natural": 2511,
+    "valor_natural_cop": 22220064007,
+    "n_juridica": 258,
+    "valor_juridica_cop": 183948634398,
+    "pct_valor_natural": 10.8
+  },
+  {
+    "mes": "2026-08",
+    "n_natural": 2753,
+    "valor_natural_cop": 27139755634,
+    "n_juridica": 279,
+    "valor_juridica_cop": 130079985679,
+    "pct_valor_natural": 17.3
+  },
+  {
+    "mes": "2026-09",
+    "n_natural": 2181,
+    "valor_natural_cop": 20856530389,
+    "n_juridica": 175,
+    "valor_juridica_cop": 64010077738,
+    "pct_valor_natural": 24.6
+  }
+]

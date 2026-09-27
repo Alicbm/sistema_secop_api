@@ -1,0 +1,92 @@
+[
+  {
+    "tipo": "Otro",
+    "n_contratos": 2586,
+    "valor_cop": 3175842485634
+  },
+  {
+    "tipo": "Prestación de servicios",
+    "n_contratos": 90142,
+    "valor_cop": 2473138679858
+  },
+  {
+    "tipo": "Obra",
+    "n_contratos": 705,
+    "valor_cop": 1420399333633
+  },
+  {
+    "tipo": "Decreto 092 de 2017",
+    "n_contratos": 21669,
+    "valor_cop": 663269177380
+  },
+  {
+    "tipo": "Suministros",
+    "n_contratos": 1960,
+    "valor_cop": 654071956786
+  },
+  {
+    "tipo": "Compraventa",
+    "n_contratos": 987,
+    "valor_cop": 211945038387
+  },
+  {
+    "tipo": "Interventoría",
+    "n_contratos": 87,
+    "valor_cop": 115792050667
+  },
+  {
+    "tipo": "Arrendamiento de inmuebles",
+    "n_contratos": 659,
+    "valor_cop": 79287788334
+  },
+  {
+    "tipo": "Operaciones de Crédito Público",
+    "n_contratos": 4,
+    "valor_cop": 58032000000
+  },
+  {
+    "tipo": "Consultoría",
+    "n_contratos": 36,
+    "valor_cop": 46978550614
+  },
+  {
+    "tipo": "Concesión",
+    "n_contratos": 4,
+    "valor_cop": 19553395999
+  },
+  {
+    "tipo": "Asociación Público Privada",
+    "n_contratos": 13,
+    "valor_cop": 9654604444
+  },
+  {
+    "tipo": "Arrendamiento de muebles",
+    "n_contratos": 104,
+    "valor_cop": 6827837679
+  },
+  {
+    "tipo": "Seguros",
+    "n_contratos": 153,
+    "valor_cop": 5471925381
+  },
+  {
+    "tipo": "Servicios financieros",
+    "n_contratos": 70,
+    "valor_cop": 2437568015
+  },
+  {
+    "tipo": "Comodato",
+    "n_contratos": 3,
+    "valor_cop": 804032000
+  },
+  {
+    "tipo": "Negocio fiduciario",
+    "n_contratos": 2,
+    "valor_cop": 128814817
+  },
+  {
+    "tipo": "No Especificado",
+    "n_contratos": 5,
+    "valor_cop": 85200000
+  }
+]

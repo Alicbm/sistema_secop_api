@@ -1,0 +1,4221 @@
+{
+  "nodes": [
+    {
+      "id": "E::GOBERNACION DEL MAGDALENA",
+      "tipo": "entidad",
+      "nombre": "GOBERNACION DEL MAGDALENA",
+      "valor_total_cop": 1714246226737,
+      "n_contratos": 405
+    },
+    {
+      "id": "E::ALCALDÍA DISTRITAL DE SANTA MARTA",
+      "tipo": "entidad",
+      "nombre": "ALCALDÍA DISTRITAL DE SANTA MARTA",
+      "valor_total_cop": 1223055919523,
+      "n_contratos": 264
+    },
+    {
+      "id": "E::Empresa Distrital de Desarrollo y Renovación Urbano Sostenible de Santa Marta- EDUS",
+      "tipo": "entidad",
+      "nombre": "Empresa Distrital de Desarrollo y Renovación Urbano Sostenible de Santa Marta- EDUS",
+      "valor_total_cop": 316218090430,
+      "n_contratos": 55
+    },
+    {
+      "id": "E::ICBF REGIONAL MAGDALENA",
+      "tipo": "entidad",
+      "nombre": "ICBF REGIONAL MAGDALENA",
+      "valor_total_cop": 1675076763882,
+      "n_contratos": 908
+    },
+    {
+      "id": "E::SISTEMA ESTRATEGICO DE TRANSPORTE PUBLICO DE SANTA MARTA S.A.S.",
+      "tipo": "entidad",
+      "nombre": "SISTEMA ESTRATEGICO DE TRANSPORTE PUBLICO DE SANTA MARTA S.A.S.",
+      "valor_total_cop": 207517134757,
+      "n_contratos": 12
+    },
+    {
+      "id": "E::CORPORACION AUTONOMA REGIONAL DEL MAGDALENA",
+      "tipo": "entidad",
+      "nombre": "CORPORACION AUTONOMA REGIONAL DEL MAGDALENA",
+      "valor_total_cop": 117731845457,
+      "n_contratos": 16
+    },
+    {
+      "id": "E::ESE HOSPITAL UNIVERSITARIO JULIO MENDEZ BARRENECHE",
+      "tipo": "entidad",
+      "nombre": "ESE HOSPITAL UNIVERSITARIO JULIO MENDEZ BARRENECHE",
+      "valor_total_cop": 131164991913,
+      "n_contratos": 223
+    },
+    {
+      "id": "E::SERVICIO NACIONAL DE APRENDIZAJE - SENA MAGDALENA",
+      "tipo": "entidad",
+      "nombre": "SERVICIO NACIONAL DE APRENDIZAJE - SENA MAGDALENA",
+      "valor_total_cop": 77643902963,
+      "n_contratos": 154
+    },
+    {
+      "id": "E::ALCALDIA MUNICIPIO DE SITIONUEVO",
+      "tipo": "entidad",
+      "nombre": "ALCALDIA MUNICIPIO DE SITIONUEVO",
+      "valor_total_cop": 36409614844,
+      "n_contratos": 14
+    },
+    {
+      "id": "E::ESSMAR E.S.P.",
+      "tipo": "entidad",
+      "nombre": "ESSMAR E.S.P.",
+      "valor_total_cop": 36719063770,
+      "n_contratos": 7
+    },
+    {
+      "id": "E::ALCALDIA MUNICIPAL DE FUNDACION",
+      "tipo": "entidad",
+      "nombre": "ALCALDIA MUNICIPAL DE FUNDACION",
+      "valor_total_cop": 42613819252,
+      "n_contratos": 20
+    },
+    {
+      "id": "E::DEPARTAMENTO ADMINISTRATIVO DISTRITAL DE SOSTENIBILIDAD AMBIENTAL DADSA*",
+      "tipo": "entidad",
+      "nombre": "DEPARTAMENTO ADMINISTRATIVO DISTRITAL DE SOSTENIBILIDAD AMBIENTAL DADSA*",
+      "valor_total_cop": 20020000000,
+      "n_contratos": 2
+    },
+    {
+      "id": "E::Rama Judicial – Dirección Seccional de Administración Judicial de Santa Marta",
+      "tipo": "entidad",
+      "nombre": "Rama Judicial – Dirección Seccional de Administración Judicial de Santa Marta",
+      "valor_total_cop": 46970604891,
+      "n_contratos": 38
+    },
+    {
+      "id": "E::MUNICIPIO DE PLATO",
+      "tipo": "entidad",
+      "nombre": "MUNICIPIO DE PLATO",
+      "valor_total_cop": 10528229247,
+      "n_contratos": 1
+    },
+    {
+      "id": "E::ALCALDIA DE CIENAGA MAGDALENA",
+      "tipo": "entidad",
+      "nombre": "ALCALDIA DE CIENAGA MAGDALENA",
+      "valor_total_cop": 9261946604,
+      "n_contratos": 1
+    },
+    {
+      "id": "E::ESE HOSPITAL DEPARTAMENTAL SAN RAFAEL",
+      "tipo": "entidad",
+      "nombre": "ESE HOSPITAL DEPARTAMENTAL SAN RAFAEL",
+      "valor_total_cop": 9034252194,
+      "n_contratos": 24
+    },
+    {
+      "id": "E::INSTITUTO DISTRITAL DE SANTA MARTA PARA LA RECREACIÓN Y EL DEPORTE",
+      "tipo": "entidad",
+      "nombre": "INSTITUTO DISTRITAL DE SANTA MARTA PARA LA RECREACIÓN Y EL DEPORTE",
+      "valor_total_cop": 8525670000,
+      "n_contratos": 4
+    },
+    {
+      "id": "E::ALEJANDRO PROSPERO REVEREND E.S.E.",
+      "tipo": "entidad",
+      "nombre": "ALEJANDRO PROSPERO REVEREND E.S.E.",
+      "valor_total_cop": 12813838703,
+      "n_contratos": 11
+    },
+    {
+      "id": "E::INSTITUTO DEPARTAMENTAL DE DEPORTES DEL MAGDALENA",
+      "tipo": "entidad",
+      "nombre": "INSTITUTO DEPARTAMENTAL DE DEPORTES DEL MAGDALENA",
+      "valor_total_cop": 7262283710,
+      "n_contratos": 1
+    },
+    {
+      "id": "E::INSTITUTO DISTRITAL DE TURISMO DE SANTA MARTA",
+      "tipo": "entidad",
+      "nombre": "INSTITUTO DISTRITAL DE TURISMO DE SANTA MARTA",
+      "valor_total_cop": 6127043740,
+      "n_contratos": 2
+    },
+    {
+      "id": "P::No Definido::UT PROSABANAS",
+      "tipo": "proveedor",
+      "nombre": "UT PROSABANAS",
+      "es_persona_natural": false,
+      "valor_total_cop": 448751745261,
+      "n_contratos": 80
+    },
+    {
+      "id": "P::901128252::Empresa Distrital de Desarrollo y Renovación Urbano Sostenible de Santa Marta- EDUS",
+      "tipo": "proveedor",
+      "nombre": "Empresa Distrital de Desarrollo y Renovación Urbano Sostenible de Santa Marta- EDUS",
+      "es_persona_natural": false,
+      "valor_total_cop": 267353032603,
+      "n_contratos": 32
+    },
+    {
+      "id": "P::No Definido::UT OPERADOR CATASTRO MULTIPROPOSITO 2024",
+      "tipo": "proveedor",
+      "nombre": "UT OPERADOR CATASTRO MULTIPROPOSITO 2024",
+      "es_persona_natural": false,
+      "valor_total_cop": 239586534211,
+      "n_contratos": 37
+    },
+    {
+      "id": "P::No Definido::UT PARQUES GALAPA 2023",
+      "tipo": "proveedor",
+      "nombre": "UT PARQUES GALAPA 2023",
+      "es_persona_natural": false,
+      "valor_total_cop": 174237805604,
+      "n_contratos": 39
+    },
+    {
+      "id": "P::800233445::ASOTRACP",
+      "tipo": "proveedor",
+      "nombre": "ASOTRACP",
+      "es_persona_natural": false,
+      "valor_total_cop": 108844609660,
+      "n_contratos": 32
+    },
+    {
+      "id": "P::No Definido::UNIÓN TEMPORAL RECAUDO TPC SANTA MARTA",
+      "tipo": "proveedor",
+      "nombre": "UNIÓN TEMPORAL RECAUDO TPC SANTA MARTA",
+      "es_persona_natural": false,
+      "valor_total_cop": 94810733389,
+      "n_contratos": 9
+    },
+    {
+      "id": "P::900330248::SERVICIOS INTEGRADOS NP SAS",
+      "tipo": "proveedor",
+      "nombre": "SERVICIOS INTEGRADOS NP SAS",
+      "es_persona_natural": false,
+      "valor_total_cop": 118250938643,
+      "n_contratos": 41
+    },
+    {
+      "id": "P::902028101::UNION TEMPORAL NUTRIVIDA",
+      "tipo": "proveedor",
+      "nombre": "UNION TEMPORAL NUTRIVIDA",
+      "es_persona_natural": false,
+      "valor_total_cop": 92769808000,
+      "n_contratos": 2
+    },
+    {
+      "id": "P::819004113::CORPORACION COMUNITARIA PARA EL DESARROLLO DE LAS FAMILIAS Y COMUNIDADES DEL MAGDALENA",
+      "tipo": "proveedor",
+      "nombre": "CORPORACION COMUNITARIA PARA EL DESARROLLO DE LAS FAMILIAS Y COMUNIDADES DEL MAGDALENA",
+      "es_persona_natural": false,
+      "valor_total_cop": 69676122675,
+      "n_contratos": 24
+    },
+    {
+      "id": "P::8190063461::FUNDACION ESPERANZA VERDE DE LOS NIÑOS EVENI",
+      "tipo": "proveedor",
+      "nombre": "FUNDACION ESPERANZA VERDE DE LOS NIÑOS EVENI",
+      "es_persona_natural": false,
+      "valor_total_cop": 66555581413,
+      "n_contratos": 18
+    },
+    {
+      "id": "P::900139836::CORPORACION COMUNITARIA COCRECER",
+      "tipo": "proveedor",
+      "nombre": "CORPORACION COMUNITARIA COCRECER",
+      "es_persona_natural": false,
+      "valor_total_cop": 57559862789,
+      "n_contratos": 20
+    },
+    {
+      "id": "P::9006281103::BANCO SANTANDER DE NEGOCIOS COLOMBIA SA",
+      "tipo": "proveedor",
+      "nombre": "BANCO SANTANDER DE NEGOCIOS COLOMBIA SA",
+      "es_persona_natural": false,
+      "valor_total_cop": 90000000000,
+      "n_contratos": 2
+    },
+    {
+      "id": "P::819005824::CORPORACIÓN REGIONAL DE DESARROLLO SOL CARIBE",
+      "tipo": "proveedor",
+      "nombre": "CORPORACIÓN REGIONAL DE DESARROLLO SOL CARIBE",
+      "es_persona_natural": false,
+      "valor_total_cop": 49085749231,
+      "n_contratos": 13
+    },
+    {
+      "id": "P::900425101::FUNDACION PARA EL DESARROLLO DE LAS FAMILIAS",
+      "tipo": "proveedor",
+      "nombre": "FUNDACION PARA EL DESARROLLO DE LAS FAMILIAS",
+      "es_persona_natural": false,
+      "valor_total_cop": 48956697330,
+      "n_contratos": 12
+    },
+    {
+      "id": "P::9019360195::CONSORCIO CENTRO CAMBIA",
+      "tipo": "proveedor",
+      "nombre": "CONSORCIO CENTRO CAMBIA",
+      "es_persona_natural": false,
+      "valor_total_cop": 47141895728,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::901433145::INTERVENTORES E INGENIERIA SAS",
+      "tipo": "proveedor",
+      "nombre": "INTERVENTORES E INGENIERIA SAS",
+      "es_persona_natural": false,
+      "valor_total_cop": 47022893792,
+      "n_contratos": 2
+    },
+    {
+      "id": "P::901789879::UNION TEMPORAL TSAMPA",
+      "tipo": "proveedor",
+      "nombre": "UNION TEMPORAL TSAMPA",
+      "es_persona_natural": false,
+      "valor_total_cop": 46085052000,
+      "n_contratos": 2
+    },
+    {
+      "id": "P::901708201::CONSORCIO COLECTORES FGP",
+      "tipo": "proveedor",
+      "nombre": "CONSORCIO COLECTORES FGP",
+      "es_persona_natural": false,
+      "valor_total_cop": 44552917156,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::800209530::constructora fg s.a.s",
+      "tipo": "proveedor",
+      "nombre": "constructora fg s.a.s",
+      "es_persona_natural": false,
+      "valor_total_cop": 42366175972,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::8190043108::ORGANIZACION INTERDISCIPLINARIA MUNDO EN ACCION ORIMA",
+      "tipo": "proveedor",
+      "nombre": "ORGANIZACION INTERDISCIPLINARIA MUNDO EN ACCION ORIMA",
+      "es_persona_natural": false,
+      "valor_total_cop": 40435729363,
+      "n_contratos": 9
+    },
+    {
+      "id": "P::802007962::Fundación CEDESOCIAL",
+      "tipo": "proveedor",
+      "nombre": "Fundación CEDESOCIAL",
+      "es_persona_natural": false,
+      "valor_total_cop": 39561086189,
+      "n_contratos": 22
+    },
+    {
+      "id": "P::891780111::UNIMAGDALENA",
+      "tipo": "proveedor",
+      "nombre": "UNIMAGDALENA",
+      "es_persona_natural": false,
+      "valor_total_cop": 65253104177,
+      "n_contratos": 27
+    },
+    {
+      "id": "P::No Definido::UT HORUS LEEX 2023",
+      "tipo": "proveedor",
+      "nombre": "UT HORUS LEEX 2023",
+      "es_persona_natural": false,
+      "valor_total_cop": 37418741504,
+      "n_contratos": 63
+    },
+    {
+      "id": "P::825001418::ASOPROYUJA",
+      "tipo": "proveedor",
+      "nombre": "ASOPROYUJA",
+      "es_persona_natural": false,
+      "valor_total_cop": 36301585034,
+      "n_contratos": 13
+    },
+    {
+      "id": "P::900070338::ASOCIACION AFRODESCENDIENTE DESARROLLO Y VIDA DE NUESTRA NIÑEZ",
+      "tipo": "proveedor",
+      "nombre": "ASOCIACION AFRODESCENDIENTE DESARROLLO Y VIDA DE NUESTRA NIÑEZ",
+      "es_persona_natural": false,
+      "valor_total_cop": 36155681643,
+      "n_contratos": 17
+    },
+    {
+      "id": "P::819002119::FUNDACION PARA EL BIENESTAR SOCIAL DE LA COMUNIDAD",
+      "tipo": "proveedor",
+      "nombre": "FUNDACION PARA EL BIENESTAR SOCIAL DE LA COMUNIDAD",
+      "es_persona_natural": false,
+      "valor_total_cop": 35271041133,
+      "n_contratos": 9
+    },
+    {
+      "id": "P::823003298::FUNDACION UNIDAD SOCIAL BARRIO ADENTRO",
+      "tipo": "proveedor",
+      "nombre": "FUNDACION UNIDAD SOCIAL BARRIO ADENTRO",
+      "es_persona_natural": false,
+      "valor_total_cop": 34235048503,
+      "n_contratos": 7
+    },
+    {
+      "id": "P::901931701::UNION TEMPORAL ABC PAE",
+      "tipo": "proveedor",
+      "nombre": "UNION TEMPORAL ABC PAE",
+      "es_persona_natural": false,
+      "valor_total_cop": 33704287076,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::8605127804::Universidad Nacional Abierta y a Distancia+",
+      "tipo": "proveedor",
+      "nombre": "Universidad Nacional Abierta y a Distancia+",
+      "es_persona_natural": false,
+      "valor_total_cop": 33125928614,
+      "n_contratos": 2
+    },
+    {
+      "id": "P::901635210::U. T. PAE MAGDALENA 2022",
+      "tipo": "proveedor",
+      "nombre": "U. T. PAE MAGDALENA 2022",
+      "es_persona_natural": false,
+      "valor_total_cop": 32519158056,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::900821294::ASOARHUACO",
+      "tipo": "proveedor",
+      "nombre": "ASOARHUACO",
+      "es_persona_natural": false,
+      "valor_total_cop": 32295600469,
+      "n_contratos": 7
+    },
+    {
+      "id": "P::901932032::UNIÓN TEMPORAL MAGDALENA VITAL",
+      "tipo": "proveedor",
+      "nombre": "UNIÓN TEMPORAL MAGDALENA VITAL",
+      "es_persona_natural": false,
+      "valor_total_cop": 32008513498,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::900656963::FUNDACION AUTOGESTIONARIA PARA EL DESARROLLO INTEGRAL DE LAS COMUNIDADES AFRODESCENDIENTES",
+      "tipo": "proveedor",
+      "nombre": "FUNDACION AUTOGESTIONARIA PARA EL DESARROLLO INTEGRAL DE LAS COMUNIDADES AFRODESCENDIENTES",
+      "es_persona_natural": false,
+      "valor_total_cop": 53704908264,
+      "n_contratos": 27
+    },
+    {
+      "id": "P::819002176::COMPAÑIA COLOMBIANA DE SALUD COLSALUD S.A",
+      "tipo": "proveedor",
+      "nombre": "COMPAÑIA COLOMBIANA DE SALUD COLSALUD S.A",
+      "es_persona_natural": false,
+      "valor_total_cop": 30610965500,
+      "n_contratos": 5
+    },
+    {
+      "id": "P::901908308::CONSORCIO EBAR NORTE",
+      "tipo": "proveedor",
+      "nombre": "CONSORCIO EBAR NORTE",
+      "es_persona_natural": false,
+      "valor_total_cop": 30275593981,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::9010719693::CABILDO ARHUACO DEL MAGDALENA Y GUAJIRA SIERRA NEVADA",
+      "tipo": "proveedor",
+      "nombre": "CABILDO ARHUACO DEL MAGDALENA Y GUAJIRA SIERRA NEVADA",
+      "es_persona_natural": false,
+      "valor_total_cop": 29926907780,
+      "n_contratos": 22
+    },
+    {
+      "id": "P::9014788701::FONDO MIXTO SIERRA NEVADA",
+      "tipo": "proveedor",
+      "nombre": "FONDO MIXTO SIERRA NEVADA",
+      "es_persona_natural": false,
+      "valor_total_cop": 50392959252,
+      "n_contratos": 12
+    },
+    {
+      "id": "P::901936969::CONSORCIO I.E. MAGDALENA",
+      "tipo": "proveedor",
+      "nombre": "CONSORCIO I.E. MAGDALENA",
+      "es_persona_natural": false,
+      "valor_total_cop": 28848317649,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::802002415::CODIFA S.A.S",
+      "tipo": "proveedor",
+      "nombre": "CODIFA S.A.S",
+      "es_persona_natural": false,
+      "valor_total_cop": 28654664139,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::9019046561::SITISEM SAS",
+      "tipo": "proveedor",
+      "nombre": "SITISEM SAS",
+      "es_persona_natural": false,
+      "valor_total_cop": 28409614844,
+      "n_contratos": 13
+    },
+    {
+      "id": "P::900114628::ong corporacion internacional para el desarrollo comunitario de la costa atlantica",
+      "tipo": "proveedor",
+      "nombre": "ong corporacion internacional para el desarrollo comunitario de la costa atlantica",
+      "es_persona_natural": false,
+      "valor_total_cop": 28170775944,
+      "n_contratos": 8
+    },
+    {
+      "id": "P::9020444226::CONSORCIO GESTION VÍA",
+      "tipo": "proveedor",
+      "nombre": "CONSORCIO GESTION VÍA",
+      "es_persona_natural": false,
+      "valor_total_cop": 27023346386,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::819001290::ASOCIACION DE PADRES DE FAMILIA Y VECINOS DEL HOGAR INFANTIL MINUTO DE DIOS",
+      "tipo": "proveedor",
+      "nombre": "ASOCIACION DE PADRES DE FAMILIA Y VECINOS DEL HOGAR INFANTIL MINUTO DE DIOS",
+      "es_persona_natural": false,
+      "valor_total_cop": 26747534238,
+      "n_contratos": 13
+    },
+    {
+      "id": "P::9018431613::CONSORCIO MANTENIMIENTO VIAL",
+      "tipo": "proveedor",
+      "nombre": "CONSORCIO MANTENIMIENTO VIAL",
+      "es_persona_natural": false,
+      "valor_total_cop": 26628285818,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::901962247::CONSORCIO AREAS AMBIENTALES CGSM 2025",
+      "tipo": "proveedor",
+      "nombre": "CONSORCIO AREAS AMBIENTALES CGSM 2025",
+      "es_persona_natural": false,
+      "valor_total_cop": 26315528407,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::860524219::Fundación de Educación Superior San José",
+      "tipo": "proveedor",
+      "nombre": "Fundación de Educación Superior San José",
+      "es_persona_natural": false,
+      "valor_total_cop": 26285942043,
+      "n_contratos": 2
+    },
+    {
+      "id": "P::901724642::U.T PROTECCION COSTERA PLAYA SALGUERO",
+      "tipo": "proveedor",
+      "nombre": "U.T PROTECCION COSTERA PLAYA SALGUERO",
+      "es_persona_natural": false,
+      "valor_total_cop": 26179701315,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::900406140::CONSEJO COMUNITARIO DE LA COMUNIDAD NEGRA DE ARACATACA JACOBO PEREZ  ESCOBAR",
+      "tipo": "proveedor",
+      "nombre": "CONSEJO COMUNITARIO DE LA COMUNIDAD NEGRA DE ARACATACA JACOBO PEREZ  ESCOBAR",
+      "es_persona_natural": false,
+      "valor_total_cop": 26085743574,
+      "n_contratos": 11
+    },
+    {
+      "id": "P::9020146715::UT PAVIMENTAR SANTA MARTA",
+      "tipo": "proveedor",
+      "nombre": "UT PAVIMENTAR SANTA MARTA",
+      "es_persona_natural": false,
+      "valor_total_cop": 25906827876,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::900120913::FUNDACION PARA BRINDAR UN MEJOR VIVIR",
+      "tipo": "proveedor",
+      "nombre": "FUNDACION PARA BRINDAR UN MEJOR VIVIR",
+      "es_persona_natural": false,
+      "valor_total_cop": 25611417208,
+      "n_contratos": 11
+    },
+    {
+      "id": "P::901763200::CONSORCIO ECOGEMA 2023",
+      "tipo": "proveedor",
+      "nombre": "CONSORCIO ECOGEMA 2023",
+      "es_persona_natural": false,
+      "valor_total_cop": 25512771360,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::901168222::IU. Digital",
+      "tipo": "proveedor",
+      "nombre": "IU. Digital",
+      "es_persona_natural": false,
+      "valor_total_cop": 25376917692,
+      "n_contratos": 5
+    },
+    {
+      "id": "P::819002750::VIVAC SEGURIDAD LTDA",
+      "tipo": "proveedor",
+      "nombre": "VIVAC SEGURIDAD LTDA",
+      "es_persona_natural": false,
+      "valor_total_cop": 46958014382,
+      "n_contratos": 20
+    },
+    {
+      "id": "P::901085486::hlessing industries s.a.s",
+      "tipo": "proveedor",
+      "nombre": "hlessing industries s.a.s",
+      "es_persona_natural": false,
+      "valor_total_cop": 24624327668,
+      "n_contratos": 4
+    },
+    {
+      "id": "P::819000491::ASOCIACION DE PADRES DE FAMILIA DEL HOGAR INFANTIL ALMENDROS",
+      "tipo": "proveedor",
+      "nombre": "ASOCIACION DE PADRES DE FAMILIA DEL HOGAR INFANTIL ALMENDROS",
+      "es_persona_natural": false,
+      "valor_total_cop": 24451202831,
+      "n_contratos": 13
+    },
+    {
+      "id": "P::1083003797::Dimas José Campo Robles",
+      "tipo": "proveedor",
+      "nombre": "Dimas José Campo Robles",
+      "es_persona_natural": true,
+      "valor_total_cop": 24417913702,
+      "n_contratos": 4
+    },
+    {
+      "id": "P::9019649055::CONSORCIO OBRAS VIALES MAGDALENA",
+      "tipo": "proveedor",
+      "nombre": "CONSORCIO OBRAS VIALES MAGDALENA",
+      "es_persona_natural": false,
+      "valor_total_cop": 23615452638,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::900103852::FUNDACION REALIZANDO SUEÑOS POR COLOMBIA",
+      "tipo": "proveedor",
+      "nombre": "FUNDACION REALIZANDO SUEÑOS POR COLOMBIA",
+      "es_persona_natural": false,
+      "valor_total_cop": 23524043278,
+      "n_contratos": 12
+    },
+    {
+      "id": "P::802021821::FUNDACION INSTITUCION ANTONIO NARINO",
+      "tipo": "proveedor",
+      "nombre": "FUNDACION INSTITUCION ANTONIO NARINO",
+      "es_persona_natural": false,
+      "valor_total_cop": 23400805238,
+      "n_contratos": 6
+    },
+    {
+      "id": "P::900094547::FUNDACION SEMBRANDO FUTURO",
+      "tipo": "proveedor",
+      "nombre": "FUNDACION SEMBRANDO FUTURO",
+      "es_persona_natural": false,
+      "valor_total_cop": 23172447577,
+      "n_contratos": 6
+    },
+    {
+      "id": "P::900689018::No Definido",
+      "tipo": "proveedor",
+      "nombre": "No Definido",
+      "es_persona_natural": false,
+      "valor_total_cop": 22729889897,
+      "n_contratos": 6
+    },
+    {
+      "id": "P::860403137::ORGANIZACION DE ESTADOS IBEROAMERICANOS OEI",
+      "tipo": "proveedor",
+      "nombre": "ORGANIZACION DE ESTADOS IBEROAMERICANOS OEI",
+      "es_persona_natural": false,
+      "valor_total_cop": 22517432862,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::901934482::CONSORCIO INSTITUCIONES MAGDALENA",
+      "tipo": "proveedor",
+      "nombre": "CONSORCIO INSTITUCIONES MAGDALENA",
+      "es_persona_natural": false,
+      "valor_total_cop": 22413045946,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::85468947::COPIAS DEL PARQUE",
+      "tipo": "proveedor",
+      "nombre": "COPIAS DEL PARQUE",
+      "es_persona_natural": true,
+      "valor_total_cop": 22153500000,
+      "n_contratos": 5
+    },
+    {
+      "id": "P::1085103956::JAIRO ENRIQUE ROJAS BELEÑO",
+      "tipo": "proveedor",
+      "nombre": "JAIRO ENRIQUE ROJAS BELEÑO",
+      "es_persona_natural": true,
+      "valor_total_cop": 21501597875,
+      "n_contratos": 2
+    },
+    {
+      "id": "P::900066971::IGLESIA CENTRO BIBLICO INTERNACIONAL EMANUEL",
+      "tipo": "proveedor",
+      "nombre": "IGLESIA CENTRO BIBLICO INTERNACIONAL EMANUEL",
+      "es_persona_natural": false,
+      "valor_total_cop": 20657533467,
+      "n_contratos": 2
+    },
+    {
+      "id": "P::802015768::FUNDACION MULTIACTIVA AHINCO ONG",
+      "tipo": "proveedor",
+      "nombre": "FUNDACION MULTIACTIVA AHINCO ONG",
+      "es_persona_natural": false,
+      "valor_total_cop": 20412532392,
+      "n_contratos": 3
+    },
+    {
+      "id": "P::830509276::TICOM S.A.",
+      "tipo": "proveedor",
+      "nombre": "TICOM S.A.",
+      "es_persona_natural": false,
+      "valor_total_cop": 45590036306,
+      "n_contratos": 6
+    },
+    {
+      "id": "P::901524353::FUNDACION PARA EL DESARROLLO DE ENTORNOS SALUDABLES Y AMBIENTALES",
+      "tipo": "proveedor",
+      "nombre": "FUNDACION PARA EL DESARROLLO DE ENTORNOS SALUDABLES Y AMBIENTALES",
+      "es_persona_natural": false,
+      "valor_total_cop": 20020000000,
+      "n_contratos": 2
+    },
+    {
+      "id": "P::860512780::UNAD",
+      "tipo": "proveedor",
+      "nombre": "UNAD",
+      "es_persona_natural": false,
+      "valor_total_cop": 19952905358,
+      "n_contratos": 5
+    },
+    {
+      "id": "P::860350711::Comprolab S.A.S",
+      "tipo": "proveedor",
+      "nombre": "Comprolab S.A.S",
+      "es_persona_natural": false,
+      "valor_total_cop": 19697370248,
+      "n_contratos": 27
+    },
+    {
+      "id": "P::800249355::SUPERSERVICIOS DE NARIÑO S.A.",
+      "tipo": "proveedor",
+      "nombre": "SUPERSERVICIOS DE NARIÑO S.A.",
+      "es_persona_natural": false,
+      "valor_total_cop": 19541162999,
+      "n_contratos": 2
+    },
+    {
+      "id": "P::800215546::INSTITUTO NACIONAL PENITENCIARIO Y CARCELARIO INPEC+",
+      "tipo": "proveedor",
+      "nombre": "INSTITUTO NACIONAL PENITENCIARIO Y CARCELARIO INPEC+",
+      "es_persona_natural": false,
+      "valor_total_cop": 19409400000,
+      "n_contratos": 4
+    },
+    {
+      "id": "P::890115406::A Construir S.A.",
+      "tipo": "proveedor",
+      "nombre": "A Construir S.A.",
+      "es_persona_natural": false,
+      "valor_total_cop": 19243064255,
+      "n_contratos": 2
+    },
+    {
+      "id": "P::0::UNION TEMPORAL ADN",
+      "tipo": "proveedor",
+      "nombre": "UNION TEMPORAL ADN",
+      "es_persona_natural": false,
+      "valor_total_cop": 19217948902,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::900623310::FUNDACION SOCIAL FORMACION AL FUTURO",
+      "tipo": "proveedor",
+      "nombre": "FUNDACION SOCIAL FORMACION AL FUTURO",
+      "es_persona_natural": false,
+      "valor_total_cop": 25190345563,
+      "n_contratos": 9
+    },
+    {
+      "id": "P::901857433::CONSORCIO OBRAS ESPECIALES MAGDALENA",
+      "tipo": "proveedor",
+      "nombre": "CONSORCIO OBRAS ESPECIALES MAGDALENA",
+      "es_persona_natural": false,
+      "valor_total_cop": 18481895517,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::9002306365::FUNDACION AFROCOLOMBIANA RAIZALES",
+      "tipo": "proveedor",
+      "nombre": "FUNDACION AFROCOLOMBIANA RAIZALES",
+      "es_persona_natural": false,
+      "valor_total_cop": 18206435644,
+      "n_contratos": 14
+    },
+    {
+      "id": "P::802011827::ASOCIACION COMUNITARIA PROYECTAR DE LA COSTA SONRISA DE LOS NIÑOS",
+      "tipo": "proveedor",
+      "nombre": "ASOCIACION COMUNITARIA PROYECTAR DE LA COSTA SONRISA DE LOS NIÑOS",
+      "es_persona_natural": false,
+      "valor_total_cop": 17963003482,
+      "n_contratos": 6
+    },
+    {
+      "id": "P::900156270::RENATA",
+      "tipo": "proveedor",
+      "nombre": "RENATA",
+      "es_persona_natural": false,
+      "valor_total_cop": 17600000000,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::901383763::INTEGRAL DE ASEO DEL CARIBE S.A.S",
+      "tipo": "proveedor",
+      "nombre": "INTEGRAL DE ASEO DEL CARIBE S.A.S",
+      "es_persona_natural": false,
+      "valor_total_cop": 17303796281,
+      "n_contratos": 3
+    },
+    {
+      "id": "P::804009295::CCOC",
+      "tipo": "proveedor",
+      "nombre": "CCOC",
+      "es_persona_natural": false,
+      "valor_total_cop": 17257873758,
+      "n_contratos": 3
+    },
+    {
+      "id": "P::900424461::FUNDACION PARA EL BIENESTAR SOCIAL Y AMBIENTAL",
+      "tipo": "proveedor",
+      "nombre": "FUNDACION PARA EL BIENESTAR SOCIAL Y AMBIENTAL",
+      "es_persona_natural": false,
+      "valor_total_cop": 16996072389,
+      "n_contratos": 2
+    },
+    {
+      "id": "P::890111018::SERVICONI LTDA",
+      "tipo": "proveedor",
+      "nombre": "SERVICONI LTDA",
+      "es_persona_natural": false,
+      "valor_total_cop": 16810577720,
+      "n_contratos": 12
+    },
+    {
+      "id": "P::39013901::PROVEAL",
+      "tipo": "proveedor",
+      "nombre": "PROVEAL",
+      "es_persona_natural": false,
+      "valor_total_cop": 16806189527,
+      "n_contratos": 19
+    },
+    {
+      "id": "P::899999230::UNIVERSIDAD DISTRITAL FRANCISCO JOSE DE CALDAS",
+      "tipo": "proveedor",
+      "nombre": "UNIVERSIDAD DISTRITAL FRANCISCO JOSE DE CALDAS",
+      "es_persona_natural": false,
+      "valor_total_cop": 16631822776,
+      "n_contratos": 6
+    },
+    {
+      "id": "P::899999063::UNIVERSIDAD NACIONAL DE COLOMBIA",
+      "tipo": "proveedor",
+      "nombre": "UNIVERSIDAD NACIONAL DE COLOMBIA",
+      "es_persona_natural": false,
+      "valor_total_cop": 16628371058,
+      "n_contratos": 5
+    },
+    {
+      "id": "P::8190008433::INSTITUTO DEPARTAMENTAL DE DEPORTES DEL MAGDALENA",
+      "tipo": "proveedor",
+      "nombre": "INSTITUTO DEPARTAMENTAL DE DEPORTES DEL MAGDALENA",
+      "es_persona_natural": false,
+      "valor_total_cop": 16578131734,
+      "n_contratos": 11
+    },
+    {
+      "id": "P::819005400::FUNDACION SAN JOSE",
+      "tipo": "proveedor",
+      "nombre": "FUNDACION SAN JOSE",
+      "es_persona_natural": false,
+      "valor_total_cop": 16371785467,
+      "n_contratos": 6
+    },
+    {
+      "id": "P::900295857::FUNDACION ARTE PARA EL DESARROLLO",
+      "tipo": "proveedor",
+      "nombre": "FUNDACION ARTE PARA EL DESARROLLO",
+      "es_persona_natural": false,
+      "valor_total_cop": 16368455803,
+      "n_contratos": 11
+    },
+    {
+      "id": "P::900053483::Fundación para el desarrollo de la calidad educativa FUNDED",
+      "tipo": "proveedor",
+      "nombre": "Fundación para el desarrollo de la calidad educativa FUNDED",
+      "es_persona_natural": false,
+      "valor_total_cop": 16094481075,
+      "n_contratos": 6
+    },
+    {
+      "id": "P::900596133::FUNDACION SOCIAL MUNDO INTEGRAL - FUSMUNDI",
+      "tipo": "proveedor",
+      "nombre": "FUNDACION SOCIAL MUNDO INTEGRAL - FUSMUNDI",
+      "es_persona_natural": false,
+      "valor_total_cop": 16073762251,
+      "n_contratos": 9
+    },
+    {
+      "id": "P::9018603080::UNIÓN TEMPORAL ALIMENTOS MAGDALENA",
+      "tipo": "proveedor",
+      "nombre": "UNIÓN TEMPORAL ALIMENTOS MAGDALENA",
+      "es_persona_natural": false,
+      "valor_total_cop": 15986441460,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::900173983::INTERLUD SAS",
+      "tipo": "proveedor",
+      "nombre": "INTERLUD SAS",
+      "es_persona_natural": false,
+      "valor_total_cop": 25564373713,
+      "n_contratos": 11
+    },
+    {
+      "id": "P::806009816::Fundación Por Una Colombia Digna",
+      "tipo": "proveedor",
+      "nombre": "Fundación Por Una Colombia Digna",
+      "es_persona_natural": false,
+      "valor_total_cop": 15708814431,
+      "n_contratos": 12
+    },
+    {
+      "id": "P::900764738::CORPORACION PARA EL SERVICIO DEL DESARROLLO SOCIAL DE LAS COMUNIDADES",
+      "tipo": "proveedor",
+      "nombre": "CORPORACION PARA EL SERVICIO DEL DESARROLLO SOCIAL DE LAS COMUNIDADES",
+      "es_persona_natural": false,
+      "valor_total_cop": 15447443766,
+      "n_contratos": 4
+    },
+    {
+      "id": "P::860006648::FUNDACION CARULLA AEIOTU",
+      "tipo": "proveedor",
+      "nombre": "FUNDACION CARULLA AEIOTU",
+      "es_persona_natural": false,
+      "valor_total_cop": 15353376117,
+      "n_contratos": 2
+    },
+    {
+      "id": "P::830508876::Corporación Desarrollo Social y Comunitario - CORDESCO",
+      "tipo": "proveedor",
+      "nombre": "Corporación Desarrollo Social y Comunitario - CORDESCO",
+      "es_persona_natural": false,
+      "valor_total_cop": 15137917088,
+      "n_contratos": 7
+    },
+    {
+      "id": "P::901844014::CONSORCIO VIAS TERCIARIAS 2024",
+      "tipo": "proveedor",
+      "nombre": "CONSORCIO VIAS TERCIARIAS 2024",
+      "es_persona_natural": false,
+      "valor_total_cop": 15086769263,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::900402579::FUCAVIDES",
+      "tipo": "proveedor",
+      "nombre": "FUCAVIDES",
+      "es_persona_natural": false,
+      "valor_total_cop": 15044742614,
+      "n_contratos": 5
+    },
+    {
+      "id": "P::900189051::FUNDALIANS",
+      "tipo": "proveedor",
+      "nombre": "FUNDALIANS",
+      "es_persona_natural": false,
+      "valor_total_cop": 14760175489,
+      "n_contratos": 7
+    },
+    {
+      "id": "P::9020802293::CONSORCIO SALUD Y VIDA PIJIÑO",
+      "tipo": "proveedor",
+      "nombre": "CONSORCIO SALUD Y VIDA PIJIÑO",
+      "es_persona_natural": false,
+      "valor_total_cop": 14694428586,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::901372389::UBUNTU",
+      "tipo": "proveedor",
+      "nombre": "UBUNTU",
+      "es_persona_natural": false,
+      "valor_total_cop": 13994713501,
+      "n_contratos": 14
+    },
+    {
+      "id": "P::806012163::CORPORACIÓN RAZÓN SOCIAL",
+      "tipo": "proveedor",
+      "nombre": "CORPORACIÓN RAZÓN SOCIAL",
+      "es_persona_natural": false,
+      "valor_total_cop": 13665563450,
+      "n_contratos": 2
+    },
+    {
+      "id": "P::900787767::FUNDESOLPAZ",
+      "tipo": "proveedor",
+      "nombre": "FUNDESOLPAZ",
+      "es_persona_natural": false,
+      "valor_total_cop": 13580897891,
+      "n_contratos": 5
+    },
+    {
+      "id": "P::9013225137::FUNDACION SEMILLEROS DE AMOR Y ESPERANZA",
+      "tipo": "proveedor",
+      "nombre": "FUNDACION SEMILLEROS DE AMOR Y ESPERANZA",
+      "es_persona_natural": false,
+      "valor_total_cop": 13533708267,
+      "n_contratos": 5
+    },
+    {
+      "id": "P::804008684::NEOMUNDO",
+      "tipo": "proveedor",
+      "nombre": "NEOMUNDO",
+      "es_persona_natural": false,
+      "valor_total_cop": 13481002502,
+      "n_contratos": 2
+    },
+    {
+      "id": "P::8230030871::FERVI",
+      "tipo": "proveedor",
+      "nombre": "FERVI",
+      "es_persona_natural": false,
+      "valor_total_cop": 13261514554,
+      "n_contratos": 2
+    },
+    {
+      "id": "P::901490471::FUNDACION AMOR Y PROTECCION PARA LA INFANCIA",
+      "tipo": "proveedor",
+      "nombre": "FUNDACION AMOR Y PROTECCION PARA LA INFANCIA",
+      "es_persona_natural": false,
+      "valor_total_cop": 12900646893,
+      "n_contratos": 4
+    },
+    {
+      "id": "P::800076734::ASOCIACION DE PADRES DE FAMILIA DE HCB JUANXXII",
+      "tipo": "proveedor",
+      "nombre": "ASOCIACION DE PADRES DE FAMILIA DE HCB JUANXXII",
+      "es_persona_natural": false,
+      "valor_total_cop": 12813480878,
+      "n_contratos": 9
+    },
+    {
+      "id": "P::901965323::CONSORCIO VIAS MONSE 2025",
+      "tipo": "proveedor",
+      "nombre": "CONSORCIO VIAS MONSE 2025",
+      "es_persona_natural": false,
+      "valor_total_cop": 12670924457,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::830049060::GESTION Y DESARROLLO",
+      "tipo": "proveedor",
+      "nombre": "GESTION Y DESARROLLO",
+      "es_persona_natural": false,
+      "valor_total_cop": 12624570173,
+      "n_contratos": 4
+    },
+    {
+      "id": "P::819006727::FUNDACION ASESORIA CONSULTORIA E INVESTIGACIONES PARA EL  DESARROLLO SOCIAL",
+      "tipo": "proveedor",
+      "nombre": "FUNDACION ASESORIA CONSULTORIA E INVESTIGACIONES PARA EL  DESARROLLO SOCIAL",
+      "es_persona_natural": false,
+      "valor_total_cop": 12178381440,
+      "n_contratos": 6
+    },
+    {
+      "id": "P::830121654::7M GROUP SA",
+      "tipo": "proveedor",
+      "nombre": "7M GROUP SA",
+      "es_persona_natural": false,
+      "valor_total_cop": 11998671927,
+      "n_contratos": 2
+    },
+    {
+      "id": "P::901131788::INSTITUTO DISTRITAL DE TURISMO DE SANTA MARTA",
+      "tipo": "proveedor",
+      "nombre": "INSTITUTO DISTRITAL DE TURISMO DE SANTA MARTA",
+      "es_persona_natural": false,
+      "valor_total_cop": 11954872264,
+      "n_contratos": 10
+    },
+    {
+      "id": "P::819006201::Asociación de Profesionales para el Desarrollo Empresarial y Social de la Región Caribe APDES",
+      "tipo": "proveedor",
+      "nombre": "Asociación de Profesionales para el Desarrollo Empresarial y Social de la Región Caribe APDES",
+      "es_persona_natural": false,
+      "valor_total_cop": 11804737856,
+      "n_contratos": 6
+    },
+    {
+      "id": "P::900051017::FUNDAPROFUT",
+      "tipo": "proveedor",
+      "nombre": "FUNDAPROFUT",
+      "es_persona_natural": false,
+      "valor_total_cop": 18619188914,
+      "n_contratos": 6
+    },
+    {
+      "id": "P::No Definido::U.T. ARACATACA BIODIVERSA",
+      "tipo": "proveedor",
+      "nombre": "U.T. ARACATACA BIODIVERSA",
+      "es_persona_natural": false,
+      "valor_total_cop": 11615003072,
+      "n_contratos": 3
+    },
+    {
+      "id": "P::901153192::DETECCION SEGURIDAD PRIVADA LIMITADA",
+      "tipo": "proveedor",
+      "nombre": "DETECCION SEGURIDAD PRIVADA LIMITADA",
+      "es_persona_natural": false,
+      "valor_total_cop": 11545615849,
+      "n_contratos": 19
+    },
+    {
+      "id": "P::819007007::ASOCIACION PARA EL DESARROLLO SOCIAL, INTEGRAL Y COMUNITARIA DE LA COSTA",
+      "tipo": "proveedor",
+      "nombre": "ASOCIACION PARA EL DESARROLLO SOCIAL, INTEGRAL Y COMUNITARIA DE LA COSTA",
+      "es_persona_natural": false,
+      "valor_total_cop": 11519740545,
+      "n_contratos": 4
+    },
+    {
+      "id": "P::901784656::CONSORCIO SIERRA NEVADA",
+      "tipo": "proveedor",
+      "nombre": "CONSORCIO SIERRA NEVADA",
+      "es_persona_natural": false,
+      "valor_total_cop": 11471710034,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::800135729::Empresa de Recursos Tecnologicos del Valle",
+      "tipo": "proveedor",
+      "nombre": "Empresa de Recursos Tecnologicos del Valle",
+      "es_persona_natural": false,
+      "valor_total_cop": 11386789432,
+      "n_contratos": 3
+    },
+    {
+      "id": "P::901863115::CONSORCIO VIAS DEL MAGDALENA",
+      "tipo": "proveedor",
+      "nombre": "CONSORCIO VIAS DEL MAGDALENA",
+      "es_persona_natural": false,
+      "valor_total_cop": 11385060454,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::900341384::EQUIPAR TM LTDA",
+      "tipo": "proveedor",
+      "nombre": "EQUIPAR TM LTDA",
+      "es_persona_natural": false,
+      "valor_total_cop": 11129527500,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::800109812::ASOCIACION DE PADRES DE FAMILIA DE HCB PALMIRA",
+      "tipo": "proveedor",
+      "nombre": "ASOCIACION DE PADRES DE FAMILIA DE HCB PALMIRA",
+      "es_persona_natural": false,
+      "valor_total_cop": 11050313432,
+      "n_contratos": 12
+    },
+    {
+      "id": "P::901799335::UNION TEMPORAL MAGDALENA",
+      "tipo": "proveedor",
+      "nombre": "UNION TEMPORAL MAGDALENA",
+      "es_persona_natural": false,
+      "valor_total_cop": 10942631528,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::900210773::Fundación Crecer Colombia",
+      "tipo": "proveedor",
+      "nombre": "Fundación Crecer Colombia",
+      "es_persona_natural": false,
+      "valor_total_cop": 10882525381,
+      "n_contratos": 5
+    },
+    {
+      "id": "P::819000177::APF BARRIO ARRIBA",
+      "tipo": "proveedor",
+      "nombre": "APF BARRIO ARRIBA",
+      "es_persona_natural": false,
+      "valor_total_cop": 10776853136,
+      "n_contratos": 8
+    },
+    {
+      "id": "P::900845290::GRUPO EMPRESARIAL GAVA SAS",
+      "tipo": "proveedor",
+      "nombre": "GRUPO EMPRESARIAL GAVA SAS",
+      "es_persona_natural": false,
+      "valor_total_cop": 10752659386,
+      "n_contratos": 92
+    },
+    {
+      "id": "P::901793934::SEREGAS SAS",
+      "tipo": "proveedor",
+      "nombre": "SEREGAS SAS",
+      "es_persona_natural": false,
+      "valor_total_cop": 10528229247,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::900954822::FUNDACION SOL VIVIR AFROCOLOMBIANO",
+      "tipo": "proveedor",
+      "nombre": "FUNDACION SOL VIVIR AFROCOLOMBIANO",
+      "es_persona_natural": false,
+      "valor_total_cop": 10499301704,
+      "n_contratos": 22
+    },
+    {
+      "id": "P::825001822::INDIRA PAOLA BUENDIA  GARCIA",
+      "tipo": "proveedor",
+      "nombre": "INDIRA PAOLA BUENDIA  GARCIA",
+      "es_persona_natural": false,
+      "valor_total_cop": 10482345928,
+      "n_contratos": 55
+    },
+    {
+      "id": "P::800225279::APF GUACAMAYAL",
+      "tipo": "proveedor",
+      "nombre": "APF GUACAMAYAL",
+      "es_persona_natural": false,
+      "valor_total_cop": 10472139549,
+      "n_contratos": 7
+    },
+    {
+      "id": "P::37247617::INDUVICAR 2",
+      "tipo": "proveedor",
+      "nombre": "INDUVICAR 2",
+      "es_persona_natural": true,
+      "valor_total_cop": 10409114785,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::901433149::AAFRIGAMAG",
+      "tipo": "proveedor",
+      "nombre": "AAFRIGAMAG",
+      "es_persona_natural": false,
+      "valor_total_cop": 10223442775,
+      "n_contratos": 11
+    },
+    {
+      "id": "P::819002879::ASOCIACION DE PADRES DE FAMILIA DE HOGARES COMUNITARIOS DE BIENESTAR 5 DE FEBRERO",
+      "tipo": "proveedor",
+      "nombre": "ASOCIACION DE PADRES DE FAMILIA DE HOGARES COMUNITARIOS DE BIENESTAR 5 DE FEBRERO",
+      "es_persona_natural": false,
+      "valor_total_cop": 10133626088,
+      "n_contratos": 6
+    },
+    {
+      "id": "P::9009491100::FUNDACION CLAMOR POR LA VIDA",
+      "tipo": "proveedor",
+      "nombre": "FUNDACION CLAMOR POR LA VIDA",
+      "es_persona_natural": false,
+      "valor_total_cop": 10067858696,
+      "n_contratos": 4
+    },
+    {
+      "id": "P::900457831::CORPORACION PIEDRALIPE",
+      "tipo": "proveedor",
+      "nombre": "CORPORACION PIEDRALIPE",
+      "es_persona_natural": false,
+      "valor_total_cop": 10027782671,
+      "n_contratos": 10
+    },
+    {
+      "id": "P::819002025::E.S.E. HOSPITAL SANTANDER HERRERA",
+      "tipo": "proveedor",
+      "nombre": "E.S.E. HOSPITAL SANTANDER HERRERA",
+      "es_persona_natural": false,
+      "valor_total_cop": 10010729886,
+      "n_contratos": 14
+    },
+    {
+      "id": "P::900342579::SISTEMA ESTRATEGICO DE TRANSPORTE PUBLICO DE SANTA MARTA S.A.S.",
+      "tipo": "proveedor",
+      "nombre": "SISTEMA ESTRATEGICO DE TRANSPORTE PUBLICO DE SANTA MARTA S.A.S.",
+      "es_persona_natural": false,
+      "valor_total_cop": 19787898357,
+      "n_contratos": 9
+    },
+    {
+      "id": "P::901727964::CONSORCIO MALLA VIAL RODADERO 2023",
+      "tipo": "proveedor",
+      "nombre": "CONSORCIO MALLA VIAL RODADERO 2023",
+      "es_persona_natural": false,
+      "valor_total_cop": 9947083648,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::900856498::MANTELES Y CRISTALES",
+      "tipo": "proveedor",
+      "nombre": "MANTELES Y CRISTALES",
+      "es_persona_natural": false,
+      "valor_total_cop": 9851371913,
+      "n_contratos": 11
+    },
+    {
+      "id": "P::900085882::fundacion rehabilitacion integral",
+      "tipo": "proveedor",
+      "nombre": "fundacion rehabilitacion integral",
+      "es_persona_natural": false,
+      "valor_total_cop": 9490656084,
+      "n_contratos": 18
+    },
+    {
+      "id": "P::900701630::IMPOINTER S.A.S.",
+      "tipo": "proveedor",
+      "nombre": "IMPOINTER S.A.S.",
+      "es_persona_natural": false,
+      "valor_total_cop": 9468322280,
+      "n_contratos": 10
+    },
+    {
+      "id": "P::891780008::ESE HOSPITAL DEPARTAMENTAL SAN RAFAEL",
+      "tipo": "proveedor",
+      "nombre": "ESE HOSPITAL DEPARTAMENTAL SAN RAFAEL",
+      "es_persona_natural": false,
+      "valor_total_cop": 9450041839,
+      "n_contratos": 10
+    },
+    {
+      "id": "P::901760072::CONSORCIO MULTIDEPORTES 2023",
+      "tipo": "proveedor",
+      "nombre": "CONSORCIO MULTIDEPORTES 2023",
+      "es_persona_natural": false,
+      "valor_total_cop": 9393286742,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::800077110::ASOCIACION DE PADRES DE FAMILIA DE HOGARES COMUNITARIOS DE BIENESTAR BONDA",
+      "tipo": "proveedor",
+      "nombre": "ASOCIACION DE PADRES DE FAMILIA DE HOGARES COMUNITARIOS DE BIENESTAR BONDA",
+      "es_persona_natural": false,
+      "valor_total_cop": 9286601665,
+      "n_contratos": 9
+    },
+    {
+      "id": "P::No Definido::UNION TEMPORAL CÉNIT",
+      "tipo": "proveedor",
+      "nombre": "UNION TEMPORAL CÉNIT",
+      "es_persona_natural": false,
+      "valor_total_cop": 9261946604,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::8001123047::Asociación de padres de familia de hogares comunitarios de bienestar Santo Domingo",
+      "tipo": "proveedor",
+      "nombre": "Asociación de padres de familia de hogares comunitarios de bienestar Santo Domingo",
+      "es_persona_natural": false,
+      "valor_total_cop": 9214393749,
+      "n_contratos": 4
+    },
+    {
+      "id": "P::819001155::APF SANTA TERESA",
+      "tipo": "proveedor",
+      "nombre": "APF SANTA TERESA",
+      "es_persona_natural": false,
+      "valor_total_cop": 9167722729,
+      "n_contratos": 6
+    },
+    {
+      "id": "P::900011782::FUNDACION PARA EL DESARROLLO INTEGRAL SOSTENIBLE ENERGIA VITAL",
+      "tipo": "proveedor",
+      "nombre": "FUNDACION PARA EL DESARROLLO INTEGRAL SOSTENIBLE ENERGIA VITAL",
+      "es_persona_natural": false,
+      "valor_total_cop": 9143743200,
+      "n_contratos": 4
+    },
+    {
+      "id": "P::901376745::PEZ VELA INGENIERIA SAS",
+      "tipo": "proveedor",
+      "nombre": "PEZ VELA INGENIERIA SAS",
+      "es_persona_natural": false,
+      "valor_total_cop": 9046525041,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::No Definido::No Definido",
+      "tipo": "proveedor",
+      "nombre": "No Definido",
+      "es_persona_natural": false,
+      "valor_total_cop": 9034252194,
+      "n_contratos": 24
+    },
+    {
+      "id": "P::9015231889::MEDQUIRURGICOS",
+      "tipo": "proveedor",
+      "nombre": "MEDQUIRURGICOS",
+      "es_persona_natural": false,
+      "valor_total_cop": 8995000000,
+      "n_contratos": 21
+    },
+    {
+      "id": "P::902014776::UNION TEMPORAL VIDA ACTIVA",
+      "tipo": "proveedor",
+      "nombre": "UNION TEMPORAL VIDA ACTIVA",
+      "es_persona_natural": false,
+      "valor_total_cop": 8917314222,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::800230023::Foculgua",
+      "tipo": "proveedor",
+      "nombre": "Foculgua",
+      "es_persona_natural": false,
+      "valor_total_cop": 8748457837,
+      "n_contratos": 14
+    },
+    {
+      "id": "P::900248683::FUNDACION MANOS UNIDAS POR EL MAGDALENA",
+      "tipo": "proveedor",
+      "nombre": "FUNDACION MANOS UNIDAS POR EL MAGDALENA",
+      "es_persona_natural": false,
+      "valor_total_cop": 8723249455,
+      "n_contratos": 4
+    },
+    {
+      "id": "P::900880521::iDoc",
+      "tipo": "proveedor",
+      "nombre": "iDoc",
+      "es_persona_natural": false,
+      "valor_total_cop": 8716152820,
+      "n_contratos": 11
+    },
+    {
+      "id": "P::811044253::ASEAR SAS ESP",
+      "tipo": "proveedor",
+      "nombre": "ASEAR SAS ESP",
+      "es_persona_natural": false,
+      "valor_total_cop": 8698486259,
+      "n_contratos": 8
+    },
+    {
+      "id": "P::800154347::Empresa Social del Estado Hospital La Candelaria*",
+      "tipo": "proveedor",
+      "nombre": "Empresa Social del Estado Hospital La Candelaria*",
+      "es_persona_natural": false,
+      "valor_total_cop": 8566282290,
+      "n_contratos": 10
+    },
+    {
+      "id": "P::800111755::ASOCIACION DE PADRES DE FAMILIA DE HCB PARAISO SEGUNDO",
+      "tipo": "proveedor",
+      "nombre": "ASOCIACION DE PADRES DE FAMILIA DE HCB PARAISO SEGUNDO",
+      "es_persona_natural": false,
+      "valor_total_cop": 8563710519,
+      "n_contratos": 8
+    },
+    {
+      "id": "P::860016662::COMITÉ OLÍMPICO COLOMBIANO",
+      "tipo": "proveedor",
+      "nombre": "COMITÉ OLÍMPICO COLOMBIANO",
+      "es_persona_natural": false,
+      "valor_total_cop": 8525670000,
+      "n_contratos": 4
+    },
+    {
+      "id": "P::900130852::VISION URBANA",
+      "tipo": "proveedor",
+      "nombre": "VISION URBANA",
+      "es_persona_natural": false,
+      "valor_total_cop": 8422091443,
+      "n_contratos": 2
+    },
+    {
+      "id": "P::900395286::ASAFROBAN",
+      "tipo": "proveedor",
+      "nombre": "ASAFROBAN",
+      "es_persona_natural": false,
+      "valor_total_cop": 8416736738,
+      "n_contratos": 15
+    },
+    {
+      "id": "P::900360821::FUNDACIÓN SOCIAL GUATAPURÍ",
+      "tipo": "proveedor",
+      "nombre": "FUNDACIÓN SOCIAL GUATAPURÍ",
+      "es_persona_natural": false,
+      "valor_total_cop": 8366961120,
+      "n_contratos": 3
+    },
+    {
+      "id": "P::830025916::IMPOCOSER S.A.S",
+      "tipo": "proveedor",
+      "nombre": "IMPOCOSER S.A.S",
+      "es_persona_natural": false,
+      "valor_total_cop": 8364480000,
+      "n_contratos": 3
+    },
+    {
+      "id": "P::900156222::INGENIEROS EMPRESARIOS DE COLOMBIA S.A.S",
+      "tipo": "proveedor",
+      "nombre": "INGENIEROS EMPRESARIOS DE COLOMBIA S.A.S",
+      "es_persona_natural": false,
+      "valor_total_cop": 8362798330,
+      "n_contratos": 3
+    },
+    {
+      "id": "P::900429803::FUNDACIÓN MULTIACTIVA CARIBE INTEGRADO",
+      "tipo": "proveedor",
+      "nombre": "FUNDACIÓN MULTIACTIVA CARIBE INTEGRADO",
+      "es_persona_natural": false,
+      "valor_total_cop": 8289807500,
+      "n_contratos": 3
+    },
+    {
+      "id": "P::9019685258::CONSORCIO VIAS SANTA MARTA 25",
+      "tipo": "proveedor",
+      "nombre": "CONSORCIO VIAS SANTA MARTA 25",
+      "es_persona_natural": false,
+      "valor_total_cop": 8268766477,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::800109799::ASOCIACION DE PADRES DE FAMILIA DE HCB PUEBLO VIEJO II",
+      "tipo": "proveedor",
+      "nombre": "ASOCIACION DE PADRES DE FAMILIA DE HCB PUEBLO VIEJO II",
+      "es_persona_natural": false,
+      "valor_total_cop": 8227586630,
+      "n_contratos": 7
+    },
+    {
+      "id": "P::806008896::COMULRES",
+      "tipo": "proveedor",
+      "nombre": "COMULRES",
+      "es_persona_natural": false,
+      "valor_total_cop": 8149733932,
+      "n_contratos": 5
+    },
+    {
+      "id": "P::800225318::ASOCIACION DE PADRES DE FAMILIA DE HOGARES COMUNITARIOS DE BIENESTAR SEVILLA",
+      "tipo": "proveedor",
+      "nombre": "ASOCIACION DE PADRES DE FAMILIA DE HOGARES COMUNITARIOS DE BIENESTAR SEVILLA",
+      "es_persona_natural": false,
+      "valor_total_cop": 8130090565,
+      "n_contratos": 5
+    },
+    {
+      "id": "P::9001142026::ASOCIACIÓN AFROCOLOMBIANA KUMKUMBAMANA",
+      "tipo": "proveedor",
+      "nombre": "ASOCIACIÓN AFROCOLOMBIANA KUMKUMBAMANA",
+      "es_persona_natural": false,
+      "valor_total_cop": 8128841102,
+      "n_contratos": 4
+    },
+    {
+      "id": "P::36560048::GRACIELA",
+      "tipo": "proveedor",
+      "nombre": "GRACIELA",
+      "es_persona_natural": true,
+      "valor_total_cop": 8065039687,
+      "n_contratos": 9
+    },
+    {
+      "id": "P::890206351::SISTEMAS Y COMPUTADORES S.A.",
+      "tipo": "proveedor",
+      "nombre": "SISTEMAS Y COMPUTADORES S.A.",
+      "es_persona_natural": false,
+      "valor_total_cop": 8021824921,
+      "n_contratos": 6
+    },
+    {
+      "id": "P::901806708::FEDERACION BALUARTES CAMPESINOS MAGDALENA COLOMBIA",
+      "tipo": "proveedor",
+      "nombre": "FEDERACION BALUARTES CAMPESINOS MAGDALENA COLOMBIA",
+      "es_persona_natural": false,
+      "valor_total_cop": 8010796229,
+      "n_contratos": 6
+    },
+    {
+      "id": "P::860002964::BBOGOTA",
+      "tipo": "proveedor",
+      "nombre": "BBOGOTA",
+      "es_persona_natural": false,
+      "valor_total_cop": 8000000000,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::800174611::COOTRANSMAG",
+      "tipo": "proveedor",
+      "nombre": "COOTRANSMAG",
+      "es_persona_natural": false,
+      "valor_total_cop": 7963780387,
+      "n_contratos": 3
+    },
+    {
+      "id": "P::802005585::SISTEMAS & ARCHIVOS SAS SIAR SAS",
+      "tipo": "proveedor",
+      "nombre": "SISTEMAS & ARCHIVOS SAS SIAR SAS",
+      "es_persona_natural": false,
+      "valor_total_cop": 7909067645,
+      "n_contratos": 5
+    },
+    {
+      "id": "P::891800330::UPTC",
+      "tipo": "proveedor",
+      "nombre": "UPTC",
+      "es_persona_natural": false,
+      "valor_total_cop": 7908087211,
+      "n_contratos": 4
+    },
+    {
+      "id": "P::8190071248::FUNDACIÓN HORIZONTES",
+      "tipo": "proveedor",
+      "nombre": "FUNDACIÓN HORIZONTES",
+      "es_persona_natural": false,
+      "valor_total_cop": 7901214623,
+      "n_contratos": 16
+    },
+    {
+      "id": "P::900751370::PRODESATEN SAS",
+      "tipo": "proveedor",
+      "nombre": "PRODESATEN SAS",
+      "es_persona_natural": false,
+      "valor_total_cop": 7773399999,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::901307625::Fundación Sterling del Caribe",
+      "tipo": "proveedor",
+      "nombre": "Fundación Sterling del Caribe",
+      "es_persona_natural": false,
+      "valor_total_cop": 7758245424,
+      "n_contratos": 4
+    },
+    {
+      "id": "P::901902237::CONSORCIO OBRAS VIALES 2025",
+      "tipo": "proveedor",
+      "nombre": "CONSORCIO OBRAS VIALES 2025",
+      "es_persona_natural": false,
+      "valor_total_cop": 7705567937,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::8001127279::ASOCIACION DE PADRES DE FAMILIA DE HOGARES COMUNITARIOS DE BIENESTAR RAICES",
+      "tipo": "proveedor",
+      "nombre": "ASOCIACION DE PADRES DE FAMILIA DE HOGARES COMUNITARIOS DE BIENESTAR RAICES",
+      "es_persona_natural": false,
+      "valor_total_cop": 7700150105,
+      "n_contratos": 3
+    },
+    {
+      "id": "P::901710447::E+ZES S.A.S.",
+      "tipo": "proveedor",
+      "nombre": "E+ZES S.A.S.",
+      "es_persona_natural": false,
+      "valor_total_cop": 7635000000,
+      "n_contratos": 2
+    },
+    {
+      "id": "P::800130625::HOSPITAL SAN CRISTOBAL DE CIENAGA EMPRESA SOCIAL DEL ESTADO",
+      "tipo": "proveedor",
+      "nombre": "HOSPITAL SAN CRISTOBAL DE CIENAGA EMPRESA SOCIAL DEL ESTADO",
+      "es_persona_natural": false,
+      "valor_total_cop": 7621454866,
+      "n_contratos": 9
+    },
+    {
+      "id": "P::901841098::CONSORCIO RUMBO A LOS 500 AÑOS",
+      "tipo": "proveedor",
+      "nombre": "CONSORCIO RUMBO A LOS 500 AÑOS",
+      "es_persona_natural": false,
+      "valor_total_cop": 7572515867,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::901417108::RedSumma",
+      "tipo": "proveedor",
+      "nombre": "RedSumma",
+      "es_persona_natural": false,
+      "valor_total_cop": 7562316178,
+      "n_contratos": 4
+    },
+    {
+      "id": "P::800107798::ASOCIACION DE PADRES DE FAMILIA DE HOGARES COMUNITARIOS DE BIENESTAR PUEBLO VIEJO 1",
+      "tipo": "proveedor",
+      "nombre": "ASOCIACION DE PADRES DE FAMILIA DE HOGARES COMUNITARIOS DE BIENESTAR PUEBLO VIEJO 1",
+      "es_persona_natural": false,
+      "valor_total_cop": 7523757873,
+      "n_contratos": 8
+    },
+    {
+      "id": "P::900882422::MERCADERIA S.A.S",
+      "tipo": "proveedor",
+      "nombre": "MERCADERIA S.A.S",
+      "es_persona_natural": false,
+      "valor_total_cop": 7500000000,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::819004070::ALEJANDRO PROSPERO REVEREND E.S.E.",
+      "tipo": "proveedor",
+      "nombre": "ALEJANDRO PROSPERO REVEREND E.S.E.",
+      "es_persona_natural": false,
+      "valor_total_cop": 7473858942,
+      "n_contratos": 6
+    },
+    {
+      "id": "P::900177853::FUNDEC",
+      "tipo": "proveedor",
+      "nombre": "FUNDEC",
+      "es_persona_natural": false,
+      "valor_total_cop": 7467737854,
+      "n_contratos": 6
+    },
+    {
+      "id": "P::800109831::ASOCIACIÓN DE PADRES DE FAMILIA DE HOGARES COMUNITARIOS DE BIENESTAR RINCON",
+      "tipo": "proveedor",
+      "nombre": "ASOCIACIÓN DE PADRES DE FAMILIA DE HOGARES COMUNITARIOS DE BIENESTAR RINCON",
+      "es_persona_natural": false,
+      "valor_total_cop": 7453699756,
+      "n_contratos": 4
+    },
+    {
+      "id": "P::900471966::Gestion y Proyectos RNG sas",
+      "tipo": "proveedor",
+      "nombre": "Gestion y Proyectos RNG sas",
+      "es_persona_natural": false,
+      "valor_total_cop": 7432601722,
+      "n_contratos": 3
+    },
+    {
+      "id": "P::824002197::A.G.J.",
+      "tipo": "proveedor",
+      "nombre": "A.G.J.",
+      "es_persona_natural": false,
+      "valor_total_cop": 7306824374,
+      "n_contratos": 8
+    },
+    {
+      "id": "P::8001554509::ASOCIACION PADRES DE FAMILIA",
+      "tipo": "proveedor",
+      "nombre": "ASOCIACION PADRES DE FAMILIA",
+      "es_persona_natural": false,
+      "valor_total_cop": 7283122075,
+      "n_contratos": 4
+    },
+    {
+      "id": "P::860031909::FE Y ALEGRIA",
+      "tipo": "proveedor",
+      "nombre": "FE Y ALEGRIA",
+      "es_persona_natural": false,
+      "valor_total_cop": 7273165136,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::901780964::CONSORCIO MUNICIPIOS MAGDALENA",
+      "tipo": "proveedor",
+      "nombre": "CONSORCIO MUNICIPIOS MAGDALENA",
+      "es_persona_natural": false,
+      "valor_total_cop": 7272592202,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::000000000000::UT DEPORTES MAGDALENA 2026",
+      "tipo": "proveedor",
+      "nombre": "UT DEPORTES MAGDALENA 2026",
+      "es_persona_natural": false,
+      "valor_total_cop": 7262283710,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::901759852::CONSORCIO DEPORTIVO MAGDALENA",
+      "tipo": "proveedor",
+      "nombre": "CONSORCIO DEPORTIVO MAGDALENA",
+      "es_persona_natural": false,
+      "valor_total_cop": 7232844031,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::800111753::ASOCIACION DE PADRES DE FAMILIA DE HOGARES COMUNITARIOS DE BIENESTAR EL CARMEN",
+      "tipo": "proveedor",
+      "nombre": "ASOCIACION DE PADRES DE FAMILIA DE HOGARES COMUNITARIOS DE BIENESTAR EL CARMEN",
+      "es_persona_natural": false,
+      "valor_total_cop": 7210177553,
+      "n_contratos": 12
+    },
+    {
+      "id": "P::901906305::CONSORCIO OBRAS ESPECIALES FUNDACION",
+      "tipo": "proveedor",
+      "nombre": "CONSORCIO OBRAS ESPECIALES FUNDACION",
+      "es_persona_natural": false,
+      "valor_total_cop": 7035922628,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::901312959::Corporacion Sumando Sonrisas",
+      "tipo": "proveedor",
+      "nombre": "Corporacion Sumando Sonrisas",
+      "es_persona_natural": false,
+      "valor_total_cop": 7014531130,
+      "n_contratos": 4
+    },
+    {
+      "id": "P::900078909::WAACAR LTDA",
+      "tipo": "proveedor",
+      "nombre": "WAACAR LTDA",
+      "es_persona_natural": false,
+      "valor_total_cop": 6997000000,
+      "n_contratos": 25
+    },
+    {
+      "id": "P::No Definido::UNION TEMPORAL RJMAG 2019",
+      "tipo": "proveedor",
+      "nombre": "UNION TEMPORAL RJMAG 2019",
+      "es_persona_natural": false,
+      "valor_total_cop": 6977168717,
+      "n_contratos": 8
+    },
+    {
+      "id": "P::819004747::VIAJEROS SAS",
+      "tipo": "proveedor",
+      "nombre": "VIAJEROS SAS",
+      "es_persona_natural": false,
+      "valor_total_cop": 6949029992,
+      "n_contratos": 7
+    },
+    {
+      "id": "P::900778654::CUATRO CONCEPTOS SAS",
+      "tipo": "proveedor",
+      "nombre": "CUATRO CONCEPTOS SAS",
+      "es_persona_natural": false,
+      "valor_total_cop": 6912858030,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::901419009::CR VET SAS",
+      "tipo": "proveedor",
+      "nombre": "CR VET SAS",
+      "es_persona_natural": false,
+      "valor_total_cop": 6855897436,
+      "n_contratos": 3
+    },
+    {
+      "id": "P::901781022::CONSORCIO CONSTRUCCION DE CENTROS",
+      "tipo": "proveedor",
+      "nombre": "CONSORCIO CONSTRUCCION DE CENTROS",
+      "es_persona_natural": false,
+      "valor_total_cop": 6836149760,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::819003632::E.S.E. HOSPITAL LOCAL DE ZONA BANANERA",
+      "tipo": "proveedor",
+      "nombre": "E.S.E. HOSPITAL LOCAL DE ZONA BANANERA",
+      "es_persona_natural": false,
+      "valor_total_cop": 6827812960,
+      "n_contratos": 11
+    },
+    {
+      "id": "P::800155460::APF CHINITA",
+      "tipo": "proveedor",
+      "nombre": "APF CHINITA",
+      "es_persona_natural": false,
+      "valor_total_cop": 6822656035,
+      "n_contratos": 5
+    },
+    {
+      "id": "P::823003023::FUNIPAZ",
+      "tipo": "proveedor",
+      "nombre": "FUNIPAZ",
+      "es_persona_natural": false,
+      "valor_total_cop": 6808242796,
+      "n_contratos": 4
+    },
+    {
+      "id": "P::890102572::UAC",
+      "tipo": "proveedor",
+      "nombre": "UAC",
+      "es_persona_natural": false,
+      "valor_total_cop": 6752000000,
+      "n_contratos": 2
+    },
+    {
+      "id": "P::800.225.321::ASOCIACION DE PADRES DE FAMILIA DE HOGARES COMUNITARIOS DE BIENESTAR MICAEL COTES",
+      "tipo": "proveedor",
+      "nombre": "ASOCIACION DE PADRES DE FAMILIA DE HOGARES COMUNITARIOS DE BIENESTAR MICAEL COTES",
+      "es_persona_natural": true,
+      "valor_total_cop": 6742346269,
+      "n_contratos": 10
+    },
+    {
+      "id": "P::900527327::FANS",
+      "tipo": "proveedor",
+      "nombre": "FANS",
+      "es_persona_natural": false,
+      "valor_total_cop": 6734752443,
+      "n_contratos": 2
+    },
+    {
+      "id": "P::839000692::FUNDACION REVIVIR POR LA VIDA",
+      "tipo": "proveedor",
+      "nombre": "FUNDACION REVIVIR POR LA VIDA",
+      "es_persona_natural": false,
+      "valor_total_cop": 6725277439,
+      "n_contratos": 6
+    },
+    {
+      "id": "P::901948877::UT DE LA CALLLE AL CORAZON",
+      "tipo": "proveedor",
+      "nombre": "UT DE LA CALLLE AL CORAZON",
+      "es_persona_natural": false,
+      "valor_total_cop": 6724682851,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::800109809::APFHCBLALBORADA",
+      "tipo": "proveedor",
+      "nombre": "APFHCBLALBORADA",
+      "es_persona_natural": false,
+      "valor_total_cop": 6700668405,
+      "n_contratos": 8
+    },
+    {
+      "id": "P::8000765959::ASOCIACION DE PADRES DE FAMILIA HCB SANTA FE",
+      "tipo": "proveedor",
+      "nombre": "ASOCIACION DE PADRES DE FAMILIA HCB SANTA FE",
+      "es_persona_natural": false,
+      "valor_total_cop": 6697900777,
+      "n_contratos": 7
+    },
+    {
+      "id": "P::830510985::UNIDAD DE DIAGNOSTICO Y TRATAMIENTO UROLOGICO  UROMED SAS",
+      "tipo": "proveedor",
+      "nombre": "UNIDAD DE DIAGNOSTICO Y TRATAMIENTO UROLOGICO  UROMED SAS",
+      "es_persona_natural": false,
+      "valor_total_cop": 6629000000,
+      "n_contratos": 20
+    },
+    {
+      "id": "P::901102377::Recaudos Corp SA",
+      "tipo": "proveedor",
+      "nombre": "Recaudos Corp SA",
+      "es_persona_natural": false,
+      "valor_total_cop": 6575304550,
+      "n_contratos": 5
+    },
+    {
+      "id": "P::891780157::CUERPO DE BOMBEROS VOLUNTARIOS DE SANTA MARTA",
+      "tipo": "proveedor",
+      "nombre": "CUERPO DE BOMBEROS VOLUNTARIOS DE SANTA MARTA",
+      "es_persona_natural": false,
+      "valor_total_cop": 6558897724,
+      "n_contratos": 8
+    },
+    {
+      "id": "P::900034273::EXTREME TECHNOLOGIES S.A",
+      "tipo": "proveedor",
+      "nombre": "EXTREME TECHNOLOGIES S.A",
+      "es_persona_natural": false,
+      "valor_total_cop": 6543736102,
+      "n_contratos": 2
+    },
+    {
+      "id": "P::9007264179::FUNDACION PARA EL DESARROLLO SOCIAL, LA PROTECCION Y LA PROSPERIDAD DE LA INFANCIA, LA ADOLESCENCIA Y EL ADULTO MAYOR",
+      "tipo": "proveedor",
+      "nombre": "FUNDACION PARA EL DESARROLLO SOCIAL, LA PROTECCION Y LA PROSPERIDAD DE LA INFANCIA, LA ADOLESCENCIA Y EL ADULTO MAYOR",
+      "es_persona_natural": false,
+      "valor_total_cop": 6533698342,
+      "n_contratos": 4
+    },
+    {
+      "id": "P::819005142::CORPORACION ECOLOGIA Y DESARROLLO INTEGRAL",
+      "tipo": "proveedor",
+      "nombre": "CORPORACION ECOLOGIA Y DESARROLLO INTEGRAL",
+      "es_persona_natural": false,
+      "valor_total_cop": 6524775133,
+      "n_contratos": 3
+    },
+    {
+      "id": "P::8190024081::ASOCIACION DE INTERES SOCIAL Y DESARROLLO COMUNITARIO DEL DEPARTAMENTO DEL MAGDALENA",
+      "tipo": "proveedor",
+      "nombre": "ASOCIACION DE INTERES SOCIAL Y DESARROLLO COMUNITARIO DEL DEPARTAMENTO DEL MAGDALENA",
+      "es_persona_natural": false,
+      "valor_total_cop": 6483312213,
+      "n_contratos": 2
+    },
+    {
+      "id": "P::800107791::asociacion de padres de familia de hogares comunitarios de bienstar bocas de aracataca",
+      "tipo": "proveedor",
+      "nombre": "asociacion de padres de familia de hogares comunitarios de bienstar bocas de aracataca",
+      "es_persona_natural": false,
+      "valor_total_cop": 6472069258,
+      "n_contratos": 10
+    },
+    {
+      "id": "P::819005392::MONTE DEL SINAI",
+      "tipo": "proveedor",
+      "nombre": "MONTE DEL SINAI",
+      "es_persona_natural": false,
+      "valor_total_cop": 6471302304,
+      "n_contratos": 3
+    },
+    {
+      "id": "P::800107819::ASOCIACION DE PADRES DE FAMILIA DE HOGARES COMUNITARIOS DE BIENESTAR 18 DE ENERO",
+      "tipo": "proveedor",
+      "nombre": "ASOCIACION DE PADRES DE FAMILIA DE HOGARES COMUNITARIOS DE BIENESTAR 18 DE ENERO",
+      "es_persona_natural": false,
+      "valor_total_cop": 6437963456,
+      "n_contratos": 7
+    },
+    {
+      "id": "P::901699536::CONSORCIO VILLA ROSA",
+      "tipo": "proveedor",
+      "nombre": "CONSORCIO VILLA ROSA",
+      "es_persona_natural": false,
+      "valor_total_cop": 6426526413,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::901450188::LAND PEOPLE SAS",
+      "tipo": "proveedor",
+      "nombre": "LAND PEOPLE SAS",
+      "es_persona_natural": false,
+      "valor_total_cop": 6405784935,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::901867025::ASOCIACION DE SEMBRADORES RURALES DEL MAGDALENA",
+      "tipo": "proveedor",
+      "nombre": "ASOCIACION DE SEMBRADORES RURALES DEL MAGDALENA",
+      "es_persona_natural": false,
+      "valor_total_cop": 6313773612,
+      "n_contratos": 3
+    },
+    {
+      "id": "P::9016361354::MAQUINAS OBRAS Y PROYECTOS  SAS ZOMAC",
+      "tipo": "proveedor",
+      "nombre": "MAQUINAS OBRAS Y PROYECTOS  SAS ZOMAC",
+      "es_persona_natural": false,
+      "valor_total_cop": 6265108469,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::901706726::CONSORCIO MEGA-CDV CHIVOLO",
+      "tipo": "proveedor",
+      "nombre": "CONSORCIO MEGA-CDV CHIVOLO",
+      "es_persona_natural": false,
+      "valor_total_cop": 6262339039,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::901655905::CONSORCIO VOT - AVV",
+      "tipo": "proveedor",
+      "nombre": "CONSORCIO VOT - AVV",
+      "es_persona_natural": false,
+      "valor_total_cop": 6237910534,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::800108775::apf carreño sur",
+      "tipo": "proveedor",
+      "nombre": "apf carreño sur",
+      "es_persona_natural": false,
+      "valor_total_cop": 6193012408,
+      "n_contratos": 7
+    },
+    {
+      "id": "P::900378981::Asafronelman",
+      "tipo": "proveedor",
+      "nombre": "Asafronelman",
+      "es_persona_natural": false,
+      "valor_total_cop": 6186241308,
+      "n_contratos": 4
+    },
+    {
+      "id": "P::8001098237::ASOCIACION DE  PDRES DE FAMILIA DE LOS HOGARES COMUNITARIO  DE BIENESTAR COMUNIDAD PORVENIR",
+      "tipo": "proveedor",
+      "nombre": "ASOCIACION DE  PDRES DE FAMILIA DE LOS HOGARES COMUNITARIO  DE BIENESTAR COMUNIDAD PORVENIR",
+      "es_persona_natural": false,
+      "valor_total_cop": 6181055657,
+      "n_contratos": 5
+    },
+    {
+      "id": "P::819000812::APF JANEIRO",
+      "tipo": "proveedor",
+      "nombre": "APF JANEIRO",
+      "es_persona_natural": false,
+      "valor_total_cop": 6160153577,
+      "n_contratos": 4
+    },
+    {
+      "id": "P::902068936::CONSORCIO CENTRO DE VIDA",
+      "tipo": "proveedor",
+      "nombre": "CONSORCIO CENTRO DE VIDA",
+      "es_persona_natural": false,
+      "valor_total_cop": 6113228968,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::900924278::OPENFARMA",
+      "tipo": "proveedor",
+      "nombre": "OPENFARMA",
+      "es_persona_natural": false,
+      "valor_total_cop": 6060798567,
+      "n_contratos": 8
+    },
+    {
+      "id": "P::No Definido::UTADULTOMAYORFUNDACION",
+      "tipo": "proveedor",
+      "nombre": "UTADULTOMAYORFUNDACION",
+      "es_persona_natural": false,
+      "valor_total_cop": 6047195836,
+      "n_contratos": 13
+    },
+    {
+      "id": "P::9019332356::CONSORCIO PROYECTOS LP018",
+      "tipo": "proveedor",
+      "nombre": "CONSORCIO PROYECTOS LP018",
+      "es_persona_natural": false,
+      "valor_total_cop": 6004178579,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::900841246::FUNDACION SEMBRANDO AMOR POR UN FUTURO MEJOR",
+      "tipo": "proveedor",
+      "nombre": "FUNDACION SEMBRANDO AMOR POR UN FUTURO MEJOR",
+      "es_persona_natural": false,
+      "valor_total_cop": 5985397443,
+      "n_contratos": 2
+    },
+    {
+      "id": "P::804009128::COOPERATIVA DE TRABAJO ASOCIADO PARA LA PRESTACIÓN DE SERVICIOS INTEGRALES",
+      "tipo": "proveedor",
+      "nombre": "COOPERATIVA DE TRABAJO ASOCIADO PARA LA PRESTACIÓN DE SERVICIOS INTEGRALES",
+      "es_persona_natural": false,
+      "valor_total_cop": 5952236710,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::800107814::ASOCIACION DE PADRES DE FAMILIA DE HCB OBRERO SUR",
+      "tipo": "proveedor",
+      "nombre": "ASOCIACION DE PADRES DE FAMILIA DE HCB OBRERO SUR",
+      "es_persona_natural": false,
+      "valor_total_cop": 5918390111,
+      "n_contratos": 9
+    },
+    {
+      "id": "P::901356463::INVECOR2",
+      "tipo": "proveedor",
+      "nombre": "INVECOR2",
+      "es_persona_natural": false,
+      "valor_total_cop": 5859517704,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::800112648::ASOCIACIÓN DE PADRES DE FAMILIA DE HOGARES COMUNITARIOS DE BIENESTAR – NUEVA GRANADA",
+      "tipo": "proveedor",
+      "nombre": "ASOCIACIÓN DE PADRES DE FAMILIA DE HOGARES COMUNITARIOS DE BIENESTAR – NUEVA GRANADA",
+      "es_persona_natural": false,
+      "valor_total_cop": 5841638071,
+      "n_contratos": 4
+    },
+    {
+      "id": "P::900456351::DISTRIBUIDORA Y COMERCIALIZADORA REPROQUIC SAS",
+      "tipo": "proveedor",
+      "nombre": "DISTRIBUIDORA Y COMERCIALIZADORA REPROQUIC SAS",
+      "es_persona_natural": false,
+      "valor_total_cop": 5826166930,
+      "n_contratos": 3
+    },
+    {
+      "id": "P::800109877::ASOCIACION DE PADRES DE FAMILIA DE HOGARES COMUNITARIOS DE BIENESTAR POLICARPA",
+      "tipo": "proveedor",
+      "nombre": "ASOCIACION DE PADRES DE FAMILIA DE HOGARES COMUNITARIOS DE BIENESTAR POLICARPA",
+      "es_persona_natural": false,
+      "valor_total_cop": 5767773690,
+      "n_contratos": 5
+    },
+    {
+      "id": "P::901361107::MAZ INTERVENTORES Y CONSULTORES SAS",
+      "tipo": "proveedor",
+      "nombre": "MAZ INTERVENTORES Y CONSULTORES SAS",
+      "es_persona_natural": false,
+      "valor_total_cop": 5749552494,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::901940093::UNIÓN TEMPORAL CENTROS DE VIDA, SEASOC 2025",
+      "tipo": "proveedor",
+      "nombre": "UNIÓN TEMPORAL CENTROS DE VIDA, SEASOC 2025",
+      "es_persona_natural": false,
+      "valor_total_cop": 5715197634,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::819001302::E.S.E HOSPITAL LOCAL DE TENERIFE",
+      "tipo": "proveedor",
+      "nombre": "E.S.E HOSPITAL LOCAL DE TENERIFE",
+      "es_persona_natural": false,
+      "valor_total_cop": 5675084608,
+      "n_contratos": 13
+    },
+    {
+      "id": "P::819004228::asociación de padres de familia de hogares de familia de bienestar 7 de noviembre",
+      "tipo": "proveedor",
+      "nombre": "asociación de padres de familia de hogares de familia de bienestar 7 de noviembre",
+      "es_persona_natural": false,
+      "valor_total_cop": 5664623655,
+      "n_contratos": 8
+    },
+    {
+      "id": "P::800189493::ASOCIACION DE PADRES DE FAMILIA DE HOGARES COMUNITARIOS DE BIENESTAR LA FLORESTA",
+      "tipo": "proveedor",
+      "nombre": "ASOCIACION DE PADRES DE FAMILIA DE HOGARES COMUNITARIOS DE BIENESTAR LA FLORESTA",
+      "es_persona_natural": false,
+      "valor_total_cop": 5643311871,
+      "n_contratos": 3
+    },
+    {
+      "id": "P::901640659::CORPORACION PARA EL DESARROLLO DE LA NIÑEZ",
+      "tipo": "proveedor",
+      "nombre": "CORPORACION PARA EL DESARROLLO DE LA NIÑEZ",
+      "es_persona_natural": false,
+      "valor_total_cop": 5636960932,
+      "n_contratos": 2
+    },
+    {
+      "id": "P::802012179::Dolmen",
+      "tipo": "proveedor",
+      "nombre": "Dolmen",
+      "es_persona_natural": false,
+      "valor_total_cop": 5606262426,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::No Definido::CONSORCIO SOLUVACTOR",
+      "tipo": "proveedor",
+      "nombre": "CONSORCIO SOLUVACTOR",
+      "es_persona_natural": false,
+      "valor_total_cop": 5551000000,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::830101795::FUNDACION CRISTIANA AYUDEMOS",
+      "tipo": "proveedor",
+      "nombre": "FUNDACION CRISTIANA AYUDEMOS",
+      "es_persona_natural": false,
+      "valor_total_cop": 5532230000,
+      "n_contratos": 2
+    },
+    {
+      "id": "P::901751864::FOMCOLOMBIA",
+      "tipo": "proveedor",
+      "nombre": "FOMCOLOMBIA",
+      "es_persona_natural": false,
+      "valor_total_cop": 5488000000,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::900266295::Fundacion Academia Sinu",
+      "tipo": "proveedor",
+      "nombre": "Fundacion Academia Sinu",
+      "es_persona_natural": false,
+      "valor_total_cop": 5458203666,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::819001712::ESE HOSPITAL LUISA SANTIAGA MARQUEZ IGUARAN",
+      "tipo": "proveedor",
+      "nombre": "ESE HOSPITAL LUISA SANTIAGA MARQUEZ IGUARAN",
+      "es_persona_natural": false,
+      "valor_total_cop": 5399463263,
+      "n_contratos": 9
+    },
+    {
+      "id": "P::901486053::OBRAS DEL NORTE S.A.S",
+      "tipo": "proveedor",
+      "nombre": "OBRAS DEL NORTE S.A.S",
+      "es_persona_natural": false,
+      "valor_total_cop": 5382692918,
+      "n_contratos": 2
+    },
+    {
+      "id": "P::900154064::FUNDACION CON.CIENCIA",
+      "tipo": "proveedor",
+      "nombre": "FUNDACION CON.CIENCIA",
+      "es_persona_natural": false,
+      "valor_total_cop": 5375447400,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::901650261::INSTITUTO DE MEDICINA REGENERATIVA Y CARDIOVASCULAR",
+      "tipo": "proveedor",
+      "nombre": "INSTITUTO DE MEDICINA REGENERATIVA Y CARDIOVASCULAR",
+      "es_persona_natural": false,
+      "valor_total_cop": 5346100849,
+      "n_contratos": 5
+    },
+    {
+      "id": "P::819001107::ESE HOSPITAL ALEJANDRO MAESTRE SIERRA",
+      "tipo": "proveedor",
+      "nombre": "ESE HOSPITAL ALEJANDRO MAESTRE SIERRA",
+      "es_persona_natural": false,
+      "valor_total_cop": 5342384237,
+      "n_contratos": 11
+    },
+    {
+      "id": "P::7470860::FRANCISCO GUTIERREZ CABARIQUE",
+      "tipo": "proveedor",
+      "nombre": "FRANCISCO GUTIERREZ CABARIQUE",
+      "es_persona_natural": true,
+      "valor_total_cop": 5310357922,
+      "n_contratos": 45
+    },
+    {
+      "id": "P::901100455::ALIANZA PUBLICA PARA EL DESARROLLO INTEGRAL  ALDESARROLLO - PROVEEDOR",
+      "tipo": "proveedor",
+      "nombre": "ALIANZA PUBLICA PARA EL DESARROLLO INTEGRAL  ALDESARROLLO - PROVEEDOR",
+      "es_persona_natural": false,
+      "valor_total_cop": 5276190802,
+      "n_contratos": 4
+    },
+    {
+      "id": "P::901814992::ZCC INGENIERIA S.A.S.",
+      "tipo": "proveedor",
+      "nombre": "ZCC INGENIERIA S.A.S.",
+      "es_persona_natural": false,
+      "valor_total_cop": 5267733536,
+      "n_contratos": 2
+    },
+    {
+      "id": "P::900439087::FUNDACION PASO A PASO",
+      "tipo": "proveedor",
+      "nombre": "FUNDACION PASO A PASO",
+      "es_persona_natural": false,
+      "valor_total_cop": 5246522715,
+      "n_contratos": 5
+    },
+    {
+      "id": "P::901028868::SOLUCIONES INNOVADORAS EN TECNOLOGIAS DE LA INFORMACION S.A.S.",
+      "tipo": "proveedor",
+      "nombre": "SOLUCIONES INNOVADORAS EN TECNOLOGIAS DE LA INFORMACION S.A.S.",
+      "es_persona_natural": false,
+      "valor_total_cop": 5243100000,
+      "n_contratos": 6
+    },
+    {
+      "id": "P::830144521::CORPORACION JUNTOS CONSTRUYENDO FUTURO",
+      "tipo": "proveedor",
+      "nombre": "CORPORACION JUNTOS CONSTRUYENDO FUTURO",
+      "es_persona_natural": false,
+      "valor_total_cop": 5238675526,
+      "n_contratos": 6
+    },
+    {
+      "id": "P::900114268::FUNDACION CRECE CONMIGO",
+      "tipo": "proveedor",
+      "nombre": "FUNDACION CRECE CONMIGO",
+      "es_persona_natural": false,
+      "valor_total_cop": 5222526132,
+      "n_contratos": 2
+    },
+    {
+      "id": "P::819000755::ASOCIACION DE PADRES DE FAMILIA DE HOGARES COMUNITARIOS SANTA ANA",
+      "tipo": "proveedor",
+      "nombre": "ASOCIACION DE PADRES DE FAMILIA DE HOGARES COMUNITARIOS SANTA ANA",
+      "es_persona_natural": false,
+      "valor_total_cop": 5209393671,
+      "n_contratos": 5
+    },
+    {
+      "id": "P::891780185::ESE HOSPITAL UNIVERSITARIO JULIO MENDEZ BARRENECHE",
+      "tipo": "proveedor",
+      "nombre": "ESE HOSPITAL UNIVERSITARIO JULIO MENDEZ BARRENECHE",
+      "es_persona_natural": false,
+      "valor_total_cop": 5187187146,
+      "n_contratos": 3
+    },
+    {
+      "id": "P::32686737::CONSORCIO INTERVIAL SANTA MARTA",
+      "tipo": "proveedor",
+      "nombre": "CONSORCIO INTERVIAL SANTA MARTA",
+      "es_persona_natural": true,
+      "valor_total_cop": 5186360671,
+      "n_contratos": 1
+    },
+    {
+      "id": "P::819001483::E.S.E. HOSPITAL FRAY LUIS DE LEON",
+      "tipo": "proveedor",
+      "nombre": "E.S.E. HOSPITAL FRAY LUIS DE LEON",
+      "es_persona_natural": false,
+      "valor_total_cop": 5128979729,
+      "n_contratos": 7
+    },
+    {
+      "id": "P::819004318::ESE HOSPITAL LOCAL NUEVA GRANADA",
+      "tipo": "proveedor",
+      "nombre": "ESE HOSPITAL LOCAL NUEVA GRANADA",
+      "es_persona_natural": false,
+      "valor_total_cop": 5118241984,
+      "n_contratos": 11
+    },
+    {
+      "id": "P::819005916::FUNDACION BETSHALOM",
+      "tipo": "proveedor",
+      "nombre": "FUNDACION BETSHALOM",
+      "es_persona_natural": false,
+      "valor_total_cop": 5072613663,
+      "n_contratos": 7
+    },
+    {
+      "id": "P::819002534::EMPRESA SOCIAL DEL ESTADO HOSPITAL NUESTRA SEÑORA DEL CARMEN DE GUAMAL MAGDALENA",
+      "tipo": "proveedor",
+      "nombre": "EMPRESA SOCIAL DEL ESTADO HOSPITAL NUESTRA SEÑORA DEL CARMEN DE GUAMAL MAGDALENA",
+      "es_persona_natural": false,
+      "valor_total_cop": 5044512472,
+      "n_contratos": 11
+    },
+    {
+      "id": "P::901326410::ASOCIACION DEFENSORA DE LA POBLACIÓN AFRODESCENDIENTE VICTIMA DEL CONFLICTO ARMADO",
+      "tipo": "proveedor",
+      "nombre": "ASOCIACION DEFENSORA DE LA POBLACIÓN AFRODESCENDIENTE VICTIMA DEL CONFLICTO ARMADO",
+      "es_persona_natural": false,
+      "valor_total_cop": 5019199941,
+      "n_contratos": 4
+    },
+    {
+      "id": "P::800223571::asociación de padres de familia de hogares comunitarios de bienestar la milagrosa",
+      "tipo": "proveedor",
+      "nombre": "asociación de padres de familia de hogares comunitarios de bienestar la milagrosa",
+      "es_persona_natural": false,
+      "valor_total_cop": 5013614328,
+      "n_contratos": 8
+    },
+    {
+      "id": "P::902027969::UT PAIP SM 2026",
+      "tipo": "proveedor",
+      "nombre": "UT PAIP SM 2026",
+      "es_persona_natural": false,
+      "valor_total_cop": 4981571100,
+      "n_contratos": 1
+    }
+  ],
+  "edges": [
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::No Definido::UT PROSABANAS",
+      "valor_cop": 448751745261,
+      "n_contratos": 80
+    },
+    {
+      "source": "E::ALCALDÍA DISTRITAL DE SANTA MARTA",
+      "target": "P::901128252::Empresa Distrital de Desarrollo y Renovación Urbano Sostenible de Santa Marta- EDUS",
+      "valor_cop": 253120654840,
+      "n_contratos": 30
+    },
+    {
+      "source": "E::ALCALDÍA DISTRITAL DE SANTA MARTA",
+      "target": "P::No Definido::UT OPERADOR CATASTRO MULTIPROPOSITO 2024",
+      "valor_cop": 239586534211,
+      "n_contratos": 37
+    },
+    {
+      "source": "E::Empresa Distrital de Desarrollo y Renovación Urbano Sostenible de Santa Marta- EDUS",
+      "target": "P::No Definido::UT PARQUES GALAPA 2023",
+      "valor_cop": 174237805604,
+      "n_contratos": 39
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::800233445::ASOTRACP",
+      "valor_cop": 108844609660,
+      "n_contratos": 32
+    },
+    {
+      "source": "E::SISTEMA ESTRATEGICO DE TRANSPORTE PUBLICO DE SANTA MARTA S.A.S.",
+      "target": "P::No Definido::UNIÓN TEMPORAL RECAUDO TPC SANTA MARTA",
+      "valor_cop": 94810733389,
+      "n_contratos": 9
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::900330248::SERVICIOS INTEGRADOS NP SAS",
+      "valor_cop": 93212823985,
+      "n_contratos": 16
+    },
+    {
+      "source": "E::ALCALDÍA DISTRITAL DE SANTA MARTA",
+      "target": "P::902028101::UNION TEMPORAL NUTRIVIDA",
+      "valor_cop": 92769808000,
+      "n_contratos": 2
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::819004113::CORPORACION COMUNITARIA PARA EL DESARROLLO DE LAS FAMILIAS Y COMUNIDADES DEL MAGDALENA",
+      "valor_cop": 69676122675,
+      "n_contratos": 24
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::8190063461::FUNDACION ESPERANZA VERDE DE LOS NIÑOS EVENI",
+      "valor_cop": 66555581413,
+      "n_contratos": 18
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::900139836::CORPORACION COMUNITARIA COCRECER",
+      "valor_cop": 57559862789,
+      "n_contratos": 20
+    },
+    {
+      "source": "E::SISTEMA ESTRATEGICO DE TRANSPORTE PUBLICO DE SANTA MARTA S.A.S.",
+      "target": "P::9006281103::BANCO SANTANDER DE NEGOCIOS COLOMBIA SA",
+      "valor_cop": 50000000000,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::819005824::CORPORACIÓN REGIONAL DE DESARROLLO SOL CARIBE",
+      "valor_cop": 49085749231,
+      "n_contratos": 13
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::900425101::FUNDACION PARA EL DESARROLLO DE LAS FAMILIAS",
+      "valor_cop": 48956697330,
+      "n_contratos": 12
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::9019360195::CONSORCIO CENTRO CAMBIA",
+      "valor_cop": 47141895728,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::CORPORACION AUTONOMA REGIONAL DEL MAGDALENA",
+      "target": "P::901433145::INTERVENTORES E INGENIERIA SAS",
+      "valor_cop": 47022893792,
+      "n_contratos": 2
+    },
+    {
+      "source": "E::ALCALDÍA DISTRITAL DE SANTA MARTA",
+      "target": "P::901789879::UNION TEMPORAL TSAMPA",
+      "valor_cop": 46085052000,
+      "n_contratos": 2
+    },
+    {
+      "source": "E::ALCALDÍA DISTRITAL DE SANTA MARTA",
+      "target": "P::901708201::CONSORCIO COLECTORES FGP",
+      "valor_cop": 44552917156,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::SISTEMA ESTRATEGICO DE TRANSPORTE PUBLICO DE SANTA MARTA S.A.S.",
+      "target": "P::800209530::constructora fg s.a.s",
+      "valor_cop": 42366175972,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::8190043108::ORGANIZACION INTERDISCIPLINARIA MUNDO EN ACCION ORIMA",
+      "valor_cop": 40435729363,
+      "n_contratos": 9
+    },
+    {
+      "source": "E::Empresa Distrital de Desarrollo y Renovación Urbano Sostenible de Santa Marta- EDUS",
+      "target": "P::9006281103::BANCO SANTANDER DE NEGOCIOS COLOMBIA SA",
+      "valor_cop": 40000000000,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::802007962::Fundación CEDESOCIAL",
+      "valor_cop": 39561086189,
+      "n_contratos": 22
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::891780111::UNIMAGDALENA",
+      "valor_cop": 39244496810,
+      "n_contratos": 14
+    },
+    {
+      "source": "E::ESE HOSPITAL UNIVERSITARIO JULIO MENDEZ BARRENECHE",
+      "target": "P::No Definido::UT HORUS LEEX 2023",
+      "valor_cop": 37418741504,
+      "n_contratos": 63
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::825001418::ASOPROYUJA",
+      "valor_cop": 36301585034,
+      "n_contratos": 13
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::900070338::ASOCIACION AFRODESCENDIENTE DESARROLLO Y VIDA DE NUESTRA NIÑEZ",
+      "valor_cop": 36155681643,
+      "n_contratos": 17
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::819002119::FUNDACION PARA EL BIENESTAR SOCIAL DE LA COMUNIDAD",
+      "valor_cop": 35271041133,
+      "n_contratos": 9
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::823003298::FUNDACION UNIDAD SOCIAL BARRIO ADENTRO",
+      "valor_cop": 34235048503,
+      "n_contratos": 7
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::901931701::UNION TEMPORAL ABC PAE",
+      "valor_cop": 33704287076,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::8605127804::Universidad Nacional Abierta y a Distancia+",
+      "valor_cop": 33125928614,
+      "n_contratos": 2
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::901635210::U. T. PAE MAGDALENA 2022",
+      "valor_cop": 32519158056,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::900821294::ASOARHUACO",
+      "valor_cop": 32295600469,
+      "n_contratos": 7
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::901932032::UNIÓN TEMPORAL MAGDALENA VITAL",
+      "valor_cop": 32008513498,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::ALCALDÍA DISTRITAL DE SANTA MARTA",
+      "target": "P::900656963::FUNDACION AUTOGESTIONARIA PARA EL DESARROLLO INTEGRAL DE LAS COMUNIDADES AFRODESCENDIENTES",
+      "valor_cop": 31104389635,
+      "n_contratos": 6
+    },
+    {
+      "source": "E::SERVICIO NACIONAL DE APRENDIZAJE - SENA MAGDALENA",
+      "target": "P::819002176::COMPAÑIA COLOMBIANA DE SALUD COLSALUD S.A",
+      "valor_cop": 30610965500,
+      "n_contratos": 5
+    },
+    {
+      "source": "E::ALCALDÍA DISTRITAL DE SANTA MARTA",
+      "target": "P::901908308::CONSORCIO EBAR NORTE",
+      "valor_cop": 30275593981,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::9010719693::CABILDO ARHUACO DEL MAGDALENA Y GUAJIRA SIERRA NEVADA",
+      "valor_cop": 29926907780,
+      "n_contratos": 22
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::9014788701::FONDO MIXTO SIERRA NEVADA",
+      "valor_cop": 29096784358,
+      "n_contratos": 9
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::901936969::CONSORCIO I.E. MAGDALENA",
+      "valor_cop": 28848317649,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::802002415::CODIFA S.A.S",
+      "valor_cop": 28654664139,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::ALCALDIA MUNICIPIO DE SITIONUEVO",
+      "target": "P::9019046561::SITISEM SAS",
+      "valor_cop": 28409614844,
+      "n_contratos": 13
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::900114628::ong corporacion internacional para el desarrollo comunitario de la costa atlantica",
+      "valor_cop": 28170775944,
+      "n_contratos": 8
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::9020444226::CONSORCIO GESTION VÍA",
+      "valor_cop": 27023346386,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::819001290::ASOCIACION DE PADRES DE FAMILIA Y VECINOS DEL HOGAR INFANTIL MINUTO DE DIOS",
+      "valor_cop": 26747534238,
+      "n_contratos": 13
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::9018431613::CONSORCIO MANTENIMIENTO VIAL",
+      "valor_cop": 26628285818,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::CORPORACION AUTONOMA REGIONAL DEL MAGDALENA",
+      "target": "P::901962247::CONSORCIO AREAS AMBIENTALES CGSM 2025",
+      "valor_cop": 26315528407,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::860524219::Fundación de Educación Superior San José",
+      "valor_cop": 26285942043,
+      "n_contratos": 2
+    },
+    {
+      "source": "E::ALCALDÍA DISTRITAL DE SANTA MARTA",
+      "target": "P::901724642::U.T PROTECCION COSTERA PLAYA SALGUERO",
+      "valor_cop": 26179701315,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::900406140::CONSEJO COMUNITARIO DE LA COMUNIDAD NEGRA DE ARACATACA JACOBO PEREZ  ESCOBAR",
+      "valor_cop": 26085743574,
+      "n_contratos": 11
+    },
+    {
+      "source": "E::Empresa Distrital de Desarrollo y Renovación Urbano Sostenible de Santa Marta- EDUS",
+      "target": "P::9020146715::UT PAVIMENTAR SANTA MARTA",
+      "valor_cop": 25906827876,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::900120913::FUNDACION PARA BRINDAR UN MEJOR VIVIR",
+      "valor_cop": 25611417208,
+      "n_contratos": 11
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::901763200::CONSORCIO ECOGEMA 2023",
+      "valor_cop": 25512771360,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::901168222::IU. Digital",
+      "valor_cop": 25376917692,
+      "n_contratos": 5
+    },
+    {
+      "source": "E::ALCALDÍA DISTRITAL DE SANTA MARTA",
+      "target": "P::819002750::VIVAC SEGURIDAD LTDA",
+      "valor_cop": 25199986820,
+      "n_contratos": 8
+    },
+    {
+      "source": "E::ESSMAR E.S.P.",
+      "target": "P::901085486::hlessing industries s.a.s",
+      "valor_cop": 24624327668,
+      "n_contratos": 4
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::819000491::ASOCIACION DE PADRES DE FAMILIA DEL HOGAR INFANTIL ALMENDROS",
+      "valor_cop": 24451202831,
+      "n_contratos": 13
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::1083003797::Dimas José Campo Robles",
+      "valor_cop": 24417913702,
+      "n_contratos": 4
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::9019649055::CONSORCIO OBRAS VIALES MAGDALENA",
+      "valor_cop": 23615452638,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::900103852::FUNDACION REALIZANDO SUEÑOS POR COLOMBIA",
+      "valor_cop": 23524043278,
+      "n_contratos": 12
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::802021821::FUNDACION INSTITUCION ANTONIO NARINO",
+      "valor_cop": 23400805238,
+      "n_contratos": 6
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::900094547::FUNDACION SEMBRANDO FUTURO",
+      "valor_cop": 23172447577,
+      "n_contratos": 6
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::900689018::No Definido",
+      "valor_cop": 22729889897,
+      "n_contratos": 6
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::900656963::FUNDACION AUTOGESTIONARIA PARA EL DESARROLLO INTEGRAL DE LAS COMUNIDADES AFRODESCENDIENTES",
+      "valor_cop": 22600518629,
+      "n_contratos": 21
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::860403137::ORGANIZACION DE ESTADOS IBEROAMERICANOS OEI",
+      "valor_cop": 22517432862,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::901934482::CONSORCIO INSTITUCIONES MAGDALENA",
+      "valor_cop": 22413045946,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::CORPORACION AUTONOMA REGIONAL DEL MAGDALENA",
+      "target": "P::85468947::COPIAS DEL PARQUE",
+      "valor_cop": 22153500000,
+      "n_contratos": 5
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::819002750::VIVAC SEGURIDAD LTDA",
+      "valor_cop": 21758027562,
+      "n_contratos": 12
+    },
+    {
+      "source": "E::SERVICIO NACIONAL DE APRENDIZAJE - SENA MAGDALENA",
+      "target": "P::1085103956::JAIRO ENRIQUE ROJAS BELEÑO",
+      "valor_cop": 21501597875,
+      "n_contratos": 2
+    },
+    {
+      "source": "E::ALCALDIA MUNICIPAL DE FUNDACION",
+      "target": "P::9014788701::FONDO MIXTO SIERRA NEVADA",
+      "valor_cop": 21296174894,
+      "n_contratos": 3
+    },
+    {
+      "source": "E::ALCALDÍA DISTRITAL DE SANTA MARTA",
+      "target": "P::900066971::IGLESIA CENTRO BIBLICO INTERNACIONAL EMANUEL",
+      "valor_cop": 20657533467,
+      "n_contratos": 2
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::802015768::FUNDACION MULTIACTIVA AHINCO ONG",
+      "valor_cop": 20412532392,
+      "n_contratos": 3
+    },
+    {
+      "source": "E::SISTEMA ESTRATEGICO DE TRANSPORTE PUBLICO DE SANTA MARTA S.A.S.",
+      "target": "P::830509276::TICOM S.A.",
+      "valor_cop": 20340225396,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::DEPARTAMENTO ADMINISTRATIVO DISTRITAL DE SOSTENIBILIDAD AMBIENTAL DADSA*",
+      "target": "P::901524353::FUNDACION PARA EL DESARROLLO DE ENTORNOS SALUDABLES Y AMBIENTALES",
+      "valor_cop": 20020000000,
+      "n_contratos": 2
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::860512780::UNAD",
+      "valor_cop": 19952905358,
+      "n_contratos": 5
+    },
+    {
+      "source": "E::ESE HOSPITAL UNIVERSITARIO JULIO MENDEZ BARRENECHE",
+      "target": "P::860350711::Comprolab S.A.S",
+      "valor_cop": 19697370248,
+      "n_contratos": 27
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::800249355::SUPERSERVICIOS DE NARIÑO S.A.",
+      "valor_cop": 19541162999,
+      "n_contratos": 2
+    },
+    {
+      "source": "E::ALCALDÍA DISTRITAL DE SANTA MARTA",
+      "target": "P::800215546::INSTITUTO NACIONAL PENITENCIARIO Y CARCELARIO INPEC+",
+      "valor_cop": 19409400000,
+      "n_contratos": 4
+    },
+    {
+      "source": "E::Empresa Distrital de Desarrollo y Renovación Urbano Sostenible de Santa Marta- EDUS",
+      "target": "P::890115406::A Construir S.A.",
+      "valor_cop": 19243064255,
+      "n_contratos": 2
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::0::UNION TEMPORAL ADN",
+      "valor_cop": 19217948902,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::ALCALDÍA DISTRITAL DE SANTA MARTA",
+      "target": "P::900623310::FUNDACION SOCIAL FORMACION AL FUTURO",
+      "valor_cop": 19063301823,
+      "n_contratos": 7
+    },
+    {
+      "source": "E::ALCALDÍA DISTRITAL DE SANTA MARTA",
+      "target": "P::830509276::TICOM S.A.",
+      "valor_cop": 18781737885,
+      "n_contratos": 3
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::901857433::CONSORCIO OBRAS ESPECIALES MAGDALENA",
+      "valor_cop": 18481895517,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::9002306365::FUNDACION AFROCOLOMBIANA RAIZALES",
+      "valor_cop": 18206435644,
+      "n_contratos": 14
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::802011827::ASOCIACION COMUNITARIA PROYECTAR DE LA COSTA SONRISA DE LOS NIÑOS",
+      "valor_cop": 17963003482,
+      "n_contratos": 6
+    },
+    {
+      "source": "E::ALCALDÍA DISTRITAL DE SANTA MARTA",
+      "target": "P::900156270::RENATA",
+      "valor_cop": 17600000000,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::ALCALDÍA DISTRITAL DE SANTA MARTA",
+      "target": "P::901383763::INTEGRAL DE ASEO DEL CARIBE S.A.S",
+      "valor_cop": 17303796281,
+      "n_contratos": 3
+    },
+    {
+      "source": "E::ALCALDÍA DISTRITAL DE SANTA MARTA",
+      "target": "P::804009295::CCOC",
+      "valor_cop": 17257873758,
+      "n_contratos": 3
+    },
+    {
+      "source": "E::ESE HOSPITAL UNIVERSITARIO JULIO MENDEZ BARRENECHE",
+      "target": "P::900330248::SERVICIOS INTEGRADOS NP SAS",
+      "valor_cop": 17015276218,
+      "n_contratos": 21
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::900424461::FUNDACION PARA EL BIENESTAR SOCIAL Y AMBIENTAL",
+      "valor_cop": 16996072389,
+      "n_contratos": 2
+    },
+    {
+      "source": "E::Rama Judicial – Dirección Seccional de Administración Judicial de Santa Marta",
+      "target": "P::890111018::SERVICONI LTDA",
+      "valor_cop": 16810577720,
+      "n_contratos": 12
+    },
+    {
+      "source": "E::ESE HOSPITAL UNIVERSITARIO JULIO MENDEZ BARRENECHE",
+      "target": "P::39013901::PROVEAL",
+      "valor_cop": 16806189527,
+      "n_contratos": 19
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::899999230::UNIVERSIDAD DISTRITAL FRANCISCO JOSE DE CALDAS",
+      "valor_cop": 16631822776,
+      "n_contratos": 6
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::899999063::UNIVERSIDAD NACIONAL DE COLOMBIA",
+      "valor_cop": 16628371058,
+      "n_contratos": 5
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::8190008433::INSTITUTO DEPARTAMENTAL DE DEPORTES DEL MAGDALENA",
+      "valor_cop": 16578131734,
+      "n_contratos": 11
+    },
+    {
+      "source": "E::ALCALDÍA DISTRITAL DE SANTA MARTA",
+      "target": "P::819005400::FUNDACION SAN JOSE",
+      "valor_cop": 16371785467,
+      "n_contratos": 6
+    },
+    {
+      "source": "E::ALCALDÍA DISTRITAL DE SANTA MARTA",
+      "target": "P::900295857::FUNDACION ARTE PARA EL DESARROLLO",
+      "valor_cop": 16368455803,
+      "n_contratos": 11
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::900053483::Fundación para el desarrollo de la calidad educativa FUNDED",
+      "valor_cop": 16094481075,
+      "n_contratos": 6
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::900596133::FUNDACION SOCIAL MUNDO INTEGRAL - FUSMUNDI",
+      "valor_cop": 16073762251,
+      "n_contratos": 9
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::9018603080::UNIÓN TEMPORAL ALIMENTOS MAGDALENA",
+      "valor_cop": 15986441460,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::ALCALDÍA DISTRITAL DE SANTA MARTA",
+      "target": "P::900173983::INTERLUD SAS",
+      "valor_cop": 15900187617,
+      "n_contratos": 8
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::806009816::Fundación Por Una Colombia Digna",
+      "valor_cop": 15708814431,
+      "n_contratos": 12
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::900764738::CORPORACION PARA EL SERVICIO DEL DESARROLLO SOCIAL DE LAS COMUNIDADES",
+      "valor_cop": 15447443766,
+      "n_contratos": 4
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::860006648::FUNDACION CARULLA AEIOTU",
+      "valor_cop": 15353376117,
+      "n_contratos": 2
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::830508876::Corporación Desarrollo Social y Comunitario - CORDESCO",
+      "valor_cop": 15137917088,
+      "n_contratos": 7
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::901844014::CONSORCIO VIAS TERCIARIAS 2024",
+      "valor_cop": 15086769263,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::900402579::FUCAVIDES",
+      "valor_cop": 15044742614,
+      "n_contratos": 5
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::900189051::FUNDALIANS",
+      "valor_cop": 14760175489,
+      "n_contratos": 7
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::9020802293::CONSORCIO SALUD Y VIDA PIJIÑO",
+      "valor_cop": 14694428586,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::901128252::Empresa Distrital de Desarrollo y Renovación Urbano Sostenible de Santa Marta- EDUS",
+      "valor_cop": 14232377763,
+      "n_contratos": 2
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::901372389::UBUNTU",
+      "valor_cop": 13994713501,
+      "n_contratos": 14
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::806012163::CORPORACIÓN RAZÓN SOCIAL",
+      "valor_cop": 13665563450,
+      "n_contratos": 2
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::900787767::FUNDESOLPAZ",
+      "valor_cop": 13580897891,
+      "n_contratos": 5
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::9013225137::FUNDACION SEMILLEROS DE AMOR Y ESPERANZA",
+      "valor_cop": 13533708267,
+      "n_contratos": 5
+    },
+    {
+      "source": "E::ALCALDÍA DISTRITAL DE SANTA MARTA",
+      "target": "P::804008684::NEOMUNDO",
+      "valor_cop": 13481002502,
+      "n_contratos": 2
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::8230030871::FERVI",
+      "valor_cop": 13261514554,
+      "n_contratos": 2
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::901490471::FUNDACION AMOR Y PROTECCION PARA LA INFANCIA",
+      "valor_cop": 12900646893,
+      "n_contratos": 4
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::800076734::ASOCIACION DE PADRES DE FAMILIA DE HCB JUANXXII",
+      "valor_cop": 12813480878,
+      "n_contratos": 9
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::901965323::CONSORCIO VIAS MONSE 2025",
+      "valor_cop": 12670924457,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::ALCALDÍA DISTRITAL DE SANTA MARTA",
+      "target": "P::830049060::GESTION Y DESARROLLO",
+      "valor_cop": 12624570173,
+      "n_contratos": 4
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::819006727::FUNDACION ASESORIA CONSULTORIA E INVESTIGACIONES PARA EL  DESARROLLO SOCIAL",
+      "valor_cop": 12178381440,
+      "n_contratos": 6
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::830121654::7M GROUP SA",
+      "valor_cop": 11998671927,
+      "n_contratos": 2
+    },
+    {
+      "source": "E::ALCALDÍA DISTRITAL DE SANTA MARTA",
+      "target": "P::901131788::INSTITUTO DISTRITAL DE TURISMO DE SANTA MARTA",
+      "valor_cop": 11954872264,
+      "n_contratos": 10
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::819006201::Asociación de Profesionales para el Desarrollo Empresarial y Social de la Región Caribe APDES",
+      "valor_cop": 11804737856,
+      "n_contratos": 6
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::900051017::FUNDAPROFUT",
+      "valor_cop": 11803399698,
+      "n_contratos": 3
+    },
+    {
+      "source": "E::CORPORACION AUTONOMA REGIONAL DEL MAGDALENA",
+      "target": "P::No Definido::U.T. ARACATACA BIODIVERSA",
+      "valor_cop": 11615003072,
+      "n_contratos": 3
+    },
+    {
+      "source": "E::ESE HOSPITAL UNIVERSITARIO JULIO MENDEZ BARRENECHE",
+      "target": "P::901153192::DETECCION SEGURIDAD PRIVADA LIMITADA",
+      "valor_cop": 11545615849,
+      "n_contratos": 19
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::819007007::ASOCIACION PARA EL DESARROLLO SOCIAL, INTEGRAL Y COMUNITARIA DE LA COSTA",
+      "valor_cop": 11519740545,
+      "n_contratos": 4
+    },
+    {
+      "source": "E::ALCALDÍA DISTRITAL DE SANTA MARTA",
+      "target": "P::901784656::CONSORCIO SIERRA NEVADA",
+      "valor_cop": 11471710034,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::891780111::UNIMAGDALENA",
+      "valor_cop": 11418023873,
+      "n_contratos": 6
+    },
+    {
+      "source": "E::ALCALDÍA DISTRITAL DE SANTA MARTA",
+      "target": "P::800135729::Empresa de Recursos Tecnologicos del Valle",
+      "valor_cop": 11386789432,
+      "n_contratos": 3
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::901863115::CONSORCIO VIAS DEL MAGDALENA",
+      "valor_cop": 11385060454,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::900341384::EQUIPAR TM LTDA",
+      "valor_cop": 11129527500,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::800109812::ASOCIACION DE PADRES DE FAMILIA DE HCB PALMIRA",
+      "valor_cop": 11050313432,
+      "n_contratos": 12
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::901799335::UNION TEMPORAL MAGDALENA",
+      "valor_cop": 10942631528,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::900210773::Fundación Crecer Colombia",
+      "valor_cop": 10882525381,
+      "n_contratos": 5
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::819000177::APF BARRIO ARRIBA",
+      "valor_cop": 10776853136,
+      "n_contratos": 8
+    },
+    {
+      "source": "E::SERVICIO NACIONAL DE APRENDIZAJE - SENA MAGDALENA",
+      "target": "P::900845290::GRUPO EMPRESARIAL GAVA SAS",
+      "valor_cop": 10752659386,
+      "n_contratos": 92
+    },
+    {
+      "source": "E::MUNICIPIO DE PLATO",
+      "target": "P::901793934::SEREGAS SAS",
+      "valor_cop": 10528229247,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::900954822::FUNDACION SOL VIVIR AFROCOLOMBIANO",
+      "valor_cop": 10499301704,
+      "n_contratos": 22
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::825001822::INDIRA PAOLA BUENDIA  GARCIA",
+      "valor_cop": 10482345928,
+      "n_contratos": 55
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::800225279::APF GUACAMAYAL",
+      "valor_cop": 10472139549,
+      "n_contratos": 7
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::37247617::INDUVICAR 2",
+      "valor_cop": 10409114785,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::901433149::AAFRIGAMAG",
+      "valor_cop": 10223442775,
+      "n_contratos": 11
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::819002879::ASOCIACION DE PADRES DE FAMILIA DE HOGARES COMUNITARIOS DE BIENESTAR 5 DE FEBRERO",
+      "valor_cop": 10133626088,
+      "n_contratos": 6
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::9009491100::FUNDACION CLAMOR POR LA VIDA",
+      "valor_cop": 10067858696,
+      "n_contratos": 4
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::900457831::CORPORACION PIEDRALIPE",
+      "valor_cop": 10027782671,
+      "n_contratos": 10
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::819002025::E.S.E. HOSPITAL SANTANDER HERRERA",
+      "valor_cop": 10010729886,
+      "n_contratos": 14
+    },
+    {
+      "source": "E::Empresa Distrital de Desarrollo y Renovación Urbano Sostenible de Santa Marta- EDUS",
+      "target": "P::900342579::SISTEMA ESTRATEGICO DE TRANSPORTE PUBLICO DE SANTA MARTA S.A.S.",
+      "valor_cop": 10000000000,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::ALCALDÍA DISTRITAL DE SANTA MARTA",
+      "target": "P::901727964::CONSORCIO MALLA VIAL RODADERO 2023",
+      "valor_cop": 9947083648,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::900856498::MANTELES Y CRISTALES",
+      "valor_cop": 9851371913,
+      "n_contratos": 11
+    },
+    {
+      "source": "E::ALCALDÍA DISTRITAL DE SANTA MARTA",
+      "target": "P::900342579::SISTEMA ESTRATEGICO DE TRANSPORTE PUBLICO DE SANTA MARTA S.A.S.",
+      "valor_cop": 9787898357,
+      "n_contratos": 8
+    },
+    {
+      "source": "E::ALCALDIA MUNICIPAL DE FUNDACION",
+      "target": "P::900173983::INTERLUD SAS",
+      "valor_cop": 9664186096,
+      "n_contratos": 3
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::900085882::fundacion rehabilitacion integral",
+      "valor_cop": 9490656084,
+      "n_contratos": 18
+    },
+    {
+      "source": "E::SERVICIO NACIONAL DE APRENDIZAJE - SENA MAGDALENA",
+      "target": "P::900701630::IMPOINTER S.A.S.",
+      "valor_cop": 9468322280,
+      "n_contratos": 10
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::891780008::ESE HOSPITAL DEPARTAMENTAL SAN RAFAEL",
+      "valor_cop": 9450041839,
+      "n_contratos": 10
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::901760072::CONSORCIO MULTIDEPORTES 2023",
+      "valor_cop": 9393286742,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::ALCALDÍA DISTRITAL DE SANTA MARTA",
+      "target": "P::891780111::UNIMAGDALENA",
+      "valor_cop": 9348356226,
+      "n_contratos": 4
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::800077110::ASOCIACION DE PADRES DE FAMILIA DE HOGARES COMUNITARIOS DE BIENESTAR BONDA",
+      "valor_cop": 9286601665,
+      "n_contratos": 9
+    },
+    {
+      "source": "E::ALCALDIA DE CIENAGA MAGDALENA",
+      "target": "P::No Definido::UNION TEMPORAL CÉNIT",
+      "valor_cop": 9261946604,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::8001123047::Asociación de padres de familia de hogares comunitarios de bienestar Santo Domingo",
+      "valor_cop": 9214393749,
+      "n_contratos": 4
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::819001155::APF SANTA TERESA",
+      "valor_cop": 9167722729,
+      "n_contratos": 6
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::900011782::FUNDACION PARA EL DESARROLLO INTEGRAL SOSTENIBLE ENERGIA VITAL",
+      "valor_cop": 9143743200,
+      "n_contratos": 4
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::901376745::PEZ VELA INGENIERIA SAS",
+      "valor_cop": 9046525041,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::ESE HOSPITAL DEPARTAMENTAL SAN RAFAEL",
+      "target": "P::No Definido::No Definido",
+      "valor_cop": 9034252194,
+      "n_contratos": 24
+    },
+    {
+      "source": "E::ESE HOSPITAL UNIVERSITARIO JULIO MENDEZ BARRENECHE",
+      "target": "P::9015231889::MEDQUIRURGICOS",
+      "valor_cop": 8995000000,
+      "n_contratos": 21
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::902014776::UNION TEMPORAL VIDA ACTIVA",
+      "valor_cop": 8917314222,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::ALCALDÍA DISTRITAL DE SANTA MARTA",
+      "target": "P::800230023::Foculgua",
+      "valor_cop": 8748457837,
+      "n_contratos": 14
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::900248683::FUNDACION MANOS UNIDAS POR EL MAGDALENA",
+      "valor_cop": 8723249455,
+      "n_contratos": 4
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::900880521::iDoc",
+      "valor_cop": 8716152820,
+      "n_contratos": 11
+    },
+    {
+      "source": "E::Rama Judicial – Dirección Seccional de Administración Judicial de Santa Marta",
+      "target": "P::811044253::ASEAR SAS ESP",
+      "valor_cop": 8698486259,
+      "n_contratos": 8
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::800154347::Empresa Social del Estado Hospital La Candelaria*",
+      "valor_cop": 8566282290,
+      "n_contratos": 10
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::800111755::ASOCIACION DE PADRES DE FAMILIA DE HCB PARAISO SEGUNDO",
+      "valor_cop": 8563710519,
+      "n_contratos": 8
+    },
+    {
+      "source": "E::INSTITUTO DISTRITAL DE SANTA MARTA PARA LA RECREACIÓN Y EL DEPORTE",
+      "target": "P::860016662::COMITÉ OLÍMPICO COLOMBIANO",
+      "valor_cop": 8525670000,
+      "n_contratos": 4
+    },
+    {
+      "source": "E::ALCALDÍA DISTRITAL DE SANTA MARTA",
+      "target": "P::900130852::VISION URBANA",
+      "valor_cop": 8422091443,
+      "n_contratos": 2
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::900395286::ASAFROBAN",
+      "valor_cop": 8416736738,
+      "n_contratos": 15
+    },
+    {
+      "source": "E::ALCALDÍA DISTRITAL DE SANTA MARTA",
+      "target": "P::900360821::FUNDACIÓN SOCIAL GUATAPURÍ",
+      "valor_cop": 8366961120,
+      "n_contratos": 3
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::830025916::IMPOCOSER S.A.S",
+      "valor_cop": 8364480000,
+      "n_contratos": 3
+    },
+    {
+      "source": "E::Empresa Distrital de Desarrollo y Renovación Urbano Sostenible de Santa Marta- EDUS",
+      "target": "P::900156222::INGENIEROS EMPRESARIOS DE COLOMBIA S.A.S",
+      "valor_cop": 8362798330,
+      "n_contratos": 3
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::900429803::FUNDACIÓN MULTIACTIVA CARIBE INTEGRADO",
+      "valor_cop": 8289807500,
+      "n_contratos": 3
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::9019685258::CONSORCIO VIAS SANTA MARTA 25",
+      "valor_cop": 8268766477,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::800109799::ASOCIACION DE PADRES DE FAMILIA DE HCB PUEBLO VIEJO II",
+      "valor_cop": 8227586630,
+      "n_contratos": 7
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::806008896::COMULRES",
+      "valor_cop": 8149733932,
+      "n_contratos": 5
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::800225318::ASOCIACION DE PADRES DE FAMILIA DE HOGARES COMUNITARIOS DE BIENESTAR SEVILLA",
+      "valor_cop": 8130090565,
+      "n_contratos": 5
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::9001142026::ASOCIACIÓN AFROCOLOMBIANA KUMKUMBAMANA",
+      "valor_cop": 8128841102,
+      "n_contratos": 4
+    },
+    {
+      "source": "E::ALCALDÍA DISTRITAL DE SANTA MARTA",
+      "target": "P::36560048::GRACIELA",
+      "valor_cop": 8065039687,
+      "n_contratos": 9
+    },
+    {
+      "source": "E::ALCALDÍA DISTRITAL DE SANTA MARTA",
+      "target": "P::900330248::SERVICIOS INTEGRADOS NP SAS",
+      "valor_cop": 8022838440,
+      "n_contratos": 4
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::890206351::SISTEMAS Y COMPUTADORES S.A.",
+      "valor_cop": 8021824921,
+      "n_contratos": 6
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::901806708::FEDERACION BALUARTES CAMPESINOS MAGDALENA COLOMBIA",
+      "valor_cop": 8010796229,
+      "n_contratos": 6
+    },
+    {
+      "source": "E::ALCALDIA MUNICIPIO DE SITIONUEVO",
+      "target": "P::860002964::BBOGOTA",
+      "valor_cop": 8000000000,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::ALCALDÍA DISTRITAL DE SANTA MARTA",
+      "target": "P::800174611::COOTRANSMAG",
+      "valor_cop": 7963780387,
+      "n_contratos": 3
+    },
+    {
+      "source": "E::Rama Judicial – Dirección Seccional de Administración Judicial de Santa Marta",
+      "target": "P::802005585::SISTEMAS & ARCHIVOS SAS SIAR SAS",
+      "valor_cop": 7909067645,
+      "n_contratos": 5
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::891800330::UPTC",
+      "valor_cop": 7908087211,
+      "n_contratos": 4
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::8190071248::FUNDACIÓN HORIZONTES",
+      "valor_cop": 7901214623,
+      "n_contratos": 16
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::900751370::PRODESATEN SAS",
+      "valor_cop": 7773399999,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::901307625::Fundación Sterling del Caribe",
+      "valor_cop": 7758245424,
+      "n_contratos": 4
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::901902237::CONSORCIO OBRAS VIALES 2025",
+      "valor_cop": 7705567937,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::8001127279::ASOCIACION DE PADRES DE FAMILIA DE HOGARES COMUNITARIOS DE BIENESTAR RAICES",
+      "valor_cop": 7700150105,
+      "n_contratos": 3
+    },
+    {
+      "source": "E::Empresa Distrital de Desarrollo y Renovación Urbano Sostenible de Santa Marta- EDUS",
+      "target": "P::901710447::E+ZES S.A.S.",
+      "valor_cop": 7635000000,
+      "n_contratos": 2
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::800130625::HOSPITAL SAN CRISTOBAL DE CIENAGA EMPRESA SOCIAL DEL ESTADO",
+      "valor_cop": 7621454866,
+      "n_contratos": 9
+    },
+    {
+      "source": "E::ALCALDÍA DISTRITAL DE SANTA MARTA",
+      "target": "P::901841098::CONSORCIO RUMBO A LOS 500 AÑOS",
+      "valor_cop": 7572515867,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::ALCALDÍA DISTRITAL DE SANTA MARTA",
+      "target": "P::901417108::RedSumma",
+      "valor_cop": 7562316178,
+      "n_contratos": 4
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::800107798::ASOCIACION DE PADRES DE FAMILIA DE HOGARES COMUNITARIOS DE BIENESTAR PUEBLO VIEJO 1",
+      "valor_cop": 7523757873,
+      "n_contratos": 8
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::900882422::MERCADERIA S.A.S",
+      "valor_cop": 7500000000,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::ALCALDÍA DISTRITAL DE SANTA MARTA",
+      "target": "P::819004070::ALEJANDRO PROSPERO REVEREND E.S.E.",
+      "valor_cop": 7473858942,
+      "n_contratos": 6
+    },
+    {
+      "source": "E::ALEJANDRO PROSPERO REVEREND E.S.E.",
+      "target": "P::900177853::FUNDEC",
+      "valor_cop": 7467737854,
+      "n_contratos": 6
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::800109831::ASOCIACIÓN DE PADRES DE FAMILIA DE HOGARES COMUNITARIOS DE BIENESTAR RINCON",
+      "valor_cop": 7453699756,
+      "n_contratos": 4
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::900471966::Gestion y Proyectos RNG sas",
+      "valor_cop": 7432601722,
+      "n_contratos": 3
+    },
+    {
+      "source": "E::ALCALDÍA DISTRITAL DE SANTA MARTA",
+      "target": "P::824002197::A.G.J.",
+      "valor_cop": 7306824374,
+      "n_contratos": 8
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::8001554509::ASOCIACION PADRES DE FAMILIA",
+      "valor_cop": 7283122075,
+      "n_contratos": 4
+    },
+    {
+      "source": "E::ALCALDÍA DISTRITAL DE SANTA MARTA",
+      "target": "P::860031909::FE Y ALEGRIA",
+      "valor_cop": 7273165136,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::901780964::CONSORCIO MUNICIPIOS MAGDALENA",
+      "valor_cop": 7272592202,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::INSTITUTO DEPARTAMENTAL DE DEPORTES DEL MAGDALENA",
+      "target": "P::000000000000::UT DEPORTES MAGDALENA 2026",
+      "valor_cop": 7262283710,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::901759852::CONSORCIO DEPORTIVO MAGDALENA",
+      "valor_cop": 7232844031,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::800111753::ASOCIACION DE PADRES DE FAMILIA DE HOGARES COMUNITARIOS DE BIENESTAR EL CARMEN",
+      "valor_cop": 7210177553,
+      "n_contratos": 12
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::901906305::CONSORCIO OBRAS ESPECIALES FUNDACION",
+      "valor_cop": 7035922628,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::901312959::Corporacion Sumando Sonrisas",
+      "valor_cop": 7014531130,
+      "n_contratos": 4
+    },
+    {
+      "source": "E::ESE HOSPITAL UNIVERSITARIO JULIO MENDEZ BARRENECHE",
+      "target": "P::900078909::WAACAR LTDA",
+      "valor_cop": 6997000000,
+      "n_contratos": 25
+    },
+    {
+      "source": "E::Rama Judicial – Dirección Seccional de Administración Judicial de Santa Marta",
+      "target": "P::No Definido::UNION TEMPORAL RJMAG 2019",
+      "valor_cop": 6977168717,
+      "n_contratos": 8
+    },
+    {
+      "source": "E::ALCALDÍA DISTRITAL DE SANTA MARTA",
+      "target": "P::819004747::VIAJEROS SAS",
+      "valor_cop": 6949029992,
+      "n_contratos": 7
+    },
+    {
+      "source": "E::Empresa Distrital de Desarrollo y Renovación Urbano Sostenible de Santa Marta- EDUS",
+      "target": "P::900778654::CUATRO CONCEPTOS SAS",
+      "valor_cop": 6912858030,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::ALCALDÍA DISTRITAL DE SANTA MARTA",
+      "target": "P::901419009::CR VET SAS",
+      "valor_cop": 6855897436,
+      "n_contratos": 3
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::901781022::CONSORCIO CONSTRUCCION DE CENTROS",
+      "valor_cop": 6836149760,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::819003632::E.S.E. HOSPITAL LOCAL DE ZONA BANANERA",
+      "valor_cop": 6827812960,
+      "n_contratos": 11
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::800155460::APF CHINITA",
+      "valor_cop": 6822656035,
+      "n_contratos": 5
+    },
+    {
+      "source": "E::ALCALDÍA DISTRITAL DE SANTA MARTA",
+      "target": "P::900051017::FUNDAPROFUT",
+      "valor_cop": 6815789216,
+      "n_contratos": 3
+    },
+    {
+      "source": "E::ALCALDÍA DISTRITAL DE SANTA MARTA",
+      "target": "P::823003023::FUNIPAZ",
+      "valor_cop": 6808242796,
+      "n_contratos": 4
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::890102572::UAC",
+      "valor_cop": 6752000000,
+      "n_contratos": 2
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::800.225.321::ASOCIACION DE PADRES DE FAMILIA DE HOGARES COMUNITARIOS DE BIENESTAR MICAEL COTES",
+      "valor_cop": 6742346269,
+      "n_contratos": 10
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::900527327::FANS",
+      "valor_cop": 6734752443,
+      "n_contratos": 2
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::839000692::FUNDACION REVIVIR POR LA VIDA",
+      "valor_cop": 6725277439,
+      "n_contratos": 6
+    },
+    {
+      "source": "E::ALCALDÍA DISTRITAL DE SANTA MARTA",
+      "target": "P::901948877::UT DE LA CALLLE AL CORAZON",
+      "valor_cop": 6724682851,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::800109809::APFHCBLALBORADA",
+      "valor_cop": 6700668405,
+      "n_contratos": 8
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::8000765959::ASOCIACION DE PADRES DE FAMILIA HCB SANTA FE",
+      "valor_cop": 6697900777,
+      "n_contratos": 7
+    },
+    {
+      "source": "E::ESE HOSPITAL UNIVERSITARIO JULIO MENDEZ BARRENECHE",
+      "target": "P::830510985::UNIDAD DE DIAGNOSTICO Y TRATAMIENTO UROLOGICO  UROMED SAS",
+      "valor_cop": 6629000000,
+      "n_contratos": 20
+    },
+    {
+      "source": "E::Rama Judicial – Dirección Seccional de Administración Judicial de Santa Marta",
+      "target": "P::901102377::Recaudos Corp SA",
+      "valor_cop": 6575304550,
+      "n_contratos": 5
+    },
+    {
+      "source": "E::ALCALDÍA DISTRITAL DE SANTA MARTA",
+      "target": "P::891780157::CUERPO DE BOMBEROS VOLUNTARIOS DE SANTA MARTA",
+      "valor_cop": 6558897724,
+      "n_contratos": 8
+    },
+    {
+      "source": "E::ESSMAR E.S.P.",
+      "target": "P::900034273::EXTREME TECHNOLOGIES S.A",
+      "valor_cop": 6543736102,
+      "n_contratos": 2
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::9007264179::FUNDACION PARA EL DESARROLLO SOCIAL, LA PROTECCION Y LA PROSPERIDAD DE LA INFANCIA, LA ADOLESCENCIA Y EL ADULTO MAYOR",
+      "valor_cop": 6533698342,
+      "n_contratos": 4
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::819005142::CORPORACION ECOLOGIA Y DESARROLLO INTEGRAL",
+      "valor_cop": 6524775133,
+      "n_contratos": 3
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::8190024081::ASOCIACION DE INTERES SOCIAL Y DESARROLLO COMUNITARIO DEL DEPARTAMENTO DEL MAGDALENA",
+      "valor_cop": 6483312213,
+      "n_contratos": 2
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::800107791::asociacion de padres de familia de hogares comunitarios de bienstar bocas de aracataca",
+      "valor_cop": 6472069258,
+      "n_contratos": 10
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::819005392::MONTE DEL SINAI",
+      "valor_cop": 6471302304,
+      "n_contratos": 3
+    },
+    {
+      "source": "E::Empresa Distrital de Desarrollo y Renovación Urbano Sostenible de Santa Marta- EDUS",
+      "target": "P::830509276::TICOM S.A.",
+      "valor_cop": 6468073025,
+      "n_contratos": 2
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::800107819::ASOCIACION DE PADRES DE FAMILIA DE HOGARES COMUNITARIOS DE BIENESTAR 18 DE ENERO",
+      "valor_cop": 6437963456,
+      "n_contratos": 7
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::901699536::CONSORCIO VILLA ROSA",
+      "valor_cop": 6426526413,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::Empresa Distrital de Desarrollo y Renovación Urbano Sostenible de Santa Marta- EDUS",
+      "target": "P::901450188::LAND PEOPLE SAS",
+      "valor_cop": 6405784935,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::901867025::ASOCIACION DE SEMBRADORES RURALES DEL MAGDALENA",
+      "valor_cop": 6313773612,
+      "n_contratos": 3
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::9016361354::MAQUINAS OBRAS Y PROYECTOS  SAS ZOMAC",
+      "valor_cop": 6265108469,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::901706726::CONSORCIO MEGA-CDV CHIVOLO",
+      "valor_cop": 6262339039,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::901655905::CONSORCIO VOT - AVV",
+      "valor_cop": 6237910534,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::800108775::apf carreño sur",
+      "valor_cop": 6193012408,
+      "n_contratos": 7
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::900378981::Asafronelman",
+      "valor_cop": 6186241308,
+      "n_contratos": 4
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::8001098237::ASOCIACION DE  PDRES DE FAMILIA DE LOS HOGARES COMUNITARIO  DE BIENESTAR COMUNIDAD PORVENIR",
+      "valor_cop": 6181055657,
+      "n_contratos": 5
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::819000812::APF JANEIRO",
+      "valor_cop": 6160153577,
+      "n_contratos": 4
+    },
+    {
+      "source": "E::INSTITUTO DISTRITAL DE TURISMO DE SANTA MARTA",
+      "target": "P::900623310::FUNDACION SOCIAL FORMACION AL FUTURO",
+      "valor_cop": 6127043740,
+      "n_contratos": 2
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::902068936::CONSORCIO CENTRO DE VIDA",
+      "valor_cop": 6113228968,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::ESE HOSPITAL UNIVERSITARIO JULIO MENDEZ BARRENECHE",
+      "target": "P::900924278::OPENFARMA",
+      "valor_cop": 6060798567,
+      "n_contratos": 8
+    },
+    {
+      "source": "E::ALCALDIA MUNICIPAL DE FUNDACION",
+      "target": "P::No Definido::UTADULTOMAYORFUNDACION",
+      "valor_cop": 6047195836,
+      "n_contratos": 13
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::9019332356::CONSORCIO PROYECTOS LP018",
+      "valor_cop": 6004178579,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::900841246::FUNDACION SEMBRANDO AMOR POR UN FUTURO MEJOR",
+      "valor_cop": 5985397443,
+      "n_contratos": 2
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::804009128::COOPERATIVA DE TRABAJO ASOCIADO PARA LA PRESTACIÓN DE SERVICIOS INTEGRALES",
+      "valor_cop": 5952236710,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::800107814::ASOCIACION DE PADRES DE FAMILIA DE HCB OBRERO SUR",
+      "valor_cop": 5918390111,
+      "n_contratos": 9
+    },
+    {
+      "source": "E::Empresa Distrital de Desarrollo y Renovación Urbano Sostenible de Santa Marta- EDUS",
+      "target": "P::901356463::INVECOR2",
+      "valor_cop": 5859517704,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::800112648::ASOCIACIÓN DE PADRES DE FAMILIA DE HOGARES COMUNITARIOS DE BIENESTAR – NUEVA GRANADA",
+      "valor_cop": 5841638071,
+      "n_contratos": 4
+    },
+    {
+      "source": "E::ALCALDÍA DISTRITAL DE SANTA MARTA",
+      "target": "P::900456351::DISTRIBUIDORA Y COMERCIALIZADORA REPROQUIC SAS",
+      "valor_cop": 5826166930,
+      "n_contratos": 3
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::800109877::ASOCIACION DE PADRES DE FAMILIA DE HOGARES COMUNITARIOS DE BIENESTAR POLICARPA",
+      "valor_cop": 5767773690,
+      "n_contratos": 5
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::901361107::MAZ INTERVENTORES Y CONSULTORES SAS",
+      "valor_cop": 5749552494,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::ALCALDÍA DISTRITAL DE SANTA MARTA",
+      "target": "P::901940093::UNIÓN TEMPORAL CENTROS DE VIDA, SEASOC 2025",
+      "valor_cop": 5715197634,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::819001302::E.S.E HOSPITAL LOCAL DE TENERIFE",
+      "valor_cop": 5675084608,
+      "n_contratos": 13
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::819004228::asociación de padres de familia de hogares de familia de bienestar 7 de noviembre",
+      "valor_cop": 5664623655,
+      "n_contratos": 8
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::800189493::ASOCIACION DE PADRES DE FAMILIA DE HOGARES COMUNITARIOS DE BIENESTAR LA FLORESTA",
+      "valor_cop": 5643311871,
+      "n_contratos": 3
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::901640659::CORPORACION PARA EL DESARROLLO DE LA NIÑEZ",
+      "valor_cop": 5636960932,
+      "n_contratos": 2
+    },
+    {
+      "source": "E::ALCALDIA MUNICIPAL DE FUNDACION",
+      "target": "P::802012179::Dolmen",
+      "valor_cop": 5606262426,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::ESSMAR E.S.P.",
+      "target": "P::No Definido::CONSORCIO SOLUVACTOR",
+      "valor_cop": 5551000000,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::ALCALDÍA DISTRITAL DE SANTA MARTA",
+      "target": "P::830101795::FUNDACION CRISTIANA AYUDEMOS",
+      "valor_cop": 5532230000,
+      "n_contratos": 2
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::901751864::FOMCOLOMBIA",
+      "valor_cop": 5488000000,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::900266295::Fundacion Academia Sinu",
+      "valor_cop": 5458203666,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::819001712::ESE HOSPITAL LUISA SANTIAGA MARQUEZ IGUARAN",
+      "valor_cop": 5399463263,
+      "n_contratos": 9
+    },
+    {
+      "source": "E::CORPORACION AUTONOMA REGIONAL DEL MAGDALENA",
+      "target": "P::901486053::OBRAS DEL NORTE S.A.S",
+      "valor_cop": 5382692918,
+      "n_contratos": 2
+    },
+    {
+      "source": "E::ALCALDÍA DISTRITAL DE SANTA MARTA",
+      "target": "P::900154064::FUNDACION CON.CIENCIA",
+      "valor_cop": 5375447400,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::ALEJANDRO PROSPERO REVEREND E.S.E.",
+      "target": "P::901650261::INSTITUTO DE MEDICINA REGENERATIVA Y CARDIOVASCULAR",
+      "valor_cop": 5346100849,
+      "n_contratos": 5
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::819001107::ESE HOSPITAL ALEJANDRO MAESTRE SIERRA",
+      "valor_cop": 5342384237,
+      "n_contratos": 11
+    },
+    {
+      "source": "E::SERVICIO NACIONAL DE APRENDIZAJE - SENA MAGDALENA",
+      "target": "P::7470860::FRANCISCO GUTIERREZ CABARIQUE",
+      "valor_cop": 5310357922,
+      "n_contratos": 45
+    },
+    {
+      "source": "E::ALCALDÍA DISTRITAL DE SANTA MARTA",
+      "target": "P::901100455::ALIANZA PUBLICA PARA EL DESARROLLO INTEGRAL  ALDESARROLLO - PROVEEDOR",
+      "valor_cop": 5276190802,
+      "n_contratos": 4
+    },
+    {
+      "source": "E::ALCALDÍA DISTRITAL DE SANTA MARTA",
+      "target": "P::901814992::ZCC INGENIERIA S.A.S.",
+      "valor_cop": 5267733536,
+      "n_contratos": 2
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::900439087::FUNDACION PASO A PASO",
+      "valor_cop": 5246522715,
+      "n_contratos": 5
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::901028868::SOLUCIONES INNOVADORAS EN TECNOLOGIAS DE LA INFORMACION S.A.S.",
+      "valor_cop": 5243100000,
+      "n_contratos": 6
+    },
+    {
+      "source": "E::CORPORACION AUTONOMA REGIONAL DEL MAGDALENA",
+      "target": "P::891780111::UNIMAGDALENA",
+      "valor_cop": 5242227268,
+      "n_contratos": 3
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::830144521::CORPORACION JUNTOS CONSTRUYENDO FUTURO",
+      "valor_cop": 5238675526,
+      "n_contratos": 6
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::900114268::FUNDACION CRECE CONMIGO",
+      "valor_cop": 5222526132,
+      "n_contratos": 2
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::819000755::ASOCIACION DE PADRES DE FAMILIA DE HOGARES COMUNITARIOS SANTA ANA",
+      "valor_cop": 5209393671,
+      "n_contratos": 5
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::891780185::ESE HOSPITAL UNIVERSITARIO JULIO MENDEZ BARRENECHE",
+      "valor_cop": 5187187146,
+      "n_contratos": 3
+    },
+    {
+      "source": "E::Empresa Distrital de Desarrollo y Renovación Urbano Sostenible de Santa Marta- EDUS",
+      "target": "P::32686737::CONSORCIO INTERVIAL SANTA MARTA",
+      "valor_cop": 5186360671,
+      "n_contratos": 1
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::819001483::E.S.E. HOSPITAL FRAY LUIS DE LEON",
+      "valor_cop": 5128979729,
+      "n_contratos": 7
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::819004318::ESE HOSPITAL LOCAL NUEVA GRANADA",
+      "valor_cop": 5118241984,
+      "n_contratos": 11
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::819005916::FUNDACION BETSHALOM",
+      "valor_cop": 5072613663,
+      "n_contratos": 7
+    },
+    {
+      "source": "E::GOBERNACION DEL MAGDALENA",
+      "target": "P::819002534::EMPRESA SOCIAL DEL ESTADO HOSPITAL NUESTRA SEÑORA DEL CARMEN DE GUAMAL MAGDALENA",
+      "valor_cop": 5044512472,
+      "n_contratos": 11
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::901326410::ASOCIACION DEFENSORA DE LA POBLACIÓN AFRODESCENDIENTE VICTIMA DEL CONFLICTO ARMADO",
+      "valor_cop": 5019199941,
+      "n_contratos": 4
+    },
+    {
+      "source": "E::ICBF REGIONAL MAGDALENA",
+      "target": "P::800223571::asociación de padres de familia de hogares comunitarios de bienestar la milagrosa",
+      "valor_cop": 5013614328,
+      "n_contratos": 8
+    },
+    {
+      "source": "E::ALCALDÍA DISTRITAL DE SANTA MARTA",
+      "target": "P::902027969::UT PAIP SM 2026",
+      "valor_cop": 4981571100,
+      "n_contratos": 1
+    }
+  ],
+  "meta": {
+    "nota": "Muestra los 300 vínculos entidad-proveedor de mayor valor en el Magdalena (2020-2026), que concentran cerca del 79% del valor total contratado en el departamento. No incluye la cola larga de miles de contratistas individuales de montos pequeños."
+  }
+}

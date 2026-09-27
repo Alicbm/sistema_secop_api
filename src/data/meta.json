@@ -1,0 +1,27 @@
+{
+  "titulo": "Radar de Contratación Pública del Magdalena",
+  "fuente": "SECOP II - Contratos Electrónicos (Colombia Compra Eficiente / datos.gov.co), dataset jbjy-vk9h; ubicación de proveedores desde SECOP II - Proveedores Registrados, dataset qmzu-gj57",
+  "cobertura_geografica": "Todas las entidades públicas con domicilio en el departamento del Magdalena, según el campo 'departamento' de SECOP II",
+  "periodo_kpis": "Histórico completo disponible en SECOP II (2017-2026), dominado por 2020-2026",
+  "periodo_series_temporales": "Enero 2020 a septiembre 2026 (2017-2019 se excluye de las series por baja adopción de SECOP II en ese período)",
+  "fecha_corte": "2026-09-26",
+  "metodologia_limpieza": [
+    "Se excluyeron 73 registros (0.06% del total) con valor_del_contrato superior a $50.000 millones en un solo contrato: se verificó que son errores de digitación (ej. un contrato de un solo profesional registrado en cientos de billones de pesos), no contratos reales.",
+    "Se excluyeron 2.508 registros con valor_del_contrato igual a cero.",
+    "SECOP II registra la SEDE de la entidad contratante, no necesariamente el lugar donde se ejecuta el contrato; por eso la vista por municipio está dominada por Santa Marta, donde tienen sede la Gobernación y la mayoría de entidades departamentales/distritales.",
+    "Los campos de fuente presupuestal detallada (PGN, SGP, SGR, recursos de crédito) están vacíos para el 100% de los registros del Magdalena; se usó en su lugar el campo origen_de_los_recursos, que solo distingue 'Recursos Propios' de 'Distribuido'.",
+    "El indicador de pago (valor_pagado) depende de que cada entidad actualice el contrato en SECOP II; muchas no lo hacen, por lo que el % pagado subestima la ejecución real, incluso en años ya cerrados.",
+    "La segmentación 'persona natural vs. persona jurídica' usa el tipo de documento del proveedor (cédula vs. NIT), no el tipo de contrato.",
+    "La red entidad-proveedor y la fuga de contratación local se calculan sobre los 600 proveedores de mayor valor (75% del valor total departamental); no incluyen la cola larga de miles de contratistas individuales de montos pequeños.",
+    "La ubicación del proveedor (para fuga de contratación local) se identificó cruzando el código de proveedor con el registro de Proveedores Registrados de SECOP II; solo fue posible identificar la ubicación del 41.8% del valor de los 600 proveedores principales — el resto son, en su mayoría, entidades públicas actuando como proveedor en convenios interadministrativos.",
+    "Todos los montos usan el campo valor_del_contrato del dataset de Contratos Electrónicos: es el valor total del contrato ya firmado, que incluye adiciones/modificaciones posteriores y, en convenios interadministrativos, la cofinanciación de todas las partes. Por eso puede ser mayor que el 'precio estimado total' que muestra la ficha del proceso en SECOP (ese estimado corresponde al presupuesto inicial del proceso, antes de adjudicar y modificar, y vive en otro dataset). No son cifras contradictorias, sino conceptos distintos: estimado del proceso vs. valor final del contrato."
+  ],
+  "autor": {
+    "nombre": "Alic Barandica Mejía",
+    "rol": "Economista · Analista de Datos",
+    "portafolio": "https://alic-barandica.vercel.app/",
+    "linkedin": "https://www.linkedin.com/in/alic-barandica",
+    "github": "https://github.com/Alicbm",
+    "email": "abarandica1234@gmail.com"
+  }
+}

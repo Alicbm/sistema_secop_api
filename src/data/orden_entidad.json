@@ -1,0 +1,17 @@
+[
+  {
+    "orden": "Territorial",
+    "n_contratos": 99215,
+    "valor_cop": 5989666706176
+  },
+  {
+    "orden": "Nacional",
+    "n_contratos": 13360,
+    "valor_cop": 2567367770685
+  },
+  {
+    "orden": "Corporación Autónoma",
+    "n_contratos": 4177,
+    "valor_cop": 344641155354
+  }
+]

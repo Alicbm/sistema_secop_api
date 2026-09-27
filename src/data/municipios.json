@@ -1,0 +1,170 @@
+[
+  {
+    "municipio": "Santa Marta",
+    "n_contratos": 83461,
+    "valor_cop": 8412987159433,
+    "pagado_cop": 1039653024530,
+    "pct_valor_departamento": 94.07
+  },
+  {
+    "municipio": "Fundación",
+    "n_contratos": 11313,
+    "valor_cop": 165813529466,
+    "pagado_cop": 9409774490,
+    "pct_valor_departamento": 1.85
+  },
+  {
+    "municipio": "Sitionuevo",
+    "n_contratos": 2436,
+    "valor_cop": 106624825895,
+    "pagado_cop": 5389043363,
+    "pct_valor_departamento": 1.19
+  },
+  {
+    "municipio": "Ciénaga",
+    "n_contratos": 8039,
+    "valor_cop": 79011556785,
+    "pagado_cop": 142927847,
+    "pct_valor_departamento": 0.88
+  },
+  {
+    "municipio": "Plato",
+    "n_contratos": 5097,
+    "valor_cop": 69491266160,
+    "pagado_cop": 1986866322,
+    "pct_valor_departamento": 0.78
+  },
+  {
+    "municipio": "El Banco",
+    "n_contratos": 3647,
+    "valor_cop": 27642657763,
+    "pagado_cop": 221017610,
+    "pct_valor_departamento": 0.31
+  },
+  {
+    "municipio": "Algarrobo",
+    "n_contratos": 326,
+    "valor_cop": 17151326569,
+    "pagado_cop": 1171632676,
+    "pct_valor_departamento": 0.19
+  },
+  {
+    "municipio": "No Definido",
+    "n_contratos": 388,
+    "valor_cop": 12988555799,
+    "pagado_cop": 1983854695,
+    "pct_valor_departamento": 0.15
+  },
+  {
+    "municipio": "Zona Bananera",
+    "n_contratos": 1310,
+    "valor_cop": 10124323053,
+    "pagado_cop": 0,
+    "pct_valor_departamento": 0.11
+  },
+  {
+    "municipio": "Pivijay",
+    "n_contratos": 674,
+    "valor_cop": 9752602504,
+    "pagado_cop": 2847270,
+    "pct_valor_departamento": 0.11
+  },
+  {
+    "municipio": "Ariguaní",
+    "n_contratos": 26,
+    "valor_cop": 6474405891,
+    "pagado_cop": 0,
+    "pct_valor_departamento": 0.07
+  },
+  {
+    "municipio": "Santa Ana",
+    "n_contratos": 49,
+    "valor_cop": 5912158466,
+    "pagado_cop": 0,
+    "pct_valor_departamento": 0.07
+  },
+  {
+    "municipio": "Sabanas De San Angel",
+    "n_contratos": 825,
+    "valor_cop": 5106344336,
+    "pagado_cop": 0,
+    "pct_valor_departamento": 0.06
+  },
+  {
+    "municipio": "Guamal",
+    "n_contratos": 466,
+    "valor_cop": 4742833404,
+    "pagado_cop": 0,
+    "pct_valor_departamento": 0.05
+  },
+  {
+    "municipio": "Aracataca",
+    "n_contratos": 717,
+    "valor_cop": 3753135562,
+    "pagado_cop": 0,
+    "pct_valor_departamento": 0.04
+  },
+  {
+    "municipio": "El Piñon",
+    "n_contratos": 8,
+    "valor_cop": 1388212000,
+    "pagado_cop": 0,
+    "pct_valor_departamento": 0.02
+  },
+  {
+    "municipio": "San Sebastián De Buenavista",
+    "n_contratos": 2,
+    "valor_cop": 1133297252,
+    "pagado_cop": 0,
+    "pct_valor_departamento": 0.01
+  },
+  {
+    "municipio": "Salamina",
+    "n_contratos": 3,
+    "valor_cop": 1001360000,
+    "pagado_cop": 0,
+    "pct_valor_departamento": 0.01
+  },
+  {
+    "municipio": "Concordia",
+    "n_contratos": 320,
+    "valor_cop": 994050000,
+    "pagado_cop": 0,
+    "pct_valor_departamento": 0.01
+  },
+  {
+    "municipio": "Puebloviejo",
+    "n_contratos": 2,
+    "valor_cop": 741391764,
+    "pagado_cop": 0,
+    "pct_valor_departamento": 0.01
+  },
+  {
+    "municipio": "Remolino",
+    "n_contratos": 1,
+    "valor_cop": 578040190,
+    "pagado_cop": 0,
+    "pct_valor_departamento": 0.01
+  },
+  {
+    "municipio": "El Retén",
+    "n_contratos": 17,
+    "valor_cop": 186531439,
+    "pagado_cop": 0,
+    "pct_valor_departamento": 0.0
+  },
+  {
+    "municipio": "Santa Bárbara De Pinto",
+    "n_contratos": 57,
+    "valor_cop": 94813667,
+    "pagado_cop": 0,
+    "pct_valor_departamento": 0.0
+  },
+  {
+    "municipio": "Pedraza",
+    "n_contratos": 5,
+    "valor_cop": 26062230,
+    "pagado_cop": 4500000,
+    "pct_valor_departamento": 0.0
+  }
+]

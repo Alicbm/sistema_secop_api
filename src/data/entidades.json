@@ -1,0 +1,402 @@
+[
+  {
+    "entidad": "GOBERNACION DEL MAGDALENA",
+    "ciudad": "Santa Marta",
+    "sector": "No aplica/No pertenece",
+    "orden": "Territorial",
+    "n_contratos": 12190,
+    "valor_cop": 2294373211936,
+    "pagado_cop": 437939800,
+    "pct_pagado": 0.0
+  },
+  {
+    "entidad": "ICBF REGIONAL MAGDALENA",
+    "ciudad": "Santa Marta",
+    "sector": "Salud y Protección Social",
+    "orden": "Nacional",
+    "n_contratos": 3347,
+    "valor_cop": 2022200187919,
+    "pagado_cop": 550475461849,
+    "pct_pagado": 27.2
+  },
+  {
+    "entidad": "ALCALDÍA DISTRITAL DE SANTA MARTA",
+    "ciudad": "Santa Marta",
+    "sector": "Servicio Público",
+    "orden": "Territorial",
+    "n_contratos": 15067,
+    "valor_cop": 1783555937586,
+    "pagado_cop": 85995729388,
+    "pct_pagado": 4.8
+  },
+  {
+    "entidad": "ESE HOSPITAL UNIVERSITARIO JULIO MENDEZ BARRENECHE",
+    "ciudad": "Santa Marta",
+    "sector": "Salud y Protección Social",
+    "orden": "Territorial",
+    "n_contratos": 22988,
+    "valor_cop": 482622498656,
+    "pagado_cop": 7550932648,
+    "pct_pagado": 1.6
+  },
+  {
+    "entidad": "Empresa Distrital de Desarrollo y Renovación Urbano Sostenible de Santa Marta- EDUS",
+    "ciudad": "Santa Marta",
+    "sector": "Vivienda, Ciudad y Territorio",
+    "orden": "Territorial",
+    "n_contratos": 1079,
+    "valor_cop": 389902524692,
+    "pagado_cop": 283399500,
+    "pct_pagado": 0.1
+  },
+  {
+    "entidad": "SERVICIO NACIONAL DE APRENDIZAJE - SENA MAGDALENA",
+    "ciudad": "Santa Marta",
+    "sector": "Trabajo",
+    "orden": "Nacional",
+    "n_contratos": 6473,
+    "valor_cop": 294268372925,
+    "pagado_cop": 177654871899,
+    "pct_pagado": 60.4
+  },
+  {
+    "entidad": "CORPORACION AUTONOMA REGIONAL DEL MAGDALENA",
+    "ciudad": "Santa Marta",
+    "sector": "Ambiente y Desarrollo Sostenible",
+    "orden": "Corporación Autónoma",
+    "n_contratos": 3029,
+    "valor_cop": 279981180777,
+    "pagado_cop": 146495005444,
+    "pct_pagado": 52.3
+  },
+  {
+    "entidad": "SISTEMA ESTRATEGICO DE TRANSPORTE PUBLICO DE SANTA MARTA S.A.S.",
+    "ciudad": "Santa Marta",
+    "sector": "No aplica/No pertenece",
+    "orden": "Territorial",
+    "n_contratos": 1993,
+    "valor_cop": 244468962500,
+    "pagado_cop": 5580757262,
+    "pct_pagado": 2.3
+  },
+  {
+    "entidad": "ALEJANDRO PROSPERO REVEREND E.S.E.",
+    "ciudad": "Santa Marta",
+    "sector": "Salud y Protección Social",
+    "orden": "Territorial",
+    "n_contratos": 8460,
+    "valor_cop": 172284199418,
+    "pagado_cop": 9259711000,
+    "pct_pagado": 5.4
+  },
+  {
+    "entidad": "ALCALDIA MUNICIPIO DE SITIONUEVO",
+    "ciudad": "Sitionuevo",
+    "sector": "Servicio Público",
+    "orden": "Nacional",
+    "n_contratos": 1418,
+    "valor_cop": 101317844569,
+    "pagado_cop": 5389043363,
+    "pct_pagado": 5.3
+  },
+  {
+    "entidad": "ESE HOSPITAL DEPARTAMENTAL SAN RAFAEL",
+    "ciudad": "Fundación",
+    "sector": "Salud y Protección Social",
+    "orden": "Territorial",
+    "n_contratos": 9970,
+    "valor_cop": 97361639986,
+    "pagado_cop": 0,
+    "pct_pagado": 0.0
+  },
+  {
+    "entidad": "Rama Judicial – Dirección Seccional de Administración Judicial de Santa Marta",
+    "ciudad": "Santa Marta",
+    "sector": "Ley de Justicia",
+    "orden": "Nacional",
+    "n_contratos": 377,
+    "valor_cop": 92394161857,
+    "pagado_cop": 18144005778,
+    "pct_pagado": 19.6
+  },
+  {
+    "entidad": "ESSMAR E.S.P.",
+    "ciudad": "Santa Marta",
+    "sector": "No aplica/No pertenece",
+    "orden": "Territorial",
+    "n_contratos": 106,
+    "valor_cop": 74450702332,
+    "pagado_cop": 0,
+    "pct_pagado": 0.0
+  },
+  {
+    "entidad": "ALCALDIA MUNICIPAL DE FUNDACION",
+    "ciudad": "Fundación",
+    "sector": "agricultura",
+    "orden": "Territorial",
+    "n_contratos": 1298,
+    "valor_cop": 67435834287,
+    "pagado_cop": 9343718427,
+    "pct_pagado": 13.9
+  },
+  {
+    "entidad": "INSTITUTO DISTRITAL DE SANTA MARTA PARA LA RECREACIÓN Y EL DEPORTE",
+    "ciudad": "Santa Marta",
+    "sector": "deportes",
+    "orden": "Territorial",
+    "n_contratos": 1544,
+    "valor_cop": 60467040669,
+    "pagado_cop": 3094593168,
+    "pct_pagado": 5.1
+  },
+  {
+    "entidad": "SUBCUENTA DEL SISTEMA DE PARQUES NACIONALES NATURALES DEL FONDO NACIONAL AMBIENTAL -FONAM DTCA",
+    "ciudad": "Santa Marta",
+    "sector": "Ambiente y Desarrollo Sostenible",
+    "orden": "Nacional",
+    "n_contratos": 1745,
+    "valor_cop": 57187203414,
+    "pagado_cop": 6435653284,
+    "pct_pagado": 11.3
+  },
+  {
+    "entidad": "HOSPITAL SAN CRISTOBAL DE CIENAGA EMPRESA SOCIAL DEL ESTADO",
+    "ciudad": "Ciénaga",
+    "sector": "Salud y Protección Social",
+    "orden": "Territorial",
+    "n_contratos": 7878,
+    "valor_cop": 45775435688,
+    "pagado_cop": 0,
+    "pct_pagado": 0.0
+  },
+  {
+    "entidad": "DEPARTAMENTO ADMINISTRATIVO DISTRITAL DE SOSTENIBILIDAD AMBIENTAL DADSA*",
+    "ciudad": "Santa Marta",
+    "sector": "Ambiente y Desarrollo Sostenible",
+    "orden": "Corporación Autónoma",
+    "n_contratos": 899,
+    "valor_cop": 44771461333,
+    "pagado_cop": 9776550603,
+    "pct_pagado": 21.8
+  },
+  {
+    "entidad": "E.S.E. HOSPITAL FRAY LUIS DE LEON",
+    "ciudad": "Plato",
+    "sector": "Salud y Protección Social",
+    "orden": "Territorial",
+    "n_contratos": 4656,
+    "valor_cop": 40044929332,
+    "pagado_cop": 390000000,
+    "pct_pagado": 1.0
+  },
+  {
+    "entidad": "INSTITUTO DEPARTAMENTAL DE DEPORTES DEL MAGDALENA",
+    "ciudad": "Santa Marta",
+    "sector": "deportes",
+    "orden": "Territorial",
+    "n_contratos": 837,
+    "valor_cop": 30972135988,
+    "pagado_cop": 0,
+    "pct_pagado": 0.0
+  },
+  {
+    "entidad": "MUNICIPIO DE PLATO",
+    "ciudad": "Plato",
+    "sector": "Planeación",
+    "orden": "Territorial",
+    "n_contratos": 431,
+    "valor_cop": 29284312303,
+    "pagado_cop": 1588111797,
+    "pct_pagado": 5.4
+  },
+  {
+    "entidad": "Empresa Social del Estado Hospital La Candelaria*",
+    "ciudad": "El Banco",
+    "sector": "Salud y Protección Social",
+    "orden": "Territorial",
+    "n_contratos": 3494,
+    "valor_cop": 25738377519,
+    "pagado_cop": 18500000,
+    "pct_pagado": 0.1
+  },
+  {
+    "entidad": "INSTITUTO DISTRITAL DE TURISMO DE SANTA MARTA",
+    "ciudad": "Santa Marta",
+    "sector": "Industria",
+    "orden": "Corporación Autónoma",
+    "n_contratos": 249,
+    "valor_cop": 19888513244,
+    "pagado_cop": 243500000,
+    "pct_pagado": 1.2
+  },
+  {
+    "entidad": "INSTITUCION UNIVERSITARIA DE SANTA MARTA",
+    "ciudad": "Santa Marta",
+    "sector": "Educación Nacional",
+    "orden": "Territorial",
+    "n_contratos": 550,
+    "valor_cop": 19090908986,
+    "pagado_cop": 4886294960,
+    "pct_pagado": 25.6
+  },
+  {
+    "entidad": "ALCALDIA DE CIENAGA MAGDALENA",
+    "ciudad": "Ciénaga",
+    "sector": "Servicio Público",
+    "orden": "Territorial",
+    "n_contratos": 17,
+    "valor_cop": 16841020236,
+    "pagado_cop": 0,
+    "pct_pagado": 0.0
+  },
+  {
+    "entidad": "MUNICIPIO DE ALGARROBO",
+    "ciudad": "Algarrobo",
+    "sector": "Servicio Público",
+    "orden": "Territorial",
+    "n_contratos": 300,
+    "valor_cop": 13946798576,
+    "pagado_cop": 1171632676,
+    "pct_pagado": 8.4
+  },
+  {
+    "entidad": "CONTRALORIA DISTRITAL DE SANTA MARTA",
+    "ciudad": "Santa Marta",
+    "sector": "Servicio Público",
+    "orden": "Territorial",
+    "n_contratos": 654,
+    "valor_cop": 13707383977,
+    "pagado_cop": 8276868021,
+    "pct_pagado": 60.4
+  },
+  {
+    "entidad": "ALCALDIA MUNICIPAL PIVIJAY MAGDALENA",
+    "ciudad": "No Definido",
+    "sector": "No aplica/No pertenece",
+    "orden": "Territorial",
+    "n_contratos": 378,
+    "valor_cop": 12960906055,
+    "pagado_cop": 1983854695,
+    "pct_pagado": 15.3
+  },
+  {
+    "entidad": "E.S.E. HOSPITAL SANTANDER HERRERA",
+    "ciudad": "Pivijay",
+    "sector": "Salud y Protección Social",
+    "orden": "Territorial",
+    "n_contratos": 669,
+    "valor_cop": 9680055234,
+    "pagado_cop": 0,
+    "pct_pagado": 0.0
+  },
+  {
+    "entidad": "E.S.E. HOSPITAL LOCAL DE ZONA BANANERA",
+    "ciudad": "Zona Bananera",
+    "sector": "Salud y Protección Social",
+    "orden": "Territorial",
+    "n_contratos": 1284,
+    "valor_cop": 8381923953,
+    "pagado_cop": 0,
+    "pct_pagado": 0.0
+  },
+  {
+    "entidad": "MUNICIPIO DE CIENAGA",
+    "ciudad": "Ciénaga",
+    "sector": "Servicio Público",
+    "orden": "Territorial",
+    "n_contratos": 39,
+    "valor_cop": 7282455113,
+    "pagado_cop": 0,
+    "pct_pagado": 0.0
+  },
+  {
+    "entidad": "PERSONERIA DISTRITAL DE SANTA MARTA",
+    "ciudad": "Santa Marta",
+    "sector": "Servicio Público",
+    "orden": "Territorial",
+    "n_contratos": 362,
+    "valor_cop": 7057222785,
+    "pagado_cop": 3588906488,
+    "pct_pagado": 50.9
+  },
+  {
+    "entidad": "MUNICIPIO DE ARIGUANI",
+    "ciudad": "Ariguaní",
+    "sector": "Servicio Público",
+    "orden": "Territorial",
+    "n_contratos": 26,
+    "valor_cop": 6474405891,
+    "pagado_cop": 0,
+    "pct_pagado": 0.0
+  },
+  {
+    "entidad": "CONCEJO DISTRITAL DE SANTA MARTA",
+    "ciudad": "Santa Marta",
+    "sector": "No aplica/No pertenece",
+    "orden": "Territorial",
+    "n_contratos": 402,
+    "valor_cop": 5947601942,
+    "pagado_cop": 0,
+    "pct_pagado": 0.0
+  },
+  {
+    "entidad": "CONTRALORIA GENERAL DEL DEPARTAMENTO DEL MAGDALENA",
+    "ciudad": "Santa Marta",
+    "sector": "No aplica/No pertenece",
+    "orden": "Territorial",
+    "n_contratos": 199,
+    "valor_cop": 5396446177,
+    "pagado_cop": 777746509,
+    "pct_pagado": 14.4
+  },
+  {
+    "entidad": "ESE HOSPITAL LOCAL DE SITIONUEVO",
+    "ciudad": "Sitionuevo",
+    "sector": "Salud y Protección Social",
+    "orden": "Territorial",
+    "n_contratos": 1018,
+    "valor_cop": 5306981326,
+    "pagado_cop": 0,
+    "pct_pagado": 0.0
+  },
+  {
+    "entidad": "ESE HOSPITAL LOCAL SABANAS DE SAN ANGEL /",
+    "ciudad": "Sabanas De San Angel",
+    "sector": "Salud y Protección Social",
+    "orden": "Territorial",
+    "n_contratos": 825,
+    "valor_cop": 5106344336,
+    "pagado_cop": 0,
+    "pct_pagado": 0.0
+  },
+  {
+    "entidad": "ASAMBLEA DEPARTAMENTAL DEL MAGDALENA",
+    "ciudad": "Santa Marta",
+    "sector": "Servicio Público",
+    "orden": "Territorial",
+    "n_contratos": 462,
+    "valor_cop": 4986529560,
+    "pagado_cop": 32041042,
+    "pct_pagado": 0.6
+  },
+  {
+    "entidad": "ALCALDÍA SANTA ANA MAGDALENA",
+    "ciudad": "Santa Ana",
+    "sector": "Servicio Público",
+    "orden": "Territorial",
+    "n_contratos": 35,
+    "valor_cop": 4482532821,
+    "pagado_cop": 0,
+    "pct_pagado": 0.0
+  },
+  {
+    "entidad": "ASOCIACIÓN DE COMUNIDADES NEGRAS DESPERTAR AFRO EN EL MUNICIPIO DE CIÉNAGA-ASOCONDA",
+    "ciudad": "Ciénaga",
+    "sector": "No aplica/No pertenece",
+    "orden": "Territorial",
+    "n_contratos": 4,
+    "valor_cop": 4279446314,
+    "pagado_cop": 0,
+    "pct_pagado": 0.0
+  }
+]

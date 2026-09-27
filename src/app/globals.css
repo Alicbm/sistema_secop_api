@@ -1,0 +1,117 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-surface-page text-ink-primary antialiased;
+    font-feature-settings: "cv11" 1, "ss01" 1;
+  }
+
+  ::selection {
+    @apply bg-brand-200 text-ink-primary;
+  }
+
+  h1,
+  h2,
+  h3 {
+    @apply tracking-tight;
+  }
+}
+
+@layer components {
+  .card {
+    @apply rounded-xl3 border border-line-hairline bg-surface-card shadow-card;
+  }
+
+  .card-hover {
+    @apply transition-all duration-200 hover:shadow-lifted hover:-translate-y-0.5;
+  }
+
+  .page-title {
+    @apply text-[26px] font-bold tracking-tight text-ink-primary leading-tight;
+  }
+
+  .page-subtitle {
+    @apply text-sm text-ink-secondary max-w-2xl leading-relaxed;
+  }
+
+  .section-label {
+    @apply text-[11px] font-bold uppercase tracking-[0.08em] text-ink-muted;
+  }
+
+  .card-title {
+    @apply text-[15px] font-bold text-ink-primary tracking-tight;
+  }
+
+  .card-subtitle {
+    @apply text-xs text-ink-muted mt-0.5 leading-snug;
+  }
+
+  .badge {
+    @apply inline-flex items-center gap-1.5 rounded-full px-2.5 py-1 text-[11px] font-semibold leading-none;
+  }
+
+  .chip {
+    @apply inline-flex items-center gap-1.5 rounded-lg px-2 py-1 text-[11px] font-semibold leading-none;
+  }
+
+  .callout {
+    @apply rounded-xl2 border border-line-hairline bg-surface-sunken px-4 py-3.5 text-[13px] text-ink-secondary leading-relaxed;
+  }
+
+  .nav-link {
+    @apply relative flex items-center gap-3 rounded-xl2 px-3 py-2.5 text-sm font-semibold text-ink-secondary transition-all duration-150 hover:bg-surface-sunken hover:text-ink-primary;
+  }
+
+  .nav-link-active {
+    @apply bg-brand-500 text-white shadow-soft hover:bg-brand-500 hover:text-white;
+  }
+
+  .kpi-value {
+    @apply text-[28px] font-extrabold tracking-tight text-ink-primary leading-none;
+  }
+
+  .link-emerald {
+    @apply font-semibold text-brand-600 transition-colors hover:text-brand-700;
+  }
+}
+
+/* Scrollbar sutil */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #d5dad5;
+  border-radius: 999px;
+  border: 3px solid transparent;
+  background-clip: content-box;
+}
+::-webkit-scrollbar-thumb:hover {
+  background-color: #b9c0b9;
+  background-clip: content-box;
+}
+
+/* Recharts hereda la tipografía y limpia el foco */
+.recharts-wrapper,
+.recharts-surface text {
+  font-family: inherit;
+}
+.recharts-wrapper:focus,
+.recharts-surface:focus,
+.recharts-sector:focus,
+.recharts-rectangle:focus {
+  outline: none;
+}
+.recharts-default-tooltip {
+  border-radius: 12px !important;
+}

@@ -1,0 +1,33 @@
+{
+  "total_contratos": 119189,
+  "total_contratado_cop": 8943720439629,
+  "total_pagado_cop": 1059965488803,
+  "total_facturado_cop": 1433617117983,
+  "total_pendiente_ejecucion_cop": 7883754950826,
+  "total_pyme_cop": 2959451952137,
+  "n_contratos_pyme": 12712,
+  "pct_valor_pyme": 33.1,
+  "persona_natural": {
+    "n_contratos": 106434,
+    "valor_cop": 1464343306010,
+    "pct_contratos": 89.3,
+    "pct_valor": 16.4
+  },
+  "persona_juridica": {
+    "n_contratos": 12755,
+    "valor_cop": 7479377133619,
+    "pct_contratos": 10.7,
+    "pct_valor": 83.6
+  },
+  "periodo": {
+    "desde": "2020-01-01",
+    "hasta": "2026-09-22"
+  },
+  "fecha_corte_descarga": "2026-09-26",
+  "calidad_datos": {
+    "registros_excluidos_outliers": 73,
+    "criterio_outlier": "valor_del_contrato > 50.000 millones COP en un solo contrato (0.06% de los registros); se verificó que corresponden a errores de digitación, no a contratos reales",
+    "registros_valor_cero_excluidos": 2508,
+    "pct_contratos_con_pago_registrado": null
+  }
+}

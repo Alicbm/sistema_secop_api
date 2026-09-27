@@ -1,0 +1,62 @@
+[
+  {
+    "modalidad": "Contratación régimen especial",
+    "n_contratos": 61959,
+    "valor_cop": 2812284706736
+  },
+  {
+    "modalidad": "Contratación directa",
+    "n_contratos": 48065,
+    "valor_cop": 2516489346305
+  },
+  {
+    "modalidad": "Licitación pública Obra Publica",
+    "n_contratos": 86,
+    "valor_cop": 936569823095
+  },
+  {
+    "modalidad": "Contratación régimen especial (con ofertas)",
+    "n_contratos": 489,
+    "valor_cop": 730885148442
+  },
+  {
+    "modalidad": "Licitación pública",
+    "n_contratos": 97,
+    "valor_cop": 623344101973
+  },
+  {
+    "modalidad": "Selección abreviada subasta inversa",
+    "n_contratos": 188,
+    "valor_cop": 223382643240
+  },
+  {
+    "modalidad": "Concurso de méritos abierto",
+    "n_contratos": 85,
+    "valor_cop": 157944546180
+  },
+  {
+    "modalidad": "Selección Abreviada de Menor Cuantía",
+    "n_contratos": 308,
+    "valor_cop": 146281874567
+  },
+  {
+    "modalidad": "Mínima cuantía",
+    "n_contratos": 2941,
+    "valor_cop": 111293459578
+  },
+  {
+    "modalidad": "Seleccion Abreviada Menor Cuantia Sin Manifestacion Interes",
+    "n_contratos": 10,
+    "valor_cop": 80187586491
+  },
+  {
+    "modalidad": "Contratación Directa (con ofertas)",
+    "n_contratos": 50,
+    "valor_cop": 38806708365
+  },
+  {
+    "modalidad": "No Definido",
+    "n_contratos": 1,
+    "valor_cop": 30000000
+  }
+]
